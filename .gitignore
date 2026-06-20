@@ -1,0 +1,6 @@
+.DS_Store
+.daily_state.json
+*.log
+launchd.*.log
+token-refresh*.log
+tastings/
