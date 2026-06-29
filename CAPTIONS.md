@@ -204,7 +204,7 @@ Una luz cálida en cada planta. La sensación de que el sitio es tuyo. Porque lo
 
 ---
 
-## 24 SURROUNDINGS POSTS
+## 30 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -337,6 +337,42 @@ Abuelos, padres y niños, todos bajo el mismo techo. 👨‍👩‍👧‍👦
 4 suites, 8 huéspedes, jardín y campo alrededor: una escapada multigeneracional donde cada edad encuentra su sitio y la familia se reúne sin renunciar a nada.
 Reserva en el link de la bio.
 #PalacioDeManzanos #VacacionesFamilia #Rioja #LaRioja #FamilyTravel #LuxuryRental #PalacioPrivado #VisitSpain
+
+### s25 · Viñedos bajo la Sierra de Cantabria (`s25-sierra-cantabria.jpg`)
+Hileras de cepas y, al fondo, la Sierra de Cantabria. ⛰️
+Este es el paisaje que rodea al Palacio: el viñedo riojano protegido por la montaña, donde nacen los grandes tintos y donde tu equipo —o tu familia— respira lejos del ruido.
+Reserva en el link de la bio.
+#PalacioDeManzanos #SierraDeCantabria #Rioja #LaRioja #WineCountry #Vinedos #EnoturismoLujo #VisitSpain
+
+### s26 · El Guggenheim, a un paso (`s26-guggenheim-bilbao.jpg`)
+Del viñedo al Guggenheim en poco más de una hora. 🏛️
+La Ruta Norte combina Rioja, Bilbao y la costa vasca en un mismo viaje: arte, arquitectura de titanio y pintxos junto a la ría. El Palacio es tu base perfecta para recorrerla.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Bilbao #Guggenheim #RutaNorte #PaisVasco #LaRioja #VisitSpain #TravelSpain
+
+### s27 · Verano entre viñedos (`s27-verano-vinedos-campo.jpg`)
+Verano en Rioja: campo, viñedo y vida al aire libre. ☀️🍇
+Días largos entre cepas verdes, comidas en el jardín y noches templadas bajo las estrellas. Una escapada familiar donde el campo es el patio de juegos y el palacio, el refugio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VeranoEnRioja #Rioja #LaRioja #VacacionesFamilia #WineCountry #LuxuryRental #VisitSpain
+
+### s28 · La Plaza de la Paz de Haro (`s28-plaza-de-la-paz.jpg`)
+El corazón de Haro late en la Plaza de la Paz. 🏛️
+Soportales, terrazas y el bullicio de la capital del vino de Rioja. A pocos minutos del Palacio, es el punto de partida perfecto para un fin de semana de vino, tapas y casco histórico.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PlazaDeLaPaz #Rioja #LaRioja #FinDeSemana #EnoturismoLujo #VisitSpain
+
+### s29 · Haro de tapa en tapa (`s29-haro-gastronomia.jpg`)
+Vino, tapas y cultura: el plan perfecto en Haro. 🍷
+Bares centenarios, pinchos de autor y bodegas a la vuelta de la esquina. Haro se recorre de mesa en mesa, copa en mano, y desde el Palacio lo tienes todo a un paseo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Gastronomia #Tapas #Rioja #LaRioja #VinoDeRioja #VisitSpain
+
+### s30 · Un palacio, no un hotel (`s30-palacio-vs-hotel.jpg`)
+¿Por qué una habitación de hotel cuando puedes tener el palacio entero? 🔑
+Sin recepción, sin pasillos compartidos, sin horarios. Una villa clásica solo para tu grupo: tus llaves, tu cocinero, tu ritmo. La alternativa al hotel de lujo en plena Rioja.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #AlquilerPalacio #LaRioja #Rioja #LuxuryRental #VillaPrivada #VisitSpain
 
 ---
 
