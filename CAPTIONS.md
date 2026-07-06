@@ -204,7 +204,7 @@ Una luz cálida en cada planta. La sensación de que el sitio es tuyo. Porque lo
 
 ---
 
-## 30 SURROUNDINGS POSTS
+## 36 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -373,6 +373,42 @@ Reserva en el link de la bio.
 Sin recepción, sin pasillos compartidos, sin horarios. Una villa clásica solo para tu grupo: tus llaves, tu cocinero, tu ritmo. La alternativa al hotel de lujo en plena Rioja.
 Reserva en el link de la bio.
 #PalacioDeManzanos #PalacioPrivado #AlquilerPalacio #LaRioja #Rioja #LuxuryRental #VillaPrivada #VisitSpain
+
+### s31 · Un palacio, no una habitación (`s31-siete-cosas-hotel.jpg`)
+Siete cosas que un palacio te da y un hotel jamás podrá. 🕯️
+Un comedor de gala solo para tu grupo, tu chef privado, el silencio de una villa entera sin recepción ni pasillos compartidos. En el Palacio de Manzanos no reservas una habitación: reservas el palacio completo, a tu ritmo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #AlquilerPalacio #LaRioja #Rioja #LuxuryRental #VillaPrivada #VisitSpain
+
+### s32 · Bodegas centenarias de Haro (`s32-bodegas-cuantas-hay.jpg`)
+¿Sabes cuántas bodegas centenarias hay en Haro? 🍷
+El Barrio de la Estación reúne la mayor concentración de bodegas centenarias del mundo, muchas a un paseo del Palacio. Calados históricos, barricas de roble y catas privadas que solo Rioja te puede dar.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #BarrioDeLaEstacion #Rioja #LaRioja #Enoturismo #BodegasCentenarias #VisitSpain
+
+### s33 · Enoturismo al atardecer (`s33-experiencias-atardecer.jpg`)
+La mejor copa de Rioja es la que se bebe al atardecer. 🌅
+Viñedos teñidos de dorado, una copa en la mano y el silencio del campo riojano. Las experiencias de enoturismo de lujo empiezan al caer el sol, y desde el Palacio las tienes a la puerta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #EnoturismoLujo #Rioja #LaRioja #Atardecer #VinoDeRioja #Vinedos #VisitSpain
+
+### s34 · Vendimia al amanecer (`s34-vendimia-amanecer.jpg`)
+La vendimia empieza cuando aún no ha salido el sol. 🍇
+Al amanecer, cuando la uva conserva el frescor de la noche, los viñedos de Rioja se llenan de manos y cestas. Vivir la cosecha desde el Palacio es asomarse al momento más mágico del año vinícola.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #Rioja #LaRioja #Cosecha #Vinedos #Enoturismo #VisitSpain
+
+### s35 · Calados históricos de Haro (`s35-calado-historico.jpg`)
+Bajo Haro late un mundo subterráneo de calados centenarios. 🛢️
+Túneles excavados a mano, barricas de roble y el silencio fresco donde el vino de Rioja duerme durante años. Nuestra guía te dice cuáles visitar, todos a pocos minutos del Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Calados #Rioja #LaRioja #BodegasCentenarias #Enoturismo #VisitSpain
+
+### s36 · Vivir la vendimia en otoño (`s36-vendimia-otono.jpg`)
+Otoño en Rioja huele a mosto y a hoja de parra. 🍂
+Es la estación de la vendimia: viñedos en cobre y oro, la cosecha en marcha y el mejor momento para vivir Rioja de verdad. Una escapada de otoño al Palacio, entre viñas y bodegas centenarias.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #Otono #Rioja #LaRioja #Enoturismo #Vinedos #VisitSpain
 
 ---
 
