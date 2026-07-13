@@ -204,7 +204,7 @@ Una luz cálida en cada planta. La sensación de que el sitio es tuyo. Porque lo
 
 ---
 
-## 36 SURROUNDINGS POSTS
+## 42 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -409,6 +409,43 @@ Otoño en Rioja huele a mosto y a hoja de parra. 🍂
 Es la estación de la vendimia: viñedos en cobre y oro, la cosecha en marcha y el mejor momento para vivir Rioja de verdad. Una escapada de otoño al Palacio, entre viñas y bodegas centenarias.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Vendimia #Otono #Rioja #LaRioja #Enoturismo #Vinedos #VisitSpain
+
+### s37 · Experiencias más allá de la cata (`s37-experiencias-globo.jpg`)
+En Rioja el vino es solo el principio. 🎈
+Sobrevolar los viñedos en globo al amanecer, pasear entre viñas centenarias, catas privadas al atardecer... Hay un mundo de experiencias esperándote, y el Palacio de Manzanos es el mejor punto de partida para vivirlas todas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #EnoturismoDeLujo #Rioja #LaRioja #Vinedos #Experiencias #Haro #VisitSpain
+
+### s38 · Visitar las bodegas de Haro (`s38-visitar-bodegas-haro.jpg`)
+El Barrio de la Estación de Haro reúne algunas de las bodegas más legendarias del mundo. 🍷
+Catas guiadas, calados centenarios y grandes reservas para descubrir con calma. Todas a pocos minutos del Palacio: sal por la mañana, vuelve a tu palacio privado por la tarde.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #BarrioDeLaEstacion #Rioja #LaRioja #BodegasCentenarias #Enoturismo #VisitSpain
+
+### s39 · Fechas de la vendimia 2026 (`s39-vendimia-fechas-2026.jpg`)
+Cada septiembre Rioja se pone en marcha con la vendimia. 🍇
+Es el momento en que los viñedos se llenan de vida, el mosto perfuma el aire y la región vive su fiesta más auténtica. Planifica tu escapada de otoño y vívela desde el Palacio, entre viñas y bodegas centenarias.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia2026 #Rioja #LaRioja #Cosecha #Vinedos #Enoturismo #VisitSpain
+
+### s40 · Retiros corporativos y team building (`s40-retiro-team-building.jpg`)
+El mejor offsite no se celebra en una sala de reuniones. 🥂
+Un palacio privado en Rioja para tu equipo: espacios de trabajo, cenas con chef, catas en bodega y viñedos alrededor. Cohesión, resultados y una experiencia que nadie olvidará.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RetirosCorporativos #TeamBuilding #Offsite #Rioja #LaRioja #Enoturismo #VisitSpain
+
+### s41 · La Ruta Norte en 3 días (`s41-ruta-norte-3dias.jpg`)
+San Sebastián, Bilbao y Rioja, más cerca de lo que imaginas. 🌊
+En apenas tres días recorres la bahía de La Concha, el Guggenheim y los viñedos riojanos. Y cada noche vuelves a tu base: el Palacio de Manzanos, en el corazón de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RutaNorte #SanSebastian #Bilbao #Rioja #LaRioja #Enoturismo #VisitSpain
+
+### s42 · Vacaciones en familia en un palacio privado (`s42-familia-palacio.jpg`)
+Todos bajo el mismo techo, en un palacio para vosotros solos. 👨‍👩‍👧‍👦
+Nada de habitaciones dispersas ni horarios de hotel: espacio de sobra, jardín, viñedos alrededor y la libertad de estar juntos. La mejor opción para una escapada familiar por los viñedos de Rioja.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VacacionesEnFamilia #PalacioPrivado #Rioja #LaRioja #Vinedos #Haro #VisitSpain
+
 
 ---
 
