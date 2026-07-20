@@ -204,7 +204,7 @@ Una luz cálida en cada planta. La sensación de que el sitio es tuyo. Porque lo
 
 ---
 
-## 42 SURROUNDINGS POSTS
+## 48 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -445,6 +445,42 @@ Todos bajo el mismo techo, en un palacio para vosotros solos. 👨‍👩‍👧
 Nada de habitaciones dispersas ni horarios de hotel: espacio de sobra, jardín, viñedos alrededor y la libertad de estar juntos. La mejor opción para una escapada familiar por los viñedos de Rioja.
 Reserva en el link de la bio.
 #PalacioDeManzanos #VacacionesEnFamilia #PalacioPrivado #Rioja #LaRioja #Vinedos #Haro #VisitSpain
+
+### s43 · Cómo planificar tu escapada de enoturismo (`s43-planificar-enoturismo.jpg`)
+Planificar bien una escapada de vino es la mitad del viaje. 🍷
+Elige las bodegas con calma, reserva las catas con antelación y deja huecos para lo imprevisto: un calado centenario, una mesa larga, una botella abierta sin prisa. En el Palacio tienes la base perfecta para hacerlo a tu ritmo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Enoturismo #Rioja #LaRioja #Haro #Vinos #Bodegas #VisitSpain
+
+### s44 · Cuánto cuesta un retiro corporativo (`s44-retiro-cuanto-cuesta.jpg`)
+La pregunta no es cuánto cuesta, sino cuánto vale. 🥂
+Un palacio privado en Rioja para tu equipo entero: alojamiento, espacios de trabajo, cenas alrededor de una mesa larga y bodegas centenarias a un paso. Todo bajo un mismo techo y un solo presupuesto.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RetirosCorporativos #Offsite #TeamBuilding #Rioja #LaRioja #Enoturismo #VisitSpain
+
+### s45 · Dónde alojarse para recorrer el norte (`s45-donde-alojarse-norte.jpg`)
+Una sola base para descubrir todo el norte. 🗺️
+San Sebastián, Bilbao y los viñedos de Rioja están más cerca de lo que crees. Duerme en Haro, en un palacio para ti solo, y sal cada mañana a un plan distinto sin deshacer la maleta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RutaNorte #Haro #Rioja #LaRioja #SanSebastian #Bilbao #VisitSpain
+
+### s46 · Participar en la vendimia 2026 (`s46-participar-vendimia.jpg`)
+Coger la tijera y vendimiar con tus propias manos. 🍇
+Cada septiembre Rioja se llena de manos, cestas y mosto en el aire. Vive la cosecha de 2026 desde dentro y vuelve al Palacio a celebrarlo con una copa del vino que nace de estas mismas viñas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia2026 #Cosecha #Rioja #LaRioja #Vinedos #Enoturismo #VisitSpain
+
+### s47 · Planes al aire libre con niños (`s47-familia-aire-libre.jpg`)
+Rioja también se disfruta en familia, y al aire libre. 👨‍👩‍👧‍👦
+Paseos junto al Ebro, viñedos para correr, tardes de jardín y pueblos con historia a pocos minutos. Un palacio privado donde los niños tienen sitio de sobra y los mayores, tiempo para respirar.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VacacionesEnFamilia #Rioja #LaRioja #Haro #AireLibre #Vinedos #VisitSpain
+
+### s48 · Un fin de semana en Haro (`s48-haro-mercadillo.jpg`)
+Haro se vive en la calle. 🍷
+Bodegas centenarias por la mañana, mercadillo y casco histórico a mediodía, mesas al sol y vino de la tierra por la tarde. Un fin de semana que cabe en dos días y se recuerda mucho más.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Rioja #LaRioja #FinDeSemana #Bodegas #Enoturismo #VisitSpain
 
 
 ---
