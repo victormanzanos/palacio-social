@@ -204,7 +204,7 @@ Una luz cálida en cada planta. La sensación de que el sitio es tuyo. Porque lo
 
 ---
 
-## 48 SURROUNDINGS POSTS
+## 54 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -481,6 +481,42 @@ Haro se vive en la calle. 🍷
 Bodegas centenarias por la mañana, mercadillo y casco histórico a mediodía, mesas al sol y vino de la tierra por la tarde. Un fin de semana que cabe en dos días y se recuerda mucho más.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #Rioja #LaRioja #FinDeSemana #Bodegas #Enoturismo #VisitSpain
+
+### s49 · Ruta de pintxos en San Sebastián (`s49-ruta-pintxos-donostia.jpg`)
+Una barra, un txikito y un pintxo en la mano. 🍢
+La Parte Vieja de Donostia se recorre pintxo a pintxo, sin prisa y sin reserva. Sube a la costa por la mañana y vuelve al Palacio por la tarde, a media hora de casa, para brindar con un Rioja en tu propio salón.
+Reserva en el link de la bio.
+#PalacioDeManzanos #SanSebastian #Donostia #Pintxos #RutaNorte #Rioja #LaRioja #VisitSpain
+
+### s50 · Cuántos días para un viaje en familia (`s50-familia-cuantos-dias.jpg`)
+¿Cuántos días necesitas para venir con los niños? 👨‍👩‍👧‍👦
+Con tres bien organizados sobra: un día de viñedo y paseos junto al Ebro en Briñas, otro para Haro y sus bodegas, y otro de costa o piscina. Un palacio para vosotros solos donde cada generación encuentra su ritmo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VacacionesEnFamilia #Rioja #LaRioja #Haro #Vinedos #Ebro #VisitSpain
+
+### s51 · Dónde comer en Haro (`s51-donde-comer-haro.jpg`)
+Chuletillas al sarmiento y una copa de la tierra. 🥩
+La cocina riojana se disfruta sin artificios: verduras de temporada, patatas a la riojana, cordero y buen vino en cada mesa. Come en el casco de Haro a mediodía y reserva la sobremesa para el jardín del Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Rioja #LaRioja #GastronomiaRiojana #Chuletillas #Enoturismo #VisitSpain
+
+### s52 · Vendimia 2026: cuándo reservar (`s52-vendimia-cuando-reservar.jpg`)
+La vendimia se reserva en verano, no en septiembre. 🍇
+Las mejores fechas de la cosecha de 2026 vuelan con meses de antelación. Bloquea ahora tu ventana de otoño y vive la recogida de la uva desde dentro, con el Palacio entero esperándote para celebrarlo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia2026 #Cosecha #Rioja #LaRioja #Vinedos #Enoturismo #VisitSpain
+
+### s53 · Preguntas antes de reservar (`s53-preguntas-antes-reservar.jpg`)
+¿Todo el palacio es solo para tu grupo? Sí. 🏰
+Cuántos huéspedes, qué incluye, cómo funciona la privacidad… Las dudas de siempre antes de reservar un palacio privado, resueltas: un patio, un salón noble y una casa del XVIII enteramente para los tuyos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #Haro #Rioja #LaRioja #AlquilerDeLujo #LuxuryRental #VisitSpain
+
+### s54 · Los calados subterráneos de Haro (`s54-calados-subterraneos.jpg`)
+Bajo Haro hay túneles de piedra llenos de barricas. 🛢️
+Los calados centenarios guardan el vino en silencio y penumbra desde hace generaciones. Visítalos en una cata privada y duerme a pocos metros, en un palacio con su propia historia bajo tierra.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Calados #Bodegas #Haro #Rioja #LaRioja #Enoturismo #VisitSpain
 
 
 ---
