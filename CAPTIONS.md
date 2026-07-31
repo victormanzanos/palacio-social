@@ -18,21 +18,21 @@ manteniendo siempre `#PalacioDeManzanos`):
 ## 36 POSTS
 
 ### 01 · Fachada (`01-fachada.jpg`)
-Bienvenidos a un palacio noble de 1733 en pleno centro de Haro.
-350 m² de historia restaurada, exclusivamente tuyos.
+Un palacio noble de 1733 en pleno centro de Haro.
+350 m² de historia restaurada, exclusivamente para tu grupo.
 Donde el vino, la historia y el lujo se encuentran 🍷
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #LaRioja #LuxuryRental #PalacioPrivado #VisitSpain #WineCountry #HaroRioja
 
 ### 02 · Salón con piano (`02-salon-piano.jpg`)
-El salón noble donde el día acaba con un piano de cola y una copa de Rioja.
+El salón noble, con su piano de cola y los balcones asomados a Haro.
 Sin recepción, sin horarios, sin compartir. Tu palacio, tu ritmo.
 Reserva en el link de la bio.
 #PalacioDeManzanos #PalacioPrivado #LuxuryTravel #Rioja #EscapadaDeLujo #LuxurySpain #Haro #BoutiqueHotel
 
-### 03 · Recibidor (`03-recibidor.jpg`)
-El primer paso dentro del palacio. Suelos restaurados, techos altos, silencio.
-Algo cambia cuando entras. Lo notas enseguida.
+### 03 · Fachada barroca (`03-recibidor.jpg`)
+Fachada barroca del XVIII con su escudo de armas, en el corazón de Haro.
+A cinco minutos andando de las bodegas centenarias del Barrio de la Estación.
 #PalacioDeManzanos #PalacioPrivado #LaRioja #Haro #LuxuryRental #FineHospitality #BoutiqueHotel #VisitSpain
 
 ### 04 · Salón noble (`04-salon-noble.jpg`)
@@ -41,97 +41,96 @@ Restaurado con respeto, equipado con todo lo que un hotel boutique de 5 estrella
 Reserva el palacio completo en bio.
 #PalacioDeManzanos #BoutiqueHotel #LuxuryTravel #Haro #PalacioPrivado #LaRioja #ExclusiveStay #WineCountry
 
-### 05 · Vista de Haro (`05-vista-haro.jpg`)
-Vistas al casco histórico de Haro desde la planta noble.
-A 5 minutos andando de las bodegas centenarias del Barrio de la Estación.
-#Haro #HaroRioja #BarrioDeLaEstacion #LaRioja #VisitHaro #PalacioDeManzanos #WineCountry #EnoturismoLujo
+### 05 · Desayuno en familia (`05-vista-haro.jpg`)
+Desayunos sin prisa alrededor de la mesa.
+El palacio entero para los tuyos: cocina equipada, mesa grande y tiempo de sobra.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VacacionesFamilia #Haro #LaRioja #FamilyTravel #LuxuryRental #PalacioPrivado #VisitSpain
 
-### 06 · Pasillo (`06-pasillo.jpg`)
-Hay palacios. Y hay palacios que han sido cuidadosamente devueltos a la vida.
-Cada detalle elegido para que sientas el peso de tres siglos sin renunciar a nada moderno.
+### 06 · Comedor y mural de la vendimia (`06-pasillo.jpg`)
+El comedor del palacio, presidido por un mural dedicado a la vendimia riojana.
+Mesa para todo el grupo, luz natural y tres siglos de historia alrededor.
 #PalacioDeManzanos #PalacioPrivado #Haro #LaRioja #BoutiqueHotel #LuxuryRental #VisitSpain #FineHospitality
 
 ### 07 · Suite Ático (`07-suite-atico.jpg`)
-La Suite Ático. Cama King Size 200 cm, vista al casco antiguo, baño privado.
-La habitación más solicitada del palacio.
-Reserva el palacio entero (4 suites · 8 huéspedes) en bio.
+La Suite Ático. Cama King Size 200 cm bajo vigas de madera originales, con escritorio y claraboyas.
+Una de las cuatro suites del palacio (8 huéspedes en total).
+Reserva en bio.
 #PalacioDeManzanos #LuxuryRental #Suite #Haro #LaRioja #PalacioPrivado #EscapadaDeLujo #BoutiqueHotel
 
-### 08 · Suite King (`08-suite-king.jpg`)
-Camas vestidas para descansar de verdad.
-Algodón de lujo, almohadas elegidas a mano, oscuridad total.
-Después de un día por bodegas, esto es lo que pides.
+### 08 · Camas King Size (`08-suite-king.jpg`)
+Dos de las suites tienen cama King Size de 200 cm (Ático y Chardonnay).
+Ropa de cama premium, almohadas a la carta, mantelería de algodón egipcio.
 #PalacioDeManzanos #Suite #LuxuryRental #Rioja #Haro #EnoturismoLujo #BoutiqueHotel #FineHospitality
 
-### 09 · Suite cama (`09-suite-cama.jpg`)
-Cada una de las 4 suites tiene baño propio. Sin colas, sin esperar, sin compartir.
+### 09 · Cada suite, su baño (`09-suite-cama.jpg`)
+Las 4 suites tienen baño propio en suite. Sin colas, sin esperar, sin compartir.
 Para hasta 8 huéspedes — el palacio entero.
 #PalacioDeManzanos #PalacioPrivado #Suite #LuxuryTravel #Haro #LaRioja #ExclusiveStay #LuxurySpain
 
 ### 10 · Suite Chardonnay (`10-suite-chardonnay.jpg`)
-La Suite Chardonnay. Cama King, luz natural, mirando al palacio.
-Las 4 suites están bautizadas con los nombres de uvas riojanas.
+La Suite Chardonnay. Cama King Size 200 cm y mucha luz natural.
+Las cuatro suites llevan nombres de uvas riojanas.
 #PalacioDeManzanos #Suite #Chardonnay #Rioja #LaRioja #Haro #LuxuryRental #VinoDeRioja
 
 ### 11 · Suite Viura (`11-suite-viura.jpg`)
-La Suite Viura. Cama Queen, ambiente recogido, vistas al patio interior.
+La Suite Viura. Cama Queen Size 150 cm, ambiente recogido y cabecero en verde oliva.
 Como una novela leída despacio.
 #PalacioDeManzanos #Suite #Viura #Rioja #LaRioja #Haro #LuxuryRental #BoutiqueHotel
 
 ### 12 · Suite Tempranillo (`12-suite-tempranillo.jpg`)
-La Suite Tempranillo. Cama Queen, tonos cálidos, la elegancia tranquila de la uva que da nombre al Rioja.
+La Suite Tempranillo. Cama Queen Size 150 cm y tonos cálidos, la elegancia de la uva que da nombre al Rioja.
 #PalacioDeManzanos #Suite #Tempranillo #VinoDeRioja #Rioja #Haro #LuxuryRental #PalacioPrivado
 
-### 13 · Suite detalle (`13-suite-detalle.jpg`)
-Los detalles importan. Textiles elegidos, mobiliario restaurado, iluminación cálida.
+### 13 · Detalles de suite (`13-suite-detalle.jpg`)
+Los detalles importan. Cabeceros vestidos, textiles elegidos, mesillas con vela e iluminación cálida.
 #PalacioDeManzanos #FineHospitality #LuxuryRental #Suite #BoutiqueHotel #Haro #LaRioja #ExclusiveStay
 
 ### 14 · Sauna (`14-sauna.jpg`)
-La sauna privada. Solo para tu grupo. Sin horarios. Sin reservar turno.
-Wellness de verdad: cuando quieres, todo el tiempo que quieras.
+La sauna de infrarrojos privada. Solo para tu grupo. Sin horarios, sin reservar turno.
+Wellness de verdad: cuando quieras, el tiempo que quieras.
 Reserva tu palacio en bio.
 #PalacioDeManzanos #Wellness #SaunaPrivada #LuxuryRental #SpaPrivado #Haro #LaRioja #EscapadaDeLujo
 
-### 15 · Jacuzzi (`15-jacuzzi.jpg`)
-Jacuzzi de mosaico artesanal — uno de los rincones favoritos del palacio.
-Después de un día por viñedos, esto es donde acaba la jornada.
-#PalacioDeManzanos #Jacuzzi #SpaPrivado #Wellness #LuxuryRental #Rioja #Haro #PalacioPrivado
-
-### 16 · Gimnasio (`16-gimnasio.jpg`)
-Gimnasio equipado 24/7 — elíptica, cinta, remo, pesas.
-Tu rutina, tu horario. Sin compartir con nadie.
+### 15 · Gimnasio 24/7 (`15-jacuzzi.jpg`)
+Gimnasio privado abierto 24/7 — elíptica, cinta y máquina de remo.
+Tu rutina, tu horario, sin compartir con nadie.
 #PalacioDeManzanos #Gym #Fitness #Wellness #LuxuryRental #Haro #LaRioja #PalacioPrivado
 
-### 17 · Spa detalle (`17-spa-detalle.jpg`)
-Zona wellness diseñada como santuario privado.
+### 16 · Zona relax (`16-gimnasio.jpg`)
+La zona wellness, pensada como un santuario privado: tumbonas de madera junto a la sauna.
+A veces lo mejor del lujo es no tener que hacer nada.
+#PalacioDeManzanos #Wellness #Relax #LuxuryTravel #Haro #LaRioja #PalacioPrivado #EscapadaDeLujo
+
+### 17 · Baño de mosaico (`17-spa-detalle.jpg`)
+Baños de diseño en un palacio histórico: mosaico artesanal, grifería dorada y velas.
 Solo para los huéspedes del palacio.
 #PalacioDeManzanos #SpaPrivado #Wellness #LuxuryRental #FineHospitality #Haro #LaRioja #EscapadaDeLujo
 
-### 18 · Zona relax (`18-relax.jpg`)
-A veces lo mejor del lujo es no tener que hacer nada.
-Una tumbona, silencio, una buena copa.
-#PalacioDeManzanos #Wellness #Relax #LuxuryTravel #Haro #LaRioja #PalacioPrivado #EscapadaDeLujo
+### 18 · Bañera exenta (`18-relax.jpg`)
+Bañera exenta con pared de mosaico artesanal en la Suite Ático.
+Sales, una copa de Rioja, silencio.
+#PalacioDeManzanos #Bathtub #Wellness #LuxuryRental #Suite #Haro #LaRioja #EscapadaDeLujo
 
-### 19 · Sala de cine (`19-cine.jpg`)
-Sala de cine privada en el palacio.
-Pantalla grande, butacas, pop-corn si lo pides.
-Otra cosa que un hotel boutique no te da.
-#PalacioDeManzanos #PrivateCinema #LuxuryRental #PalacioPrivado #Haro #LaRioja #BoutiqueHotel #ExclusiveStay
-
-### 20 · Billar (`20-billar.jpg`)
-Mesa de billar en el salón de juegos.
+### 19 · Sala de juegos (`19-cine.jpg`)
+Mesa de billar y proyector de cine en la sala de juegos.
 Las noches en el palacio nunca son cortas.
-#PalacioDeManzanos #Billar #PalacioPrivado #LuxuryRental #Haro #LaRioja #EscapadaDeLujo #BoutiqueHotel
+#PalacioDeManzanos #Billar #PrivateCinema #PalacioPrivado #LuxuryRental #Haro #LaRioja #BoutiqueHotel
+
+### 20 · Ducha walk-in (`20-billar.jpg`)
+Ducha walk-in con grifería dorada y columna de lluvia.
+Detalles de hotel de 5 estrellas en cada uno de los 4 baños.
+#PalacioDeManzanos #Bathroom #LuxuryRental #Suite #FineHospitality #Haro #LaRioja #BoutiqueHotel
 
 ### 21 · Piano de cola (`21-piano-cola.jpg`)
 Piano de cola, restaurado, afinado, listo.
 Si alguien del grupo toca, el palacio adquiere otra dimensión.
 #PalacioDeManzanos #GrandPiano #Music #PalacioPrivado #LuxuryRental #Haro #LaRioja #FineHospitality
 
-### 22 · Juegos (`22-juegos.jpg`)
-Espacios pensados para que el grupo conviva sin estorbarse.
-Para jugar, para charlar, para reírse hasta tarde.
-#PalacioDeManzanos #PalacioPrivado #GroupStay #LuxuryRental #Haro #LaRioja #EscapadaDeLujo #ExclusiveStay
+### 22 · Rincón de desayuno (`22-juegos.jpg`)
+Cafetera, hervidor y tostadora sobre encimera de mármol: el rincón del desayuno en la cocina.
+Café recién hecho antes de salir a las bodegas.
+#PalacioDeManzanos #Cocina #LuxuryRental #Haro #LaRioja #FineHospitality #EscapadaDeLujo #WineCountry
 
 ### 23 · Cocina (`23-cocina.jpg`)
 Cocina totalmente equipada — sí, puedes cocinar en el palacio.
@@ -149,58 +148,56 @@ La mesa del palacio espera lo que quieras hacer con ella.
 #PalacioDeManzanos #FineDining #PalacioPrivado #LuxuryRental #Haro #LaRioja #FineHospitality #WineCountry
 
 ### 26 · Mesa noble (`26-mesa-noble.jpg`)
-La mesa principal: cenas maridaje con chef privado, comidas largas en familia, sobremesas que no terminan.
+La mesa principal, bajo el mural de la vendimia: cenas maridaje con chef privado y sobremesas que no terminan.
 #PalacioDeManzanos #DinnerTable #PrivateChef #LuxuryRental #Rioja #Haro #FineDining #EscapadaDeLujo
 
-### 27 · Baño de mármol (`27-bano-marmol.jpg`)
-Cuatro baños — uno por suite. Sin colas, sin compartir.
-Mármol, ducha de lluvia, productos de aseo elegidos para el palacio.
+### 27 · Baño de la Suite Ático (`27-bano-marmol.jpg`)
+El baño de la Suite Ático: bañera exenta y pared de mosaico artesanal bajo las vigas.
 #PalacioDeManzanos #Bathroom #LuxuryRental #Suite #FineHospitality #Haro #LaRioja #BoutiqueHotel
 
-### 28 · Baño con bañera (`28-bano-bañera.jpg`)
-Una buena bañera al final del día.
-Sales, una copa de Rioja, silencio.
+### 28 · Mosaico artesanal (`28-bano-bañera.jpg`)
+Mosaico artesanal, grifería dorada y velas: los baños del palacio, al detalle.
 #PalacioDeManzanos #Bathtub #Wellness #LuxuryRental #Suite #Haro #LaRioja #EscapadaDeLujo
 
-### 29 · Baño suite (`29-bano-suite.jpg`)
-Cada suite con su propio baño completo.
-Privacidad real, no de catálogo.
+### 29 · Dormitorio bajo cubierta (`29-bano-suite.jpg`)
+Dormir bajo las vigas originales del palacio, en la planta ático.
+Cada suite, su propio carácter.
 #PalacioDeManzanos #PalacioPrivado #Suite #LuxuryRental #BoutiqueHotel #Haro #LaRioja #ExclusiveStay
 
-### 30 · Llegada (`30-lifestyle-llegada.jpg`)
-Llegas al palacio. Cerradura inteligente, sin recepción.
+### 30 · Mañana en el palacio (`30-lifestyle-llegada.jpg`)
+Zumo recién hecho y la cocina para vosotros solos.
 A partir de aquí, el sitio es vuestro.
-#PalacioDeManzanos #PalacioPrivado #LuxuryArrival #LuxuryRental #SelfCheckIn #Haro #LaRioja #EscapadaDeLujo
+#PalacioDeManzanos #PalacioPrivado #LuxuryRental #Haro #LaRioja #EscapadaDeLujo #SelfCheckIn #FineHospitality
 
-### 31 · Copa de vino (`31-lifestyle-vino.jpg`)
+### 31 · Un brindis con Rioja (`31-lifestyle-vino.jpg`)
 Una copa de Rioja en el sitio donde más sentido tiene tomarla.
 Haro, capital del vino. Casa, palacio, base.
 #PalacioDeManzanos #Rioja #VinoDeRioja #WineLovers #EnoturismoLujo #Haro #LaRioja #WineCountry
 
-### 32 · Cena en el palacio (`32-lifestyle-cena.jpg`)
-Cena con chef privado en el salón noble.
-Lo organizamos: menú, vino, servicio. Tú pones la conversación.
-#PalacioDeManzanos #PrivateChef #FineDining #LuxuryRental #EnoturismoLujo #Haro #LaRioja #EscapadaDeLujo
+### 32 · Una copa en el salón (`32-lifestyle-cena.jpg`)
+Una copa en el salón noble, junto al piano.
+Sin horarios, sin prisa. El palacio entero, a tu ritmo.
+#PalacioDeManzanos #Rioja #LuxuryRental #EnoturismoLujo #Haro #LaRioja #EscapadaDeLujo #PalacioPrivado
 
-### 33 · Piano y vino (`33-lifestyle-piano.jpg`)
-Música, vino y palacio.
-Son las tres cosas que mejor van juntas en La Rioja.
-#PalacioDeManzanos #GrandPiano #Rioja #WineCountry #LuxuryTravel #Haro #LaRioja #FineHospitality
+### 33 · Niños al piano (`33-lifestyle-piano.jpg`)
+El piano del salón, en las mejores manos.
+Un palacio que funciona para todas las edades.
+#PalacioDeManzanos #GrandPiano #VacacionesFamilia #FamilyTravel #Haro #LaRioja #FineHospitality #PalacioPrivado
 
-### 34 · Balcón (`34-lifestyle-balcon.jpg`)
-Los balcones del palacio dan al corazón de Haro.
-Café por la mañana, vermut antes de comer, copa antes de cenar.
-#PalacioDeManzanos #Haro #HaroRioja #VisitHaro #LaRioja #PalacioPrivado #LuxuryRental #VisitSpain
+### 34 · Rincón de los niños (`34-lifestyle-balcon.jpg`)
+Espacio de juego para los más pequeños bajo las vigas del ático.
+Sitio de sobra para toda la familia, 350 m² para vosotros solos.
+#PalacioDeManzanos #VacacionesFamilia #FamilyTravel #Haro #LaRioja #PalacioPrivado #LuxuryRental #VisitSpain
 
-### 35 · Amigos en el palacio (`35-lifestyle-amigos.jpg`)
-El palacio funciona mejor con los tuyos dentro.
-Hasta 8 huéspedes, 4 suites, 350 m² para vosotros solos.
-#PalacioDeManzanos #PalacioPrivado #GroupStay #LuxuryRental #Haro #LaRioja #EscapadaDeLujo #ExclusiveStay
+### 35 · Wellness a tu ritmo (`35-lifestyle-amigos.jpg`)
+El gimnasio del palacio, cuando quieras y sin compartir.
+Wellness completo: sauna, gym y zona de relax, solo para tu grupo.
+#PalacioDeManzanos #Wellness #Gym #Fitness #LuxuryRental #Haro #LaRioja #EscapadaDeLujo
 
-### 36 · Noche (`36-lifestyle-noche.jpg`)
-El palacio de noche tiene otra calma.
-Una luz cálida en cada planta. La sensación de que el sitio es tuyo. Porque lo es.
-#PalacioDeManzanos #PalacioPrivado #LuxuryRental #Haro #LaRioja #BoutiqueHotel #LuxuryTravel #FineHospitality
+### 36 · Noche de juegos (`36-lifestyle-noche.jpg`)
+Una partida de billar para cerrar el día.
+El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Porque lo es.
+#PalacioDeManzanos #PalacioPrivado #Billar #LuxuryRental #Haro #LaRioja #BoutiqueHotel #LuxuryTravel
 
 ---
 
@@ -526,22 +523,22 @@ Reserva en el link de la bio.
 (Captions cortos — las stories admiten poco texto. Hashtag opcional.)
 
 ### 01 · `01-st-salon.jpg`
-El salón principal · Piano de cola · 350 m² para tu grupo
+El salón noble · piano de cola · 350 m² para tu grupo
 
 ### 02 · `02-st-sauna.jpg`
-Sauna privada — sin horarios, sin compartir
+Sauna de infrarrojos privada — sin horarios, sin compartir
 
 ### 03 · `03-st-cine.jpg`
-Sala de cine privada en el palacio
+Sala de juegos · billar y proyector de cine
 
 ### 04 · `04-st-suite-atico.jpg`
-Suite Ático · cama King · vista a Haro
+Suite Ático · cama King 200 · vigas originales
 
 ### 05 · `05-st-piano.jpg`
 Piano de cola restaurado · siempre afinado
 
 ### 06 · `06-st-cena.jpg`
-Cena con chef privado en el salón noble
+Una copa en el salón noble
 
 ### 07 · `07-st-fachada.jpg`
 Palacio de 1733 · centro histórico de Haro
@@ -550,13 +547,13 @@ Palacio de 1733 · centro histórico de Haro
 Vinoteca climatizada · cocina equipada
 
 ### 09 · `09-st-cata.jpg`
-Catas privadas en bodegas centenarias
+Un brindis con Rioja en el palacio
 
 ### 10 · `10-st-billar.jpg`
-Mesa de billar · noches en el palacio
+Noche de billar en el palacio
 
 ### 11 · `11-st-balcon.jpg`
-Balcones al corazón de Haro
+Rincón de juego para los niños
 
 ### 12 · `12-st-grupo.jpg`
 Hasta 8 huéspedes · el palacio completo para ti
