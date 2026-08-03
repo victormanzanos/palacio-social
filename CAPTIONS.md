@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 54 SURROUNDINGS POSTS
+## 60 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -514,6 +514,42 @@ Bajo Haro hay túneles de piedra llenos de barricas. 🛢️
 Los calados centenarios guardan el vino en silencio y penumbra desde hace generaciones. Visítalos en una cata privada y duerme a pocos metros, en un palacio con su propia historia bajo tierra.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Calados #Bodegas #Haro #Rioja #LaRioja #Enoturismo #VisitSpain
+
+### s55 · Un palacio entero, solo para los tuyos (`s55-palacio-patio-privado.jpg`)
+Olvídate del hotel: aquí la casa entera es tuya. 🏛️
+Patios de piedra, arcos labrados y salones nobles sin recepción, sin vecinos de habitación, sin horarios. Alquilar un palacio privado es cambiar la llave de una habitación por la de toda una casa histórica.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #Haro #Rioja #LaRioja #AlquilerDeLujo #LuxuryRental #VisitSpain
+
+### s56 · Haro en 48 horas (`s56-haro-48h-plaza.jpg`)
+Un fin de semana en Haro empieza en su plaza. 🎪
+Quiosco de música, soportales de piedra y terrazas de tapas alrededor: la capital del Rioja se recorre a pie, entre bodegas centenarias y buen vino. Dos días dan para mucho cuando duermes en el corazón del casco histórico.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Rioja #LaRioja #FinDeSemana #Enoturismo #EscapadaDeLujo #VisitSpain
+
+### s57 · Un brindis en Rioja (`s57-brindis-catas.jpg`)
+El mejor plan de Rioja cabe en una copa. 🍷
+Catas privadas, brindis al atardecer y vino que cuenta la historia de esta tierra. El enoturismo de lujo no es beber más, es beber mejor y en buena compañía, con el Palacio como base de la escapada.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Enoturismo #Cata #Rioja #LaRioja #VinoDeRioja #WineLovers #VisitSpain
+
+### s58 · Una mesa larga para tu equipo (`s58-retiro-mesa-larga.jpg`)
+Las mejores reuniones acaban alrededor de una mesa larga. 🍽️
+Un retiro corporativo en Rioja se organiza así: jornada de trabajo por la mañana, vino y sobremesa por la noche, todos bajo el mismo techo. El Palacio entero para tu equipo, sin distracciones y con el mejor Rioja en la mesa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RetiroCorporativo #Offsite #Rioja #LaRioja #TeamBuilding #EventosDeEmpresa #VisitSpain
+
+### s59 · La portada del palacio (`s59-portada-palacio-haro.jpg`)
+Un escudo de piedra sobre la puerta cuenta tres siglos de historia. 🛡️
+Columnas salomónicas, sillería labrada y un blasón que corona la entrada: así son las portadas de los palacios de Haro. Detrás de una puerta como esta te espera una casa noble entera para tu escapada.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #Haro #Rioja #LaRioja #Arquitectura #Patrimonio #VisitSpain
+
+### s60 · Atardecer sobre el Ebro (`s60-atardecer-ebro.jpg`)
+El sol se pone sobre el Ebro y Haro se queda en silencio. 🌅
+Entre chopos y reflejos dorados, la orilla del río es uno de los planes más bonitos al caer la tarde. Un paseo, una copa y de vuelta al palacio: así se cierra un día perfecto en Rioja.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Atardecer #Ebro #Haro #Rioja #LaRioja #Enoturismo #VisitSpain
 
 
 ---
