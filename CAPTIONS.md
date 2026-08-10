@@ -590,6 +590,67 @@ Reserva en el link de la bio.
 
 ---
 
+
+### px01 · Viñedos y Sierra (`px-vinedos-sierra.jpg`)
+Viñedos hasta donde alcanza la vista, con la sierra al fondo. 🍇
+El paisaje que rodea tu escapada al Palacio, en pleno corazón de Rioja.
+#PalacioDeManzanos #LaRioja #Rioja #Vinedos #WineCountry #EnoturismoLujo #VisitSpain #Paisaje
+
+### px02 · Barricas de roble (`px-barricas.jpg`)
+Una nave de barricas de roble, alineadas hasta el fondo. 🛢️
+La paciencia que hay detrás de cada Gran Reserva de Rioja.
+#PalacioDeManzanos #Barricas #Rioja #BodegasDeRioja #Roble #EnoturismoLujo #VinoDeRioja #WineLovers
+
+### px03 · Una copa de Rioja (`px-copa-tinto.jpg`)
+Una copa de Rioja y su decantador, al final del día. 🍷
+El mejor cierre para una jornada de viñedos y calados.
+#PalacioDeManzanos #VinoDeRioja #Rioja #WineLovers #CopaDeVino #EnoturismoLujo #TintoDeRioja #LaRioja
+
+### px04 · Vendimia (`px-uvas-vendimia.jpg`)
+Uva recién cortada, a mano, racimo a racimo. 🍇
+Septiembre y octubre son vendimia en Rioja: te organizamos la experiencia desde el Palacio.
+#PalacioDeManzanos #Vendimia #Tempranillo #Rioja #VendimiaRioja #Uvas #Otono #EnoturismoLujo
+
+### px05 · Entre las hileras (`px-atardecer-vinedo.jpg`)
+Entre las hileras del viñedo. 🍇
+El paisaje que rodea tu escapada al Palacio, en pleno corazón de Rioja.
+#PalacioDeManzanos #LaRioja #Vinedos #WineCountry #Rioja #Vinedo #EnoturismoLujo #VisitRioja
+
+### px06 · Añadas en el calado (`px-botellas-calado.jpg`)
+Añadas durmiendo en la penumbra del calado. 🍾
+Décadas de historia embotelladas, a pocos minutos del Palacio.
+#PalacioDeManzanos #Calado #Rioja #GranReserva #BodegasDeRioja #VinoDeRioja #EnoturismoLujo #WineCellar
+
+### px07 · El brindis (`px-brindis.jpg`)
+El brindis siempre es mejor en buena compañía. 🥂
+Reúne a los tuyos en un palacio para vosotros solos.
+#PalacioDeManzanos #Brindis #Rioja #Celebracion #EscapadaDeLujo #PalacioPrivado #WineLovers #LaRioja
+
+### px08 · Cocina del norte (`px-gastronomia.jpg`)
+La cocina del norte: producto, brasa y una buena copa al lado. 🍤
+De la ruta de tapas de Haro a los pintxos de San Sebastián.
+#PalacioDeManzanos #GastronomiaRioja #Tapas #Pintxos #FoodieSpain #NorteDeEspana #LaRioja #VisitSpain
+
+### px09 · Costa vasca (`px-costa-vasca.jpg`)
+La costa vasca, a hora y media del Palacio. 🌊
+Mar y acantilados por la mañana, pintxos al mediodía y de vuelta a Rioja para cenar.
+#PalacioDeManzanos #PaisVasco #CostaVasca #SanSebastian #NorteDeEspana #VisitSpain #LuxuryTravel #Escapada
+
+### px10 · Mosaico de viñedos (`px-mesa-vino.jpg`)
+El mosaico de viñedos y campos de Rioja desde el aire, en la hora dorada. ✨
+El paisaje que rodea tu escapada al Palacio.
+#PalacioDeManzanos #LaRioja #Vinedos #Rioja #WineCountry #GoldenHour #EnoturismoLujo #Paisaje
+
+### px11 · Cada estación su color (`px-vinedo-verano.jpg`)
+Las hojas del viñedo empezando a virar. 🍂
+Cada estación tiene su color en Rioja, y todas se disfrutan desde el Palacio.
+#PalacioDeManzanos #Rioja #LaRioja #Vinedos #Otono #WineCountry #EnoturismoLujo #VisitRioja
+
+### px12 · El arte de la cata (`px-cata.jpg`)
+El arte de la cata. 🍷
+Catas privadas en bodegas centenarias, organizadas desde el Palacio.
+#PalacioDeManzanos #CataDeVino #Rioja #EnoturismoLujo #WineTasting #VinoDeRioja #WineLovers #LaRioja
+
 ## 12 STORIES
 
 (Captions cortos — las stories admiten poco texto. Hashtag opcional.)
@@ -631,6 +692,25 @@ Rincón de juego para los niños
 Hasta 8 huéspedes · el palacio completo para ti
 
 ---
+
+
+### px13 · `px-st-vinedo-story.jpg`
+Viñedos de Rioja al atardecer 🍇
+
+### px14 · `px-st-copa-story.jpg`
+Una copa de Rioja 🍷 · reserva en la bio
+
+### px15 · `px-st-barricas-story.jpg`
+Barricas de roble en el calado 🛢️
+
+### px16 · `px-st-uvas-story.jpg`
+Vendimia en Rioja 🍇
+
+### px17 · `px-st-atardecer-story.jpg`
+Campos dorados de La Rioja 🌾
+
+### px18 · `px-st-costa-story.jpg`
+Costa vasca 🌊 · a 1 h 40 del Palacio
 
 ## DEFAULT CAPTIONS para fotos reales (drop folder)
 

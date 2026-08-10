@@ -4,3 +4,5 @@
 launchd.*.log
 token-refresh*.log
 tastings/
+.pexels_cache/
+.pexels_used.json
