@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 60 SURROUNDINGS POSTS
+## 66 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -550,6 +550,42 @@ El sol se pone sobre el Ebro y Haro se queda en silencio. 🌅
 Entre chopos y reflejos dorados, la orilla del río es uno de los planes más bonitos al caer la tarde. Un paseo, una copa y de vuelta al palacio: así se cierra un día perfecto en Rioja.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Atardecer #Ebro #Haro #Rioja #LaRioja #Enoturismo #VisitSpain
+
+### s61 · Las Conchas de Haro sobre el Ebro (`s61-conchas-haro-vinedos.jpg`)
+Donde el Ebro se abre paso entre la roca, empieza Rioja Alta. 🏔️
+Las Conchas de Haro, con la Sierra de Cantabria al fondo y los viñedos a sus pies, son una de las estampas más impresionantes de la comarca. Cuando te alojas en el palacio, este paisaje está a un paseo de la puerta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Rioja #LaRioja #ContiendaDeHaro #Enoturismo #Paisaje #VisitSpain
+
+### s62 · El botellero del calado (`s62-calado-botellero.jpg`)
+Silencio, penumbra y el tiempo trabajando a favor. 🍷
+En los viejos botelleros de arcilla, las botellas reposan durante años entre telarañas y cápsulas de cera. Así envejece el buen Rioja: sin prisa, en la calma fresca de un calado histórico. Una experiencia privada que va mucho más allá de una visita con agenda.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Calado #Rioja #LaRioja #VinoDeRioja #Enoturismo #Bodega #VisitSpain
+
+### s63 · Viñedos de otoño en Rioja Alavesa (`s63-vinedos-otono-alavesa.jpg`)
+Cuando la hoja se vuelve roja, la viña se despide del año. 🍂
+Las cepas en vaso encienden de cobre y granate las laderas de Rioja Alavesa. Es el momento más fotogénico del viñedo, y el escenario perfecto para unos días de desconexión, o para un retiro con tu equipo, en pleno corazón vinícola.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Otoño #Viñedos #RiojaAlavesa #LaRioja #Enoturismo #Vendimia #VisitSpain
+
+### s64 · La Concha, San Sebastián (`s64-la-concha-donostia.jpg`)
+Una de las bahías más bonitas de Europa, a poco más de una hora del palacio. 🌊
+La Concha, la isla de Santa Clara y el skyline de Donostia: la Ruta Norte permite combinar viñedo y mar en un mismo viaje. Mañana de pintxos en la costa vasca, tarde de vuelta entre las cepas de Rioja.
+Reserva en el link de la bio.
+#PalacioDeManzanos #SanSebastián #Donostia #LaConcha #RutaNorte #PaísVasco #Rioja #VisitSpain
+
+### s65 · Un paseo entre viñas al atardecer (`s65-vinedo-atardecer.jpg`)
+La mejor hora del día en Rioja llega cuando el sol roza las cepas. 🌅
+Un camino de hierba entre dos hileras de viña, la luz dorada de la tarde y todo el tiempo del mundo. Alojarte en el palacio significa tener este paseo al alcance de la mano, ideal para una escapada en familia.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Viñedos #Atardecer #Rioja #LaRioja #Enoturismo #Vacaciones #VisitSpain
+
+### s66 · La cesta de la vendimia (`s66-cesta-vendimia.jpg`)
+Racimos recién cortados, tierra de cantos y arcilla, y el aroma del mosto en el aire. 🍇
+La vendimia es el momento en que Rioja cobra vida. Vivirla desde el palacio, entre viñedos y calados, es una experiencia privada y exclusiva que solo se da en otoño.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #Rioja #LaRioja #Tempranillo #Uva #Enoturismo #VisitSpain
 
 
 ---
