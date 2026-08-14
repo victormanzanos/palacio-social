@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 66 SURROUNDINGS POSTS
+## 71 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -586,6 +586,37 @@ Racimos recién cortados, tierra de cantos y arcilla, y el aroma del mosto en el
 La vendimia es el momento en que Rioja cobra vida. Vivirla desde el palacio, entre viñedos y calados, es una experiencia privada y exclusiva que solo se da en otoño.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Vendimia #Rioja #LaRioja #Tempranillo #Uva #Enoturismo #VisitSpain
+
+### s67 · Vendimia adelantada en Rioja (`s67-vendimia-otono-pueblo.jpg`)
+Este año la vendimia llega antes de lo previsto, y el viñedo ya se viste de cobre y granate alrededor de los pueblos de Rioja. 🍂
+Cuando las hojas cambian de color, la comarca vive su momento más fotogénico: cepas encendidas, torres de piedra al fondo y el aire con aroma a mosto. Alojarte en el palacio en plena vendimia es vivir la cosecha desde dentro, sin agendas ni multitudes.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #Otoño #Rioja #LaRioja #Enoturismo #Viñedos #VisitSpain
+
+### s68 · El otoño, la mejor época en Rioja (`s68-vinedos-otono-sierra.jpg`)
+Rojo, ocre y verde en franjas que suben hasta la falda de la sierra: así se despide el viñedo del año. 🍁
+El otoño es, probablemente, la estación más bonita para visitar Rioja. La luz es más cálida, los viñedos se encienden y los planes de mesa y calado saben mejor. El escenario perfecto para una escapada, o para un retiro con tu equipo, con el palacio entero para ti.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Otoño #Viñedos #Rioja #LaRioja #Enoturismo #Paisaje #VisitSpain
+
+### s69 · Un palacio renacentista para celebrar en privado (`s69-palacio-patio-renacentista.jpg`)
+Columnas labradas, galerías de arcos y un patio que ha visto pasar siglos. 🏛️
+Celebrar en privado es otra cosa cuando el escenario es una casa noble entera para los tuyos: sin recepciones compartidas, sin horarios ajenos, solo tu grupo entre piedra histórica y buen Rioja. Bodas íntimas, aniversarios o reuniones de familia con el palacio a vuestra medida.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #Renacimiento #Haro #Rioja #LaRioja #EventosPrivados #VisitSpain
+
+### s70 · La torre de Santo Tomás, Haro (`s70-iglesia-santo-tomas-haro.jpg`)
+Sobre los tejados de Haro se alza la torre renacentista de Santo Tomás. ⛪
+Su portada plateresca y su campanario son el corazón del casco histórico, a un paseo de las bodegas del Barrio de la Estación. Un fin de semana en Haro se recorre así: cultura por la mañana, tapas y vino al mediodía, y de vuelta al palacio al atardecer.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #SantoTomás #Rioja #LaRioja #Patrimonio #Enoturismo #VisitSpain
+
+### s71 · El patio de un palacio, tu casa por unos días (`s71-palacio-patio-pozo.jpg`)
+Un pozo de piedra, arcos encalados y el silencio fresco de un patio interior. 🌿
+Alojarte en un palacio privado es la alternativa al hotel de lujo cuando viajas en grupo: más espacio, más intimidad y todos bajo el mismo techo. El patio se convierte en el punto de encuentro para un café por la mañana o una copa al caer la tarde.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #AlojamientoDeLujo #Rioja #LaRioja #LuxuryRental #EscapadaDeLujo #VisitSpain
+
 
 
 ---
