@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 71 SURROUNDINGS POSTS
+## 77 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -616,6 +616,43 @@ Un pozo de piedra, arcos encalados y el silencio fresco de un patio interior. �
 Alojarte en un palacio privado es la alternativa al hotel de lujo cuando viajas en grupo: más espacio, más intimidad y todos bajo el mismo techo. El patio se convierte en el punto de encuentro para un café por la mañana o una copa al caer la tarde.
 Reserva en el link de la bio.
 #PalacioDeManzanos #PalacioPrivado #AlojamientoDeLujo #Rioja #LaRioja #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### s72 · Viñedos en otoño, el color de la vendimia (`s72-vinedos-otono.jpg`)
+Cuando termina la vendimia, Rioja se enciende: hileras rojas, cobrizas y doradas que caen ladera abajo hasta el fondo del valle. 🍂
+El otoño es, quizá, la época más bella para visitarnos. Un viaje de incentivo o una escapada privada entre estos colores se recuerda durante años, con el Palacio como base y las bodegas centenarias a un paso.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #LaRioja #Viñedos #Otoño #Enoturismo #WineCountry #EscapadaDeLujo #VisitSpain
+
+### s73 · Un pueblo entre viñas, al pie de la Sierra (`s73-pueblo-sonsierra.jpg`)
+Un pequeño pueblo con su iglesia, rodeado de viñedos verdes y protegido por la Sierra de Cantabria. 🌄
+Así es el paisaje que rodea al Palacio: viñas hasta el horizonte, silencio y la montaña siempre al fondo. El plan perfecto para una reunión de familia o una escapada de varias generaciones bajo el mismo techo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #LaRioja #Sonsierra #Viñedos #WineCountry #Enoturismo #EscapadaDeLujo #VisitSpain
+
+### s74 · La Concha, San Sebastián (`s74-san-sebastian-concha.jpg`)
+La bahía de La Concha vista desde el monte: una de las playas urbanas más bonitas de Europa. 🌊
+A poco más de una hora del Palacio se abre la costa vasca, con San Sebastián y sus pintxos. La Ruta Norte se saborea así: vino y viñedos en Rioja, mar y gastronomía en Donostia, y el Palacio como punto de partida.
+Reserva en el link de la bio.
+#PalacioDeManzanos #SanSebastián #Donostia #LaConcha #PaísVasco #RutaNorte #LaRioja #VisitSpain
+
+### s75 · Barricas de roble en el calado (`s75-barricas-calado.jpg`)
+Filas y filas de barricas de roble descansando en la penumbra fresca del calado. 🛢️
+Es aquí donde el Tempranillo se convierte en gran Rioja, año tras año. Haro concentra algunas de las bodegas centenarias más famosas del mundo, a un paseo del Palacio: catas privadas, calados históricos y el aroma de la crianza.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Rioja #LaRioja #Barricas #Bodegas #Enoturismo #WineLovers #VisitSpain
+
+### s76 · Una escapada en familia por el campo riojano (`s76-familia-vinedo.jpg`)
+Caminar sin prisa por los campos verdes, con los tuyos, al atardecer. 🌿
+El Palacio es el punto de partida para una escapada en familia por Rioja: espacio de sobra, naturaleza alrededor y planes para todas las edades. Todos juntos, bajo el mismo techo, con el campo a la puerta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #LaRioja #EnFamilia #EscapadaDeLujo #PalacioPrivado #WineCountry #VisitSpain
+
+### s77 · Un palacio privado tras la verja (`s77-palacio-verja.jpg`)
+Una verja de hierro forjado, faroles encendidos y una casa noble que se guarda para ti. 🏛️
+Alquilar un palacio entero es la alternativa al hotel de lujo cuando buscas privacidad absoluta: sin recepciones compartidas, sin horarios ajenos, solo tu grupo. Bodas íntimas, celebraciones o simplemente una escapada a tu medida.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #PrivacidadAbsoluta #AlojamientoDeLujo #LaRioja #LuxuryRental #EscapadaDeLujo #VisitSpain
+
 
 
 
