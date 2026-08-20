@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 77 SURROUNDINGS POSTS
+## 81 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -652,6 +652,34 @@ Una verja de hierro forjado, faroles encendidos y una casa noble que se guarda p
 Alquilar un palacio entero es la alternativa al hotel de lujo cuando buscas privacidad absoluta: sin recepciones compartidas, sin horarios ajenos, solo tu grupo. Bodas íntimas, celebraciones o simplemente una escapada a tu medida.
 Reserva en el link de la bio.
 #PalacioDeManzanos #PalacioPrivado #PrivacidadAbsoluta #AlojamientoDeLujo #LaRioja #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### s78 · Vendimia a mano, caja a caja (`s78-vendimia-caja-uva.jpg`)
+Racimo cortado, caja llena, viñedo adelante. 🍇
+Así se vendimia en Rioja: a mano, con tijera, en cajas pequeñas para que la uva llegue entera a bodega. Septiembre y octubre son las semanas en que todo el valle se pone a trabajar, y se nota en el aire.
+Desde el Palacio te organizamos la jornada de vendimia, con la bodega y el almuerzo incluidos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #VendimiaRioja #Tempranillo #Rioja #LaRioja #Enoturismo #Otono #VisitSpain
+
+### s79 · El calado, en penumbra (`s79-calado-barricas-carteles.jpg`)
+Un pasillo de barricas que se pierde al fondo, carteles antiguos en la pared de ladrillo y doce grados constantes. 🛢️
+Los calados de Haro llevan más de un siglo haciendo lo mismo: esperar. Visitarlos en vendimia tiene algo extra, la bodega está en plena faena mientras abajo todo sigue en silencio.
+Te abrimos calados que no entran en la visita general.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Calado #Barricas #Haro #BarrioDeLaEstacion #Rioja #LaRioja #Enoturismo #WineLovers
+
+### s80 · El viñedo antes de la cosecha (`s80-vinedo-verde-verano.jpg`)
+Hileras verdes, cielo abierto y suelo de canto rodado. 🌿
+Es el viñedo en agosto, cuando la uva termina de madurar y todavía no ha entrado nadie a cortar. La calma de las semanas previas a la vendimia es, para muchos, el mejor momento del año para caminar entre cepas.
+Un paseo al atardecer, y de vuelta al Palacio a cenar.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vinedos #Rioja #LaRioja #WineCountry #EnoturismoLujo #Vinedo #VisitSpain
+
+### s81 · La mesa larga, al aire libre (`s81-mesa-familia-aire-libre.jpg`)
+Jarras que van y vienen, velas encendidas y una mesa a la que no le sobra ni le falta nadie. 🕯️
+Las mejores sobremesas pasan fuera, sin horario de cocina ni turnos de cena. Un palacio entero para tu grupo significa exactamente eso: la casa es vuestra y la mesa se levanta cuando queráis.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #EnFamilia #SobremesaLarga #LaRioja #Rioja #EscapadaDeLujo #VisitSpain
+
 
 
 
