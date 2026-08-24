@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 81 SURROUNDINGS POSTS
+## 83 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -679,6 +679,21 @@ Jarras que van y vienen, velas encendidas y una mesa a la que no le sobra ni le 
 Las mejores sobremesas pasan fuera, sin horario de cocina ni turnos de cena. Un palacio entero para tu grupo significa exactamente eso: la casa es vuestra y la mesa se levanta cuando queráis.
 Reserva en el link de la bio.
 #PalacioDeManzanos #PalacioPrivado #EnFamilia #SobremesaLarga #LaRioja #Rioja #EscapadaDeLujo #VisitSpain
+
+### s82 · La costa vasca, en vertical (`s82-costa-vasca-escalinata.jpg`)
+Escalones de piedra que bajan hasta el Cantábrico, el mar rompiendo contra la roca y gente diminuta subiendo despacio. 🌊
+La costa vasca está a 1 h 40 del Palacio. Lo justo para salir después de desayunar, comer mirando al mar y volver a dormir entre viñedos.
+El norte entero cabe en un fin de semana si tienes la base correcta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #CostaVasca #RutaNorte #PaisVasco #Cantabrico #LaRioja #EscapadaDeLujo #VisitSpain
+
+### s83 · Calle de piedra, a media mañana (`s83-casco-viejo-calle-piedra.jpg`)
+Un voladizo de madera centenaria, sillería dorada y un farol de forja en una calle por la que no pasa un coche. 🚶
+Los mejores fines de semana en La Rioja Alta se hacen andando: casco viejo por la mañana, bodega a mediodía y vuelta al Palacio sin tocar el volante.
+Se camina mejor con el vino ya reservado.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRiojaAlta #Haro #CascoHistorico #Rioja #LaRioja #Enoturismo #VisitSpain
+
 
 
 
