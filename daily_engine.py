@@ -218,10 +218,16 @@ def gh_upload(local_path, remote_name):
     if probe.returncode == 0:
         try:    sha = json.loads(probe.stdout).get("sha")
         except: sha = None
+        # WHY: el cuerpo va por STDIN (--input -), NUNCA como argumento -f content=<b64>.
+    # Incidencia 2026-08-20 (@manzanosenterprises): una foto de 899 KB da un base64 de
+    # ~1,20 MB y revienta el ARG_MAX de macOS (1.048.576 B) con "[Errno 7] Argument list
+    # too long". Toda foto real de mas de ~780 KB fallaba SIEMPRE y caia al post de marca,
+    # en silencio. Por stdin no hay limite de tamano.
+    body = {"message": f"Add tasting photo {remote_name}", "content": content_b64}
+    if sha: body["sha"] = sha
     args = ["gh", "api", "--method", "PUT", f"/repos/{REPO}/contents/{remote_path}",
-            "-f", f"message=Add tasting photo {remote_name}", "-f", f"content={content_b64}"]
-    if sha: args += ["-f", f"sha={sha}"]
-    r = subprocess.run(args, capture_output=True, text=True)
+            "--input", "-"]
+    r = subprocess.run(args, input=json.dumps(body), capture_output=True, text=True)
     if r.returncode != 0:
         raise RuntimeError(f"gh upload failed: {r.stderr.strip()[:300]}")
     return f"{RAW}/{remote_path}"
