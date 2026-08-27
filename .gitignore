@@ -6,3 +6,5 @@ token-refresh*.log
 tastings/
 .pexels_cache/
 .pexels_used.json
+*.bak-*
+__pycache__/

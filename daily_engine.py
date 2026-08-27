@@ -177,14 +177,94 @@ def state():
 def save_state(s):
     json.dump(s, open(STATE, "w"))
 
+
+
+# ──────────────────────────────────────────────────────────────────────────
+# GUARD DE IDENTIDAD DE IMAGEN  (regla permanente de Victor, 2026-08-27)
+# ──────────────────────────────────────────────────────────────────────────
+# El 27-ago-2026 se publico `s19-coste-por-persona.jpg`: un salon con escalera
+# de caracol que NO es el Palacio, bajo el sello "PALACIO · MANZANOS · HARO".
+# La foto venia de la portada de un articulo del blog (banco de imagenes) y la
+# rutina semanal la convirtio en tarjeta de "entorno" sin comprobar de que
+# edificio era. La auditoria posterior encontro 16 tarjetas asi.
+#
+# REGLA: si la tarjeta ensena un espacio DEL ALOJAMIENTO (salon, habitacion,
+# bano, cocina, comedor, spa...), la foto tiene que ser DEL PALACIO. De banco o
+# del blog solo puede venir el ENTORNO: vinedos, bodegas, calados, Haro, la
+# Ruta Norte, la vendimia, gastronomia y paisaje.
+#
+# Dos redes independientes, las dos FAIL-CLOSED (ante la duda no se publica):
+#   1. Lista blanca `entorno_approved.json`: una tarjeta de entorno solo sale si
+#      alguien ABRIO la imagen y la aprobo. Lo que no esta listado, no se publica.
+#   2. Chequeo del GANCHO de la caption: si la primera linea de una tarjeta de
+#      entorno promete un espacio interior del alojamiento, se bloquea aunque
+#      este aprobada. Esta 2a red, por si sola, habria parado el post del 27-ago.
+# Las 36 tarjetas del pool "palacio" son fotos verificadas del edificio: no
+# pasan por la lista blanca y si pueden hablar de sus propios salones.
+APPROVED_FILE = os.path.join(LOCAL, "entorno_approved.json")
+
+def load_entorno_approved():
+    try:
+        return set(json.load(open(APPROVED_FILE, encoding="utf-8"))["approved"])
+    except Exception as e:
+        # WHY fail-closed: sin lista preferimos repetir palacio (fotos verificadas)
+        # antes que publicar una imagen de dueno desconocido con nuestro sello.
+        print(f"⚠️  No se pudo leer {APPROVED_FILE} ({e}) — pool de entorno BLOQUEADO.")
+        return set()
+
+ENTORNO_APPROVED = load_entorno_approved()
+
+# Espacios propios del alojamiento. Si el GANCHO de una tarjeta de entorno los
+# nombra, la imagen deberia ser del Palacio y, por definicion del pool, no lo es.
+# El negative lookahead salva "la cocina del norte/riojana/vasca" (el estilo de
+# cocina, no la habitacion) — es el unico falso positivo de las 95 captions.
+PROPERTY_SPACE_RE = re.compile(
+    r"\b(sal[oó]n(?:es)?|habitaci[oó]n(?:es)?|dormitorio(?:s)?|suite(?:s)?|"
+    r"ba[nñ]o(?:s)?|aseo(?:s)?|cocina(?:s)?(?!\s+(?:del|de\s+la|riojana|vasca|"
+    r"espa[nñ]ola|tradicional|de\s+autor|norte[nñ]a))|comedor(?:es)?|sauna|"
+    r"jacuzzi|spa|gimnasio|vinoteca|billar|sala\s+de\s+cine|recibidor|"
+    r"[aá]tico|piano\s+de\s+cola)\b", re.I)
+
+def entorno_card_ok(filename, caption):
+    """(ok, motivo) para una tarjeta del pool de ENTORNO. Fail-closed."""
+    if filename not in ENTORNO_APPROVED:
+        return False, "imagen no verificada como entorno (no esta en entorno_approved.json)"
+    hook = caption.strip().splitlines()[0] if caption.strip() else ""
+    m = PROPERTY_SPACE_RE.search(hook)
+    if m:
+        return False, (f"el gancho promete un espacio del alojamiento "
+                       f"(\"{m.group(0)}\") sobre una imagen que no es del Palacio")
+    return True, ""
+
+
 def pick_next_post(s):
-    """Alterna: post par → palacio, post impar → entorno. Devuelve (filename, caption, pool_name)."""
+    """Alterna: post par → palacio, post impar → entorno.
+
+    Devuelve (filename, caption, pool_name, idx). `idx` es el indice REALMENTE
+    usado dentro de su pool: al saltarse tarjetas bloqueadas por el guard de
+    identidad, el indice avanza mas de uno, asi que quien publique debe guardar
+    `idx + 1` — con `+= 1` se volveria a proponer la misma tarjeta cada dia.
+    """
     if s["post"] % 2 == 0:
-        fn, cap = PALACE_POSTS[s["palace_idx"] % len(PALACE_POSTS)]
-        return fn, cap, "palace"
-    else:
-        fn, cap = SURROUND_POSTS[s["surround_idx"] % len(SURROUND_POSTS)]
-        return fn, cap, "surround"
+        i = s["palace_idx"] % len(PALACE_POSTS)
+        fn, cap = PALACE_POSTS[i]
+        return fn, cap, "palace", i
+
+    n = len(SURROUND_POSTS)
+    start = s["surround_idx"] % n
+    for step in range(n):
+        i = (start + step) % n
+        fn, cap = SURROUND_POSTS[i]
+        ok, why = entorno_card_ok(fn, cap)
+        if ok:
+            return fn, cap, "surround", i
+        print(f"⛔ GUARD: salto {fn} — {why}")
+    # Ninguna aprobada: mejor repetir palacio (fotos verificadas del edificio)
+    # que publicar una imagen de dueno desconocido con nuestro sello.
+    i = s["palace_idx"] % len(PALACE_POSTS)
+    fn, cap = PALACE_POSTS[i]
+    print("⚠️  GUARD: ninguna tarjeta de entorno aprobada — publico palacio.")
+    return fn, cap, "palace", i
 
 
 # ──────────────────────────────────────────────────────────────────────────
@@ -344,6 +424,7 @@ def main():
         slug, sp_title, sp_cap = special
         do_real, real_path, real_cap = False, None, None
         pf, sf, pool = f"{slug}.jpg", f"{slug}-story.jpg", "special"
+        pick_idx = None
         cap = rotate_caption(sp_cap)
         post_url  = f"{RAW}/posts/{pf}"
         story_url = f"{RAW}/stories/{sf}"
@@ -354,7 +435,7 @@ def main():
         real_path  = real_items[0][0] if real_items else None
         real_cap   = real_items[0][1] if real_items else None
 
-        pf, cap, pool = pick_next_post(s)
+        pf, cap, pool, pick_idx = pick_next_post(s)
         cap = rotate_caption(cap)
         sf  = STORY_FILES[s["story"] % len(STORY_FILES)]
         post_url  = f"{RAW}/posts/{pf}"
@@ -419,11 +500,12 @@ def main():
         elif pool == "special":
             pass  # WHY: el post especial no consume la rotación normal ni cuenta para la foto real
         else:
-            # Avanzar índice del pool del que se publicó + contador global de alternancia
+            # Avanzar al SIGUIENTE del indice realmente publicado (no += 1: el
+            # guard de identidad puede haber saltado tarjetas por el camino).
             if pool == "palace":
-                s["palace_idx"] += 1
+                s["palace_idx"] = pick_idx + 1
             else:
-                s["surround_idx"] += 1
+                s["surround_idx"] = pick_idx + 1
             s["post"] += 1
             s["since_real"] = s.get("since_real", 0) + 1
     if story_ok and pool != "special":

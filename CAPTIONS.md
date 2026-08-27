@@ -273,7 +273,7 @@ A 1 hora del Palacio: una excursión perfecta de un día sin renunciar a dormir 
 Te ayudamos a elegir según gusto, presupuesto y disponibilidad.
 #PalacioDeManzanos #Haro #BarrioDeLaEstacion #BodegasDeRioja #Rioja #EnoturismoLujo #VinoDeRioja #LaRioja
 
-### s14 · Casco histórico de Haro (`s14-haro-casco.jpg`)
+### s14 · Casco histórico de Haro (`s14-haro-casco.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 El casco histórico de Haro — calles empedradas, iglesias, palacios del XVII y XVIII (como el nuestro).
 Una ciudad para perderse caminando.
 #PalacioDeManzanos #Haro #HaroRioja #VisitHaro #LaRioja #CascoHistorico #VisitSpain #VisitRioja
@@ -294,11 +294,11 @@ Te lo armamos en un itinerario de 5 a 7 días desde el Palacio.
 #PalacioDeManzanos #NorteDeEspana #Rioja #SanSebastian #Bilbao #VisitSpain #LuxuryTravel #RutaNorte
 
 ### s18 · Vacaciones familiares (`s18-familia-rioja.jpg`)
-Rioja para familias. 4 suites en el Palacio, 8 huéspedes, niños bienvenidos, multigeneracional.
-Toda la familia bajo un mismo techo histórico.
+Rioja para familias: viñedos, aire libre y todos juntos. 👨‍👩‍👧‍👦
+4 suites en el Palacio, 8 huéspedes, niños bienvenidos, bajo un mismo techo histórico.
 #PalacioDeManzanos #VacacionesFamilia #Rioja #LaRioja #FamilyTravel #LuxuryRental #PalacioPrivado #VisitSpain
 
-### s19 · Coste por persona (`s19-coste-por-persona.jpg`)
+### s19 · Coste por persona (`s19-coste-por-persona.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Un salón noble de 350 m², solo para tu grupo. 🥂
 Repartido entre 8 huéspedes, el palacio entero cuesta menos por persona que dos habitaciones de hotel de lujo — y aquí nadie comparte el salón, ni la sauna, ni el cocinero, ni los horarios.
 Reserva en el link de la bio.
@@ -311,7 +311,7 @@ Te organizamos la visita a calados normalmente cerrados al público, a 5 minutos
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #BarrioDeLaEstacion #BodegasDeRioja #Rioja #EnoturismoLujo #WineCountry #LaRioja
 
-### s21 · Experiencias exclusivas (`s21-experiencias-exclusivas.jpg`)
+### s21 · Experiencias exclusivas (`s21-experiencias-exclusivas.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Copa en mano, viñedo al fondo. 🍇
 Catas privadas, verticales de Gran Reserva, paseos entre cepas con el enólogo, almuerzos en bodega. El enoturismo de lujo de Rioja, diseñado a tu medida desde el Palacio.
 Reserva en el link de la bio.
@@ -323,7 +323,7 @@ Cesta al hombro, tijera en mano, uva a mano como hace generaciones. En septiembr
 Reserva en el link de la bio.
 #PalacioDeManzanos #Vendimia #VendimiaRioja #Rioja #LaRioja #Otono #EnoturismoLujo #WineCountry
 
-### s23 · Retiro corporativo (`s23-retiro-corporativo.jpg`)
+### s23 · Retiro corporativo (`s23-retiro-corporativo.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Una sede para tu equipo, lejos del ruido. 💼
 350 m² de salones nobles para reuniones de liderazgo, offsites y retiros directivos: sala de trabajo por la mañana, cata privada por la tarde, cena de equipo bajo un techo del XVIII.
 Reserva en el link de la bio.
@@ -365,13 +365,13 @@ Bares centenarios, pinchos de autor y bodegas a la vuelta de la esquina. Haro se
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #Gastronomia #Tapas #Rioja #LaRioja #VinoDeRioja #VisitSpain
 
-### s30 · Un palacio, no un hotel (`s30-palacio-vs-hotel.jpg`)
+### s30 · Un palacio, no un hotel (`s30-palacio-vs-hotel.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 ¿Por qué una habitación de hotel cuando puedes tener el palacio entero? 🔑
 Sin recepción, sin pasillos compartidos, sin horarios. Una villa clásica solo para tu grupo: tus llaves, tu cocinero, tu ritmo. La alternativa al hotel de lujo en plena Rioja.
 Reserva en el link de la bio.
 #PalacioDeManzanos #PalacioPrivado #AlquilerPalacio #LaRioja #Rioja #LuxuryRental #VillaPrivada #VisitSpain
 
-### s31 · Un palacio, no una habitación (`s31-siete-cosas-hotel.jpg`)
+### s31 · Un palacio, no una habitación (`s31-siete-cosas-hotel.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Siete cosas que un palacio te da y un hotel jamás podrá. 🕯️
 Un comedor de gala solo para tu grupo, tu chef privado, el silencio de una villa entera sin recepción ni pasillos compartidos. En el Palacio de Manzanos no reservas una habitación: reservas el palacio completo, a tu ritmo.
 Reserva en el link de la bio.
@@ -401,7 +401,7 @@ Túneles excavados a mano, barricas de roble y el silencio fresco donde el vino 
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #Calados #Rioja #LaRioja #BodegasCentenarias #Enoturismo #VisitSpain
 
-### s36 · Vivir la vendimia en otoño (`s36-vendimia-otono.jpg`)
+### s36 · Vivir la vendimia en otoño (`s36-vendimia-otono.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Otoño en Rioja huele a mosto y a hoja de parra. 🍂
 Es la estación de la vendimia: viñedos en cobre y oro, la cosecha en marcha y el mejor momento para vivir Rioja de verdad. Una escapada de otoño al Palacio, entre viñas y bodegas centenarias.
 Reserva en el link de la bio.
@@ -449,7 +449,7 @@ Elige las bodegas con calma, reserva las catas con antelación y deja huecos par
 Reserva en el link de la bio.
 #PalacioDeManzanos #Enoturismo #Rioja #LaRioja #Haro #Vinos #Bodegas #VisitSpain
 
-### s44 · Cuánto cuesta un retiro corporativo (`s44-retiro-cuanto-cuesta.jpg`)
+### s44 · Cuánto cuesta un retiro corporativo (`s44-retiro-cuanto-cuesta.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 La pregunta no es cuánto cuesta, sino cuánto vale. 🥂
 Un palacio privado en Rioja para tu equipo entero: alojamiento, espacios de trabajo, cenas alrededor de una mesa larga y bodegas centenarias a un paso. Todo bajo un mismo techo y un solo presupuesto.
 Reserva en el link de la bio.
@@ -473,7 +473,7 @@ Paseos junto al Ebro, viñedos para correr, tardes de jardín y pueblos con hist
 Reserva en el link de la bio.
 #PalacioDeManzanos #VacacionesEnFamilia #Rioja #LaRioja #Haro #AireLibre #Vinedos #VisitSpain
 
-### s48 · Un fin de semana en Haro (`s48-haro-mercadillo.jpg`)
+### s48 · Un fin de semana en Haro (`s48-haro-mercadillo.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Haro se vive en la calle. 🍷
 Bodegas centenarias por la mañana, mercadillo y casco histórico a mediodía, mesas al sol y vino de la tierra por la tarde. Un fin de semana que cabe en dos días y se recuerda mucho más.
 Reserva en el link de la bio.
@@ -503,7 +503,7 @@ Las mejores fechas de la cosecha de 2026 vuelan con meses de antelación. Bloque
 Reserva en el link de la bio.
 #PalacioDeManzanos #Vendimia2026 #Cosecha #Rioja #LaRioja #Vinedos #Enoturismo #VisitSpain
 
-### s53 · Preguntas antes de reservar (`s53-preguntas-antes-reservar.jpg`)
+### s53 · Preguntas antes de reservar (`s53-preguntas-antes-reservar.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 ¿Todo el palacio es solo para tu grupo? Sí. 🏰
 Cuántos huéspedes, qué incluye, cómo funciona la privacidad… Las dudas de siempre antes de reservar un palacio privado, resueltas: un patio, un salón noble y una casa del XVIII enteramente para los tuyos.
 Reserva en el link de la bio.
@@ -515,7 +515,7 @@ Los calados centenarios guardan el vino en silencio y penumbra desde hace genera
 Reserva en el link de la bio.
 #PalacioDeManzanos #Calados #Bodegas #Haro #Rioja #LaRioja #Enoturismo #VisitSpain
 
-### s55 · Un palacio entero, solo para los tuyos (`s55-palacio-patio-privado.jpg`)
+### s55 · Un palacio entero, solo para los tuyos (`s55-palacio-patio-privado.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Olvídate del hotel: aquí la casa entera es tuya. 🏛️
 Patios de piedra, arcos labrados y salones nobles sin recepción, sin vecinos de habitación, sin horarios. Alquilar un palacio privado es cambiar la llave de una habitación por la de toda una casa histórica.
 Reserva en el link de la bio.
@@ -533,13 +533,13 @@ Catas privadas, brindis al atardecer y vino que cuenta la historia de esta tierr
 Reserva en el link de la bio.
 #PalacioDeManzanos #Enoturismo #Cata #Rioja #LaRioja #VinoDeRioja #WineLovers #VisitSpain
 
-### s58 · Una mesa larga para tu equipo (`s58-retiro-mesa-larga.jpg`)
+### s58 · Una mesa larga para tu equipo (`s58-retiro-mesa-larga.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Las mejores reuniones acaban alrededor de una mesa larga. 🍽️
 Un retiro corporativo en Rioja se organiza así: jornada de trabajo por la mañana, vino y sobremesa por la noche, todos bajo el mismo techo. El Palacio entero para tu equipo, sin distracciones y con el mejor Rioja en la mesa.
 Reserva en el link de la bio.
 #PalacioDeManzanos #RetiroCorporativo #Offsite #Rioja #LaRioja #TeamBuilding #EventosDeEmpresa #VisitSpain
 
-### s59 · La portada del palacio (`s59-portada-palacio-haro.jpg`)
+### s59 · La portada del palacio (`s59-portada-palacio-haro.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Un escudo de piedra sobre la puerta cuenta tres siglos de historia. 🛡️
 Columnas salomónicas, sillería labrada y un blasón que corona la entrada: así son las portadas de los palacios de Haro. Detrás de una puerta como esta te espera una casa noble entera para tu escapada.
 Reserva en el link de la bio.
@@ -599,7 +599,7 @@ El otoño es, probablemente, la estación más bonita para visitar Rioja. La luz
 Reserva en el link de la bio.
 #PalacioDeManzanos #Otoño #Viñedos #Rioja #LaRioja #Enoturismo #Paisaje #VisitSpain
 
-### s69 · Un palacio renacentista para celebrar en privado (`s69-palacio-patio-renacentista.jpg`)
+### s69 · Un palacio renacentista para celebrar en privado (`s69-palacio-patio-renacentista.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Columnas labradas, galerías de arcos y un patio que ha visto pasar siglos. 🏛️
 Celebrar en privado es otra cosa cuando el escenario es una casa noble entera para los tuyos: sin recepciones compartidas, sin horarios ajenos, solo tu grupo entre piedra histórica y buen Rioja. Bodas íntimas, aniversarios o reuniones de familia con el palacio a vuestra medida.
 Reserva en el link de la bio.
@@ -611,7 +611,7 @@ Su portada plateresca y su campanario son el corazón del casco histórico, a un
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #SantoTomás #Rioja #LaRioja #Patrimonio #Enoturismo #VisitSpain
 
-### s71 · El patio de un palacio, tu casa por unos días (`s71-palacio-patio-pozo.jpg`)
+### s71 · El patio de un palacio, tu casa por unos días (`s71-palacio-patio-pozo.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Un pozo de piedra, arcos encalados y el silencio fresco de un patio interior. 🌿
 Alojarte en un palacio privado es la alternativa al hotel de lujo cuando viajas en grupo: más espacio, más intimidad y todos bajo el mismo techo. El patio se convierte en el punto de encuentro para un café por la mañana o una copa al caer la tarde.
 Reserva en el link de la bio.
@@ -647,7 +647,7 @@ El Palacio es el punto de partida para una escapada en familia por Rioja: espaci
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #LaRioja #EnFamilia #EscapadaDeLujo #PalacioPrivado #WineCountry #VisitSpain
 
-### s77 · Un palacio privado tras la verja (`s77-palacio-verja.jpg`)
+### s77 · Un palacio privado tras la verja (`s77-palacio-verja.jpg`)  ⛔ BLOQUEADA: no es el Palacio / marca ajena — ver entorno_approved.json
 Una verja de hierro forjado, faroles encendidos y una casa noble que se guarda para ti. 🏛️
 Alquilar un palacio entero es la alternativa al hotel de lujo cuando buscas privacidad absoluta: sin recepciones compartidas, sin horarios ajenos, solo tu grupo. Bodas íntimas, celebraciones o simplemente una escapada a tu medida.
 Reserva en el link de la bio.
