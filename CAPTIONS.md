@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 83 SURROUNDINGS POSTS
+## 88 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -693,6 +693,41 @@ Los mejores fines de semana en La Rioja Alta se hacen andando: casco viejo por l
 Se camina mejor con el vino ya reservado.
 Reserva en el link de la bio.
 #PalacioDeManzanos #LaRiojaAlta #Haro #CascoHistorico #Rioja #LaRioja #Enoturismo #VisitSpain
+
+### s84 · El Ebro entre viñedos (`s84-ebro-otono.jpg`)
+El Ebro visto desde el aire, con las choperas ya doradas y los viñedos cambiando de color a los dos lados. 🍂
+Así es la llegada a La Rioja Alta en otoño: el río marcando el valle, las viñas subiendo hacia la sierra y Haro al fondo.
+Vengas en coche o aterrices en Bilbao, Vitoria o Logroño, te recogemos y organizamos el viaje puerta a puerta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRiojaAlta #Ebro #Haro #LaRioja #Otono #Enoturismo #VisitSpain
+
+### s85 · Lluvia sobre la viña (`s85-lluvia-vinedo.jpg`)
+Una hoja de vid con la lluvia todavía encima. 💧
+En Rioja llover no arruina un viaje: los calados están a 13 grados y secos todo el año, y las bodegas del Barrio de la Estación se visitan bajo tierra.
+Cata guiada, museo del vino y chocolate caliente al volver. A los niños les encanta el plan.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #Enoturismo #ViajarEnFamilia #Rioja #Vinedos #VisitSpain
+
+### s86 · Viñedo con escarcha (`s86-invierno-escarcha.jpg`)
+Escarcha sobre las cepas y niebla en el valle: la viña dormida. ❄️
+El invierno es la mejor Rioja para quien busca silencio: bodegas sin colas, poda en el campo, guisos largos y chimenea encendida.
+De diciembre a marzo el Palacio se reserva entero para un solo grupo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Invierno #Vinedos #Rioja #Haro #EnoturismoLujo #VisitSpain
+
+### s87 · Arcos de un calado (`s87-calado-arcos.jpg`)
+Bóvedas de ladrillo excavadas bajo tierra, una detrás de otra, en penumbra. 🛢️
+Haro tiene cuatro zonas de bodegas y los calados más antiguos son así: túneles del siglo XIX a temperatura constante, donde el vino envejece sin que nadie lo toque.
+Organizamos el acceso a calados que no están abiertos al público.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #Calado #BarrioDeLaEstacion #BodegasDeRioja #Rioja #LaRioja #EnoturismoLujo
+
+### s88 · Vendimia en familia (`s88-vendimia-familia.jpg`)
+Un cesto de mimbre, una cepa cargada y una niña mirando el racimo que acaba de cortar. 🍇
+La vendimia es el mejor plan familiar del año en Rioja: se corta media mañana, se pesa la uva y se termina comiendo en el campo.
+Septiembre y octubre se reservan con meses de antelación.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #LaRioja #Rioja #ViajarEnFamilia #Vinedos #Enoturismo #VisitSpain
 
 
 

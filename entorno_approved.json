@@ -1,7 +1,7 @@
 {
  "_doc": "Lista blanca de tarjetas de ENTORNO verificadas visualmente. El motor (daily_engine.py) SOLO publica del pool de entorno lo que este aqui: fail-closed. Regla de Victor 2026-08-27: si la tarjeta ensena un espacio del alojamiento (salon, habitacion, bano, cocina, comedor, spa) la foto tiene que ser DEL PALACIO; de banco o del blog solo puede venir el ENTORNO (vinedos, bodegas, calados, Haro, Ruta Norte, vendimia, gastronomia, paisaje).",
  "_como_anadir": "ABRE la imagen y miralA. Solo si es entorno real, sin edificio ajeno que pueda confundirse con el Palacio, sin marca de terceros y sin mentir la geografia, anade su nombre a 'approved'.",
- "revisado": "2026-08-27",
+ "revisado": "2026-08-31",
  "approved": [
   "s01-bodegas-barricas.jpg",
   "s02-cata-privada.jpg",
@@ -81,7 +81,12 @@
   "px-costa-vasca.jpg",
   "px-mesa-vino.jpg",
   "px-vinedo-verano.jpg",
-  "px-cata.jpg"
+  "px-cata.jpg",
+  "s84-ebro-otono.jpg",
+  "s85-lluvia-vinedo.jpg",
+  "s86-invierno-escarcha.jpg",
+  "s87-calado-arcos.jpg",
+  "s88-vendimia-familia.jpg"
  ],
  "blocked": {
   "s19-coste-por-persona.jpg": "Salon con escalera de caracol de OTRO edificio. Es el post del 27-ago-2026 que dio origen a esta regla.",
