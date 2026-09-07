@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 88 SURROUNDINGS POSTS
+## 92 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -728,6 +728,34 @@ La vendimia es el mejor plan familiar del año en Rioja: se corta media mañana,
 Septiembre y octubre se reservan con meses de antelación.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Vendimia #LaRioja #Rioja #ViajarEnFamilia #Vinedos #Enoturismo #VisitSpain
+
+### s89 · Octubre después de la vendimia (`s89-octubre-hoja-dorada.jpg`)
+La hoja de la vid se vuelve dorada y el suelo entre cepas se cubre de amarillo. 🍂
+Octubre es el mes tranquilo de Rioja: la uva ya está en bodega, las bodegas respiran y el viñedo se queda para quien sabe mirarlo.
+Menos gente, mejor luz y una mesa reservada sin llamar con semanas de antelación.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Rioja #Otono #Vinedos #Enoturismo #EnoturismoLujo #VisitSpain
+
+### s90 · La Sierra de Cantabria al fondo (`s90-sierra-cantabria.jpg`)
+Viñedos de hoja cobriza y, detrás, la muralla de roca de la Sierra de Cantabria. 🏔️
+Es la vista que separa Rioja Alta de Rioja Alavesa, a un cuarto de hora en coche desde Haro. La sierra frena el viento del norte y por eso el Tempranillo madura aquí como en pocos sitios.
+Preparamos la ruta con las bodegas ya reservadas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RiojaAlavesa #SierraDeCantabria #Haro #LaRioja #Rioja #Vinedos #EnoturismoLujo
+
+### s91 · Bilbao en un día (`s91-bilbao-guggenheim.jpg`)
+El titanio del Guggenheim encendido por la última luz de la tarde. 🏛️
+Bilbao está a hora y media del Palacio: se sale después de desayunar, se ve el museo, se come de pintxos en el Casco Viejo y se vuelve a cenar a Haro.
+Es una de las escapadas de la Ruta Norte que organizamos desde aquí.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Bilbao #Guggenheim #RutaNorte #PaisVasco #LaRioja #Haro #VisitSpain
+
+### s92 · Un cesto en la primera vendimia (`s92-cesto-vendimia.jpg`)
+Cesto de mimbre, racimos recién cortados y las manos aún aprendiendo dónde va la tijera. 🍇
+Para vendimiar por primera vez basta con ropa cómoda que se pueda manchar, calzado cerrado con suela y algo de abrigo: a media mañana el viñedo pasa de fresco a caluroso en una hora.
+El resto lo ponemos nosotros.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #LaRioja #Rioja #Enoturismo #Vinedos #ViajarEnFamilia #VisitSpain
 
 
 
