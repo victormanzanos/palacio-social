@@ -201,7 +201,7 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 92 SURROUNDINGS POSTS
+## 98 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -756,6 +756,48 @@ Para vendimiar por primera vez basta con ropa cómoda que se pueda manchar, calz
 El resto lo ponemos nosotros.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Vendimia #LaRioja #Rioja #Enoturismo #Vinedos #ViajarEnFamilia #VisitSpain
+
+### s93 · La casa entera, o no (`s93-casa-entera-vinedo.jpg`)
+Cepas viejas en vaso, tierra roja y la sierra todavía nevada al fondo. 🍇
+Alquiler íntegro o por habitaciones: dos palabras del anuncio que deciden si la cocina, el salón y el silencio son solo vuestros o se comparten con desconocidos.
+En el Palacio no hay letra pequeña: se reserva siempre la casa completa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PalacioPrivado #Haro #LaRioja #Rioja #Vinedos #EscapadaDeLujo #ViajarEnGrupo
+
+### s94 · San Millán de la Cogolla (`s94-san-millan-yuso.jpg`)
+El Monasterio de Yuso, en San Millán de la Cogolla, a unos cuarenta minutos de Haro. 🏛️
+En este valle un monje anotó en los márgenes de un códice latino cómo se decían aquellas palabras en la lengua de la calle: las Glosas Emilianenses, el primer testimonio escrito del castellano. Suso y Yuso son Patrimonio Mundial de la UNESCO desde 1997.
+La visita guiada a Yuso dura unos 50 minutos: una mañana cómoda y de vuelta a comer a Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #SanMillanDeLaCogolla #MonasterioDeYuso #Haro #LaRioja #Patrimonio #CunaDelCastellano #VisitSpain
+
+### s95 · Noviembre entre viñas (`s95-noviembre-niebla.jpg`)
+Hoja dorada, cepas en vaso y la niebla baja tapando el valle. 🍂
+En noviembre la vendimia ha terminado y las bodegas tienen tiempo para grupos pequeños. Es la ventana natural del offsite de cierre de año: en diciembre la agenda del comité ya no da más de sí.
+Lo razonable es cerrar fechas entre seis y ocho semanas antes.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Offsite #RetiroCorporativo #LaRioja #Rioja #Otono #Vinedos #Haro
+
+### s96 · Navidad en La Rioja (`s96-navidad-vinedo-nevado.jpg`)
+La viña podada bajo la nieve y la montaña blanca al fondo. ❄️
+En 2026 la Nochebuena cae en jueves y la Nochevieja también: dos bloques de cuatro noches para reunir a toda la familia bajo el mismo techo, sin repartirla entre hoteles.
+Logroño y su mercado navideño quedan a unos cuarenta y cinco minutos, y Ezcaray a 34 kilómetros de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Navidad #Nochevieja #LaRioja #Haro #ViajarEnFamilia #PalacioPrivado #VisitSpain
+
+### s97 · Comer donde se hace el vino (`s97-bodega-con-comida.jpg`)
+Una copa de tinto, embutido, pimientos rellenos y el corcho recién sacado. 🍷
+En las bodegas de Rioja se come, pero casi nunca improvisando: la mesa se reserva con nombre, hora y número de personas, a la vez que la visita.
+Dejamos las dos cosas cerradas antes de que llegues.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Enoturismo #Gastronomia #Rioja #VinoDeRioja #Haro #LaRioja #EnoturismoLujo
+
+### s98 · Aprender a catar en Haro (`s98-aprender-a-catar.jpg`)
+La copa, siempre por el tallo. 🍷
+La mano calienta el vino y las huellas estropean la fase visual. Girar la copa no es postureo y escupir no es desperdiciar: son gestos del oficio que cualquiera puede copiar en su primera cata.
+Organizamos catas privadas en las bodegas de Haro para aprenderlos con calma.
+Reserva en el link de la bio.
+#PalacioDeManzanos #CataDeVino #Haro #Rioja #VinoDeRioja #Enoturismo #WineLovers #LaRioja
 
 
 
