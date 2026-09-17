@@ -15,7 +15,7 @@ manteniendo siempre `#PalacioDeManzanos`):
 
 ---
 
-## 36 POSTS
+## 100 POSTS
 
 ### 01 · Fachada (`01-fachada.jpg`)
 Un palacio noble de 1733 en pleno centro de Haro.
@@ -201,7 +201,394 @@ El palacio de noche tiene otra calma. La sensación de que el sitio es tuyo. Por
 
 ---
 
-## 98 SURROUNDINGS POSTS
+<!-- Tarjetas anadidas el 2026-09-17 desde fotos PROPIAS del Palacio que
+     nunca se habian usado. Cada caption se escribio mirando la foto.
+
+### 37 · Billar sala (`37-billar-sala.jpg`)
+Mesa de billar y butacas de cine en la misma sala.
+La planta de ocio del palacio, solo para tu grupo: sin turnos y sin horarios.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 38 · Billar cine (`38-billar-cine.jpg`)
+Billar, cine y nadie mas en el edificio.
+Aqui acaban las noches de grupo en el Palacio de Manzanos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 39 · Pasillo color (`39-pasillo-color.jpg`)
+Un palacio del XVIII no tiene por que ser un museo.
+Interiorismo contemporaneo dentro de muros de 1733: color, luz y confort actual.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 40 · Cocina verde (`40-cocina-verde.jpg`)
+Cocina propia, equipada y para todo el grupo.
+Desayunar a tu hora o cocinar lo que traigas del mercado de Haro, a dos calles.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 41 · Encimera marmol (`41-encimera-marmol.jpg`)
+Marmol, laton y una ventana a Haro.
+Los detalles de la cocina del palacio, pensada para grupos que cocinan juntos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 42 · Salon mesa larga (`42-salon-mesa-larga.jpg`)
+Una mesa larga, un piano y 350 m2 en el centro de Haro.
+El salon noble es el punto de encuentro: aqui se desayuna, se brinda y se acaba la noche.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 43 · Salon piano tv (`43-salon-piano-tv.jpg`)
+Piano de cola y sofa para ocho.
+El salon del palacio funciona igual para una cena larga que para una tarde de manta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 44 · Salon noble conjunto (`44-salon-noble-conjunto.jpg`)
+Asi se ve el salon noble entero.
+Piano, sofas y el comedor al fondo: un solo espacio de 350 m2 para tu grupo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 45 · Suite verde (`45-suite-verde.jpg`)
+Cabeceros verdes, ropa de cama blanca y silencio.
+Cada habitacion del palacio tiene su color y su caracter.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 46 · Suite verde detalle (`46-suite-verde-detalle.jpg`)
+Apliques de laton, mesillas redondas, flores frescas.
+El detalle de las habitaciones del Palacio de Manzanos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 47 · Suite teja (`47-suite-teja.jpg`)
+Despertarse en un palacio de 1733, en pleno casco historico de Haro.
+Sin recepcion, sin horarios y sin compartir el edificio con nadie.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 48 · Fachada calle (`48-fachada-calle.jpg`)
+La fachada del palacio, en la esquina de siempre.
+1733, escudo de piedra y el casco historico de Haro empezando en la puerta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 49 · Suite teja luz (`49-suite-teja-luz.jpg`)
+Habitaciones amplias, luz natural y cero ruido.
+El centro de Haro esta fuera; dentro, un palacio entero para tu grupo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 50 · Bano espejo (`50-bano-espejo.jpg`)
+Banos nuevos dentro de muros de 1733.
+Espejos retroiluminados, griferia dorada y microcemento.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 51 · Ducha dorada (`51-ducha-dorada.jpg`)
+Ducha de lluvia y griferia dorada.
+Los banos del palacio se reformaron enteros respetando el edificio original.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 52 · Suite mostaza (`52-suite-mostaza.jpg`)
+La habitacion mostaza, con su balcon al casco historico.
+Ocho huespedes, cada uno con su espacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 53 · Suite mostaza cortina (`53-suite-mostaza-cortina.jpg`)
+Cortinas hasta el suelo y una cama que pide quedarse.
+El Palacio de Manzanos se alquila entero: la casa es tuya mientras estas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 54 · Fachada barroca (`54-fachada-barroca.jpg`)
+El escudo barroco de la fachada, tal cual en 1733.
+Un palacio noble en el centro de Haro, capital del Rioja.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 55 · Literas ninos (`55-literas-ninos.jpg`)
+Literas de verdad para los pequenos.
+El palacio esta pensado tambien para venir en familia, no solo para adultos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 56 · Literas dobles (`56-literas-dobles.jpg`)
+Dos literas, cuatro camas y una habitacion solo para los ninos.
+Una escapada en familia en la que cada uno duerme a gusto.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 57 · Bano doble lavabo (`57-bano-doble-lavabo.jpg`)
+Dos lavabos, dos espejos y cero colas por la manana.
+Los banos del palacio estan pensados para grupos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 58 · Fachada haro calle (`58-fachada-haro-calle.jpg`)
+Se sale por esta puerta y ya estas en Haro.
+Bodegas centenarias, la Plaza de la Paz y el Barrio de la Estacion, a pie.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 59 · Atico vigas (`59-atico-vigas.jpg`)
+Vigas de madera originales y una claraboya al cielo de Haro.
+El atico del palacio es la habitacion que todo el mundo quiere.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 60 · Atico escritorio (`60-atico-escritorio.jpg`)
+Escritorio bajo las vigas, por si toca trabajar.
+Wifi, mesa y silencio: el palacio tambien funciona como sede de un offsite.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 61 · Atico cama (`61-atico-cama.jpg`)
+Dormir bajo las vigas de 1733.
+La planta superior conserva la estructura de madera original del palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 62 · Ducha atico (`62-ducha-atico.jpg`)
+Una ducha bajo las vigas.
+Reforma nueva, estructura original: asi es todo el palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 63 · Bano atico luz (`63-bano-atico-luz.jpg`)
+Luz calida, madera vista y toallas esperando.
+Los banos del atico del Palacio de Manzanos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 64 · Desayuno familia (`64-desayuno-familia.jpg`)
+El desayuno, a la hora que os de la gana.
+Sin buffet, sin turnos y sin bajar a ningun comedor: la cocina es vuestra.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 65 · Desayuno piano (`65-desayuno-piano.jpg`)
+Desayunar con el piano al fondo.
+Alquilar el palacio entero es esto: la casa funciona a vuestro ritmo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 66 · Sofa salon (`66-sofa-salon.jpg`)
+Una tarde tranquila en el salon.
+El palacio no es solo para salir: tambien se disfruta por dentro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 67 · Charla sofa (`67-charla-sofa.jpg`)
+Conversaciones que no miran el reloj.
+350 m2 privados en el centro de Haro, para vosotros solos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 68 · Familia sofa piano (`68-familia-sofa-piano.jpg`)
+Todos en el mismo sofa, con el piano al lado.
+Un palacio entero para una sola familia.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 69 · Descorchar (`69-descorchar.jpg`)
+La botella que has traido de la bodega, abierta en tu propia mesa.
+Quesos, pan y un Rioja: el mejor plan de Haro pasa dentro de casa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 70 · Tabla quesos (`70-tabla-quesos.jpg`)
+Tabla de quesos, fresas y una botella recien abierta.
+El aperitivo se monta en el comedor del palacio, sin reservar mesa en ningun sitio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 71 · Servir copa (`71-servir-copa.jpg`)
+Servir sin prisa, en tu propio palacio.
+Haro tiene mas bodegas centenarias por metro cuadrado que ningun otro sitio del mundo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 72 · Copa piano (`72-copa-piano.jpg`)
+Una copa, el piano y nadie mas en el edificio.
+Asi suena una noche cualquiera en el Palacio de Manzanos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 73 · Descorchar mural (`73-descorchar-mural.jpg`)
+El mural de uvas del comedor, testigo de todos los brindis.
+Un palacio de 1733 en Haro, decorado sin miedo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 74 · Mesa desayuno (`74-mesa-desayuno.jpg`)
+La mesa puesta antes de que baje nadie.
+Zumo, bolleria y fruta en el comedor del palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 75 · Pareja copas salon (`75-pareja-copas-salon.jpg`)
+Una escapada de dos en un palacio entero.
+Haro, La Rioja: bodegas centenarias a pie y el casco historico en la puerta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 76 · Piano tocando (`76-piano-tocando.jpg`)
+El piano de cola esta afinado y se toca.
+No es decoracion: es parte de la casa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 77 · Brindis comedor (`77-brindis-comedor.jpg`)
+Brindar en tu propio comedor, sin mirar la hora de cierre.
+El Palacio de Manzanos se alquila completo, para un solo grupo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 78 · Ninos juegos (`78-ninos-juegos.jpg`)
+Una zona de juegos solo para ellos.
+El palacio tiene sitio de sobra para que los ninos tengan el suyo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 79 · Ninos casita (`79-ninos-casita.jpg`)
+La casa de munecas, la alfombra de carreteras y todo el pasillo para ellos.
+Venir con ninos a La Rioja tiene premio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 80 · Nina cocinita (`80-nina-cocinita.jpg`)
+Su propia cocina, mientras en la de verdad se prepara la cena.
+Una escapada a Rioja que funciona tambien para los pequenos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 81 · Ninos atico juego (`81-ninos-atico-juego.jpg`)
+El atico se convierte en zona de juegos por las tardes.
+350 m2 dan para que cada uno tenga su rincon.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 82 · Casa munecas (`82-casa-munecas.jpg`)
+Detalles que no esperas en un palacio del XVIII.
+Aqui los ninos tienen su sitio, no solo los adultos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 83 · Gimnasio cinta (`83-gimnasio-cinta.jpg`)
+Gimnasio propio dentro del palacio.
+Cinta, eliptica y remo, disponibles a cualquier hora y sin compartir.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 84 · Remo (`84-remo.jpg`)
+Entrenar por la manana y bajar a las bodegas por la tarde.
+El gimnasio del palacio esta siempre abierto, porque la casa es vuestra.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 85 · Cine familia (`85-cine-familia.jpg`)
+Butacas reclinables, palomitas y sesion privada.
+La sala de cine del palacio, para toda la familia.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 86 · Cine ninos (`86-cine-ninos.jpg`)
+Palomitas en la primera fila.
+Una sala de cine dentro de un palacio de 1733, para tu grupo solo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 87 · Billar pareja (`87-billar-pareja.jpg`)
+Partida de billar a la hora que sea.
+Sin turnos, sin fichas y sin nadie esperando: la sala es vuestra.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 88 · Billar familia (`88-billar-familia.jpg`)
+La primera partida de billar, con ayuda.
+El palacio funciona para grupos de todas las edades.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 89 · Billar aparador (`89-billar-aparador.jpg`)
+Mesa de billar, aparador azul y luz de Haro entrando por el balcon.
+La sala de juegos del Palacio de Manzanos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 90 · Familia desayuno mural (`90-familia-desayuno-mural.jpg`)
+El desayuno se alarga cuando nadie te echa.
+Alquilar el palacio entero significa exactamente eso.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 91 · Cama mostaza (`91-cama-mostaza.jpg`)
+Cabecero mostaza, sabanas blancas y flores frescas.
+Las habitaciones del palacio se preparan una a una antes de cada llegada.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 92 · Literas habitacion (`92-literas-habitacion.jpg`)
+La habitacion de las literas, con su ventana al casco historico.
+Sitio para todos sin renunciar a nada.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 93 · Atico suite vigas (`93-atico-suite-vigas.jpg`)
+La suite del atico, bajo el entramado de madera original.
+Lo mejor de un palacio de 1733 esta arriba del todo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 94 · Sauna gimnasio (`94-sauna-gimnasio.jpg`)
+Sauna de infrarrojos y gimnasio, en la misma planta.
+Se entra sin reservar y sin compartir con nadie.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 95 · Sauna dos (`95-sauna-dos.jpg`)
+Sauna para dos, a la hora que querais.
+El spa del palacio no tiene horarios porque no lo comparte nadie mas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 96 · Sauna eliptica (`96-sauna-eliptica.jpg`)
+Sauna, eliptica y silencio.
+La planta de bienestar del Palacio de Manzanos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+### 97 · Sauna gym conjunto (`97-sauna-gym-conjunto.jpg`)
+Gimnasio y sauna en el mismo espacio.
+Un palacio del XVIII con todo lo que esperas de una casa de 2026.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #PalacioPrivado #LuxuryRental #EscapadaDeLujo #VisitSpain
+
+### 98 · Cama naranja (`98-cama-naranja.jpg`)
+Cabecero naranja y apliques de laton.
+Cada habitacion del palacio tiene su color.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #AlquilerIntegro #LuxurySpain #WineCountry #Rioja
+
+### 99 · Cama verde doble (`99-cama-verde-doble.jpg`)
+Cojines, flores y la cama hecha antes de que llegues.
+El Palacio de Manzanos se prepara entero para un solo grupo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #PalacioPrivado #EscapadaEnFamilia #LaRioja #LuxuryTravel
+
+### 100 · Desayuno cama teja (`100-desayuno-cama-teja.jpg`)
+Desayuno en la cama en un palacio de 1733.
+Haro entero al otro lado de la ventana.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
+
+## 174 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -867,7 +1254,468 @@ El arte de la cata. 🍷
 Catas privadas en bodegas centenarias, organizadas desde el Palacio.
 #PalacioDeManzanos #CataDeVino #Rioja #EnoturismoLujo #WineTasting #VinoDeRioja #WineLovers #LaRioja
 
-## 12 STORIES
+<!-- Entorno desde Pexels, anadido el 2026-09-17. Cada imagen se reviso a ojo
+     (marca de terceros, interior ajeno, geografia falsa) antes de aprobarla. -->
+
+### px013 · Vinedo (`px2-vinedo-32618091.jpg`)
+Rioja en septiembre, justo antes de la vendimia.
+Desde el Palacio se sale a los vinedos en minutos: Haro esta rodeado de ellos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px014 · Vinedo (`px2-vinedo-12489319.jpg`)
+Hileras hasta donde llega la vista.
+Haro es la capital del Rioja y se nota en cuanto sales del casco historico.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px015 · Vinedo (`px2-vinedo-15103839.jpg`)
+El verde de junio en los vinedos de Rioja.
+Cada mes tiene su color, y todos se ven a diez minutos del Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px016 · Vinedo (`px2-vinedo-6497728.jpg`)
+Un camino entre vinedos al atardecer.
+El mejor plan de la tarde en Haro no cuesta nada.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px017 · Vinedo (`px2-vinedo-17571317.jpg`)
+La vina en primavera, cuando todo empieza otra vez.
+Rioja no se visita solo en vendimia.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px018 · Vinedo (`px2-vinedo-31561191.jpg`)
+Vinedos hasta el horizonte.
+Haro concentra mas bodegas centenarias por metro cuadrado que ningun otro lugar del mundo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px019 · Vinedo (`px2-vinedo-28438012.jpg`)
+Tierra, cepa y paciencia.
+Todo lo que acaba en la copa empieza aqui, a un paso del Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px020 · Vinedo (`px2-vinedo-16838620.jpg`)
+Otono en la vina.
+Entre septiembre y octubre Rioja cambia de color y se llena de trabajo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px021 · Barricas (`px2-barricas-15997320.jpg`)
+Roble, silencio y tiempo.
+Los calados de Haro guardan miles de barricas a temperatura constante todo el ano.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px022 · Barricas (`px2-barricas-31086289.jpg`)
+Bajo tierra, el vino no tiene prisa.
+Los calados historicos de Haro se excavaron hace siglos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px023 · Vino (`px2-vino-14465764.jpg`)
+Una copa de Rioja, sin mas plan.
+El mejor sitio para abrirla es donde no hay horarios.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px024 · Vino (`px2-vino-8983996.jpg`)
+Servir despacio.
+Un tinto de Haro pide tiempo y compania.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px025 · Vino (`px2-vino-21967056.jpg`)
+La copa que cierra el dia.
+Despues de las bodegas, la ultima se toma en casa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px026 · Vino (`px2-vino-6621630.jpg`)
+Brindar es el verbo de Haro.
+Y el 29 de junio, la Batalla del Vino lo lleva al extremo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px027 · Gastro (`px2-gastro-20522416.jpg`)
+Quesos, pan y un Rioja.
+La merienda que resuelve cualquier tarde en Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px028 · Gastro (`px2-gastro-8472896.jpg`)
+Tabla, vino y conversacion.
+El aperitivo se monta en casa, sin reservar mesa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px029 · Gastro (`px2-gastro-16594953.jpg`)
+Pan, aceite y poco mas.
+La cocina del norte no necesita complicarse.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px030 · Gastro (`px2-gastro-18853370.jpg`)
+Jamon y tinto.
+El maridaje que nunca falla en La Rioja.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px031 · Gastro (`px2-gastro-30716336.jpg`)
+Pintxos en la barra.
+San Sebastian esta a hora y cuarenta del Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px032 · Gastro (`px2-gastro-4877860.jpg`)
+La barra vasca, en su version mas seria.
+Un dia de pintxos entra perfecto en una escapada a Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px033 · Gastro (`px2-gastro-6232568.jpg`)
+Tostas para empezar.
+Aqui las tapas se sirven sin pedirlas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px034 · Gastro (`px2-gastro-34337579.jpg`)
+Comer de pie y sin prisa.
+Otra manera de entender el norte.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px035 · Gastro (`px2-gastro-30335674.jpg`)
+Una mesa larga y cosas para picar.
+El plan de sobremesa del Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px036 · Gastro (`px2-gastro-33486717.jpg`)
+Aperitivo antes de la cena.
+La costumbre mas riojana que existe.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px037 · Gastro (`px2-gastro-33486722.jpg`)
+Sin mantel y sin ceremonia.
+La buena cocina del norte es asi.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px038 · Pueblo (`px2-pueblo-32542553.jpg`)
+Piedra, madera y siglos.
+Los pueblos de la Sonsierra riojana se recorren en una manana.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px039 · Pueblo (`px2-pueblo-38016947.jpg`)
+Una puerta que lleva abierta doscientos anos.
+En Haro, el casco historico esta lleno de ellas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px040 · Pueblo (`px2-pueblo-31130498.jpg`)
+Muros de piedra y sombra fresca.
+El plan perfecto para un dia de calor.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px041 · Pueblo (`px2-pueblo-37553978.jpg`)
+Calles que no cambian.
+Y una ruta de bodegas a la vuelta de la esquina.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px042 · Costa (`px2-costa-36372643.jpg`)
+El Cantabrico a hora y media.
+Un dia de costa vasca entra perfectamente en una escapada a Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px043 · Costa (`px2-costa-33664044.jpg`)
+Acantilados y mar abierto.
+El norte, cuando se pone serio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px044 · Costa (`px2-costa-21550533.jpg`)
+Del vinedo al mar en una manana.
+La Ruta Norte se hace desde el Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px045 · Costa (`px2-costa-32406224.jpg`)
+Olas contra la roca.
+La costa vasca no se parece a ninguna otra.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px046 · Costa (`px2-costa-3723706.jpg`)
+Playa, verde y viento.
+Asi es el Cantabrico en verano.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px047 · Bilbao (`px2-bilbao-39449108.jpg`)
+Del vinedo al titanio en poco mas de una hora.
+Bilbao es la excursion mas facil desde Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px048 · Bilbao (`px2-bilbao-39212531.jpg`)
+Arquitectura y ria.
+Bilbao cambio de cara y hoy es parada obligatoria.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px049 · Bilbao (`px2-bilbao-33290890.jpg`)
+Un dia en Bilbao y vuelta a cenar al Palacio.
+La Ruta Norte funciona asi.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px050 · Bilbao (`px2-bilbao-39080684.jpg`)
+La ria, de punta a punta.
+Se recorre andando en una tarde.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px051 · Campo (`px2-campo-33189506.jpg`)
+Campos dorados en pleno verano.
+La Rioja no es solo vinedo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px052 · Campo (`px2-campo-35855085.jpg`)
+Tierra de cereal y de vina.
+Las dos conviven a las puertas de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px053 · Campo (`px2-campo-15207535.jpg`)
+Colinas y silencio.
+Lo que se ve al salir del pueblo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px054 · Campo (`px2-campo-30890875.jpg`)
+Girasoles en julio.
+Otro de los colores del verano riojano.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px055 · Campo (`px2-campo-14389416.jpg`)
+Amanecer con niebla en el valle.
+En otono, esto se ve casi cada manana.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px056 · Campo (`px2-campo-29653506.jpg`)
+Un arbol, un campo y nada mas.
+A veces el paisaje no necesita adornos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px057 · Campo (`px2-campo-14899025.jpg`)
+La primera luz sobre el campo.
+Merece madrugar una vez.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px058 · Campo (`px2-campo-39439574.jpg`)
+Rios y puentes de piedra.
+El Ebro y sus afluentes cruzan toda la comarca.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px059 · Campo (`px2-campo-39169166.jpg`)
+El Ebro marca el paisaje.
+Y tambien el caracter del vino de esta zona.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px060 · Campo (`px2-campo-12645933.jpg`)
+Invierno en Rioja.
+La vina descansa y los calados siguen trabajando.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px061 · Campo (`px2-campo-17210296.jpg`)
+Cielo estrellado sobre el campo.
+Lejos de las ciudades todavia se ven.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px062 · Campo (`px2-campo-9457343.jpg`)
+Montanas al fondo, vina delante.
+La Sierra de Cantabria protege los vinedos del norte.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px063 · Campo (`px2-campo-38633901.jpg`)
+Valles verdes del norte.
+Media hora de coche y el paisaje cambia del todo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### px064 · Uvas (`px2-uvas-13686778.jpg`)
+Tempranillo a punto.
+La vendimia en Rioja arranca a finales de agosto y se alarga hasta octubre.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### px065 · Uvas (`px2-uvas-1425350.jpg`)
+Racimos listos para el corte.
+Septiembre y octubre son los meses en que Haro no duerme.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### px066 · Uvas (`px2-uvas-30741636.jpg`)
+La uva manda.
+Todo lo demas, en una bodega, es acompanarla.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+<!-- Entorno Pexels, 3a tanda del 2026-09-17. Revisadas una a una. -->
+
+### py001 · Vinedo (`px3-vinedo-28248506.jpg`)
+Rioja desde arriba.
+Las hileras dibujan el paisaje que rodea Haro en todas direcciones.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### py002 · Vinedo (`px3-vinedo-5859153.jpg`)
+La vendimia mecanizada convive con la de mano.
+En Rioja siguen conviviendo las dos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### py003 · Vinedo (`px3-vinedo-39426739.jpg`)
+El mosaico de octubre.
+Cada parcela cambia de color a su ritmo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### py004 · Vinedo (`px3-vinedo-4622289.jpg`)
+Niebla sobre la vina al amanecer.
+En otono, el valle del Ebro se despierta asi.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### py005 · Vinedo (`px3-vinedo-39019707.jpg`)
+Cepas viejas en vaso.
+La poda tradicional de Rioja sigue viva en muchas parcelas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### py006 · Vinedo (`px3-vinedo-16977561.jpg`)
+Muros de piedra entre parcelas.
+El paisaje de Rioja tambien se construyo a mano.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### py007 · Barricas (`px3-barricas-6752422.jpg`)
+Una nave entera de roble.
+Las bodegas de Haro cuentan las barricas por miles.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### py008 · Barricas (`px3-barricas-16547186.jpg`)
+Arcos de piedra bajo tierra.
+Los calados del Barrio de la Estacion se excavaron en el XIX.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### py009 · Barricas (`px3-barricas-32523794.jpg`)
+Aqui el tiempo se mide en anadas.
+Y en Haro hay bodegas que llevan mas de un siglo midiendolo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### py010 · Uvas (`px3-uvas-9714214.jpg`)
+Uva recien despalillada.
+El primer paso, nada mas entrar en bodega.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### py011 · Uvas (`px3-uvas-9840056.jpg`)
+El cubo que abre la vendimia.
+En Rioja se corta entre finales de agosto y octubre.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### py012 · Vino (`px3-vino-9220875.jpg`)
+Una cena larga y dos copas.
+Lo que mejor funciona despues de un dia de bodegas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### py013 · Vino (`px3-vino-36027977.jpg`)
+Copas en fila, listas para catar.
+Las catas privadas se organizan desde el Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### py014 · Vino (`px3-vino-12268571.jpg`)
+Velas, mesa puesta y tinto.
+No hace falta salir para cenar bien en Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### py015 · Gastro (`px3-gastro-5662173.jpg`)
+Queso, nueces y poco mas.
+La merienda mas facil del norte.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### py016 · Gastro (`px3-gastro-13728911.jpg`)
+Embutido, pan y naranja.
+El aperitivo riojano no se complica.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### py017 · Pueblo (`px3-pueblo-35111837.jpg`)
+Calles empedradas y casas de piedra.
+Los pueblos de la Rioja Alta se recorren andando.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### py018 · Pueblo (`px3-pueblo-20375044.jpg`)
+Hiedra roja sobre muro de piedra.
+El otono tambien se nota en los pueblos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### py019 · Campo (`px3-campo-17299063.jpg`)
+Verde antes del verano.
+Mayo y junio son los meses mas bonitos del campo riojano.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### py020 · Campo (`px3-campo-16852997.jpg`)
+Cereal hasta el horizonte.
+Vina y cereal comparten la Rioja Alta.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaRioja #Haro #EnoturismoRioja #VinoDeRioja #TravelSpain
+
+### py021 · Costa (`px3-costa-38010839.jpg`)
+Atardecer sobre el Cantabrico.
+Hora y media de coche desde el Palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Haro #RutaDelVino #VisitSpain #LaRioja #WineLovers
+
+### py022 · Costa (`px3-costa-3788089.jpg`)
+Cala de roca y agua fria.
+El norte, en estado puro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+## 242 STORIES
 
 (Captions cortos — las stories admiten poco texto. Hashtag opcional.)
 
@@ -927,6 +1775,691 @@ Campos dorados de La Rioja 🌾
 
 ### px18 · `px-st-costa-story.jpg`
 Costa vasca 🌊 · a 1 h 40 del Palacio
+
+
+<!-- Stories del pool de entorno, generadas por la rutina semanal de refresh.
+     Caption = gancho del post gemelo (misma foto, mismo tema).
+     Incorporadas a la rotacion el 2026-09-17: 65 tarjetas. -->
+
+### s019 · `s20-bodegas-historia-story.jpg`
+Cuatro siglos excavados bajo Haro. 🛢️
+
+### s020 · `s22-vendimia-jornada-story.jpg`
+Amanece sobre el viñedo y empieza la vendimia. 🌅
+
+### s021 · `s24-familia-edades-story.jpg`
+Abuelos, padres y niños, todos bajo el mismo techo. 👨‍👩‍👧‍👦
+
+### s022 · `s25-sierra-cantabria-story.jpg`
+Hileras de cepas y, al fondo, la Sierra de Cantabria. ⛰️
+
+### s023 · `s26-guggenheim-bilbao-story.jpg`
+Del viñedo al Guggenheim en poco más de una hora. 🏛️
+
+### s024 · `s27-verano-vinedos-campo-story.jpg`
+Verano en Rioja: campo, viñedo y vida al aire libre. ☀️🍇
+
+### s025 · `s28-plaza-de-la-paz-story.jpg`
+El corazón de Haro late en la Plaza de la Paz. 🏛️
+
+### s026 · `s29-haro-gastronomia-story.jpg`
+Vino, tapas y cultura: el plan perfecto en Haro. 🍷
+
+### s027 · `s32-bodegas-cuantas-hay-story.jpg`
+¿Sabes cuántas bodegas centenarias hay en Haro? 🍷
+
+### s028 · `s33-experiencias-atardecer-story.jpg`
+La mejor copa de Rioja es la que se bebe al atardecer. 🌅
+
+### s029 · `s34-vendimia-amanecer-story.jpg`
+La vendimia empieza cuando aún no ha salido el sol. 🍇
+
+### s030 · `s35-calado-historico-story.jpg`
+Bajo Haro late un mundo subterráneo de calados centenarios. 🛢️
+
+### s031 · `s37-experiencias-globo-story.jpg`
+En Rioja el vino es solo el principio. 🎈
+
+### s032 · `s38-visitar-bodegas-haro-story.jpg`
+El Barrio de la Estación de Haro reúne algunas de las bodegas más legendarias del mundo. 🍷
+
+### s033 · `s39-vendimia-fechas-2026-story.jpg`
+Cada septiembre Rioja se pone en marcha con la vendimia. 🍇
+
+### s034 · `s40-retiro-team-building-story.jpg`
+El mejor offsite no se celebra en una sala de reuniones. 🥂
+
+### s035 · `s41-ruta-norte-3dias-story.jpg`
+San Sebastián, Bilbao y Rioja, más cerca de lo que imaginas. 🌊
+
+### s036 · `s42-familia-palacio-story.jpg`
+Todos bajo el mismo techo, en un palacio para vosotros solos. 👨‍👩‍👧‍👦
+
+### s037 · `s43-planificar-enoturismo-story.jpg`
+Planificar bien una escapada de vino es la mitad del viaje. 🍷
+
+### s038 · `s45-donde-alojarse-norte-story.jpg`
+Una sola base para descubrir todo el norte. 🗺️
+
+### s039 · `s46-participar-vendimia-story.jpg`
+Coger la tijera y vendimiar con tus propias manos. 🍇
+
+### s040 · `s47-familia-aire-libre-story.jpg`
+Rioja también se disfruta en familia, y al aire libre. 👨‍👩‍👧‍👦
+
+### s041 · `s49-ruta-pintxos-donostia-story.jpg`
+Una barra, un txikito y un pintxo en la mano. 🍢
+
+### s042 · `s50-familia-cuantos-dias-story.jpg`
+¿Cuántos días necesitas para venir con los niños? 👨‍👩‍👧‍👦
+
+### s043 · `s51-donde-comer-haro-story.jpg`
+Chuletillas al sarmiento y una copa de la tierra. 🥩
+
+### s044 · `s52-vendimia-cuando-reservar-story.jpg`
+La vendimia se reserva en verano, no en septiembre. 🍇
+
+### s045 · `s54-calados-subterraneos-story.jpg`
+Bajo Haro hay túneles de piedra llenos de barricas. 🛢️
+
+### s046 · `s56-haro-48h-plaza-story.jpg`
+Un fin de semana en Haro empieza en su plaza. 🎪
+
+### s047 · `s57-brindis-catas-story.jpg`
+El mejor plan de Rioja cabe en una copa. 🍷
+
+### s048 · `s60-atardecer-ebro-story.jpg`
+El sol se pone sobre el Ebro y Haro se queda en silencio. 🌅
+
+### s049 · `s61-conchas-haro-vinedos-story.jpg`
+Donde el Ebro se abre paso entre la roca, empieza Rioja Alta. 🏔️
+
+### s050 · `s62-calado-botellero-story.jpg`
+Silencio, penumbra y el tiempo trabajando a favor. 🍷
+
+### s051 · `s63-vinedos-otono-alavesa-story.jpg`
+Cuando la hoja se vuelve roja, la viña se despide del año. 🍂
+
+### s052 · `s64-la-concha-donostia-story.jpg`
+Una de las bahías más bonitas de Europa, a poco más de una hora del palacio. 🌊
+
+### s053 · `s65-vinedo-atardecer-story.jpg`
+La mejor hora del día en Rioja llega cuando el sol roza las cepas. 🌅
+
+### s054 · `s66-cesta-vendimia-story.jpg`
+Racimos recién cortados, tierra de cantos y arcilla, y el aroma del mosto en el aire. 🍇
+
+### s055 · `s67-vendimia-otono-pueblo-story.jpg`
+Este año la vendimia llega antes de lo previsto, y el viñedo ya se viste de cobre y granate alrededor de...
+
+### s056 · `s68-vinedos-otono-sierra-story.jpg`
+Rojo, ocre y verde en franjas que suben hasta la falda de la sierra: así se despide el viñedo del año. 🍁
+
+### s057 · `s70-iglesia-santo-tomas-haro-story.jpg`
+Sobre los tejados de Haro se alza la torre renacentista de Santo Tomás. ⛪
+
+### s058 · `s72-vinedos-otono-story.jpg`
+Cuando termina la vendimia, Rioja se enciende: hileras rojas, cobrizas y doradas que caen ladera abajo...
+
+### s059 · `s73-pueblo-sonsierra-story.jpg`
+Un pequeño pueblo con su iglesia, rodeado de viñedos verdes y protegido por la Sierra de Cantabria. 🌄
+
+### s060 · `s74-san-sebastian-concha-story.jpg`
+La bahía de La Concha vista desde el monte: una de las playas urbanas más bonitas de Europa. 🌊
+
+### s061 · `s75-barricas-calado-story.jpg`
+Filas y filas de barricas de roble descansando en la penumbra fresca del calado. 🛢️
+
+### s062 · `s76-familia-vinedo-story.jpg`
+Caminar sin prisa por los campos verdes, con los tuyos, al atardecer. 🌿
+
+### s063 · `s78-vendimia-caja-uva-story.jpg`
+Racimo cortado, caja llena, viñedo adelante. 🍇
+
+### s064 · `s79-calado-barricas-carteles-story.jpg`
+Un pasillo de barricas que se pierde al fondo, carteles antiguos en la pared de ladrillo y doce grados...
+
+### s065 · `s80-vinedo-verde-verano-story.jpg`
+Hileras verdes, cielo abierto y suelo de canto rodado. 🌿
+
+### s066 · `s81-mesa-familia-aire-libre-story.jpg`
+Jarras que van y vienen, velas encendidas y una mesa a la que no le sobra ni le falta nadie. 🕯️
+
+### s067 · `s82-costa-vasca-escalinata-story.jpg`
+Escalones de piedra que bajan hasta el Cantábrico, el mar rompiendo contra la roca y gente diminuta...
+
+### s068 · `s83-casco-viejo-calle-piedra-story.jpg`
+Un voladizo de madera centenaria, sillería dorada y un farol de forja en una calle por la que no pasa un...
+
+### s069 · `s84-ebro-otono-story.jpg`
+El Ebro visto desde el aire, con las choperas ya doradas y los viñedos cambiando de color a los dos lados. 🍂
+
+### s070 · `s85-lluvia-vinedo-story.jpg`
+Una hoja de vid con la lluvia todavía encima. 💧
+
+### s071 · `s86-invierno-escarcha-story.jpg`
+Escarcha sobre las cepas y niebla en el valle: la viña dormida. ❄️
+
+### s072 · `s87-calado-arcos-story.jpg`
+Bóvedas de ladrillo excavadas bajo tierra, una detrás de otra, en penumbra. 🛢️
+
+### s073 · `s88-vendimia-familia-story.jpg`
+Un cesto de mimbre, una cepa cargada y una niña mirando el racimo que acaba de cortar. 🍇
+
+### s074 · `s89-octubre-hoja-dorada-story.jpg`
+La hoja de la vid se vuelve dorada y el suelo entre cepas se cubre de amarillo. 🍂
+
+### s075 · `s90-sierra-cantabria-story.jpg`
+Viñedos de hoja cobriza y, detrás, la muralla de roca de la Sierra de Cantabria. 🏔️
+
+### s076 · `s91-bilbao-guggenheim-story.jpg`
+El titanio del Guggenheim encendido por la última luz de la tarde. 🏛️
+
+### s077 · `s92-cesto-vendimia-story.jpg`
+Cesto de mimbre, racimos recién cortados y las manos aún aprendiendo dónde va la tijera. 🍇
+
+### s078 · `s93-casa-entera-vinedo-story.jpg`
+Cepas viejas en vaso, tierra roja y la sierra todavía nevada al fondo. 🍇
+
+### s079 · `s94-san-millan-yuso-story.jpg`
+El Monasterio de Yuso, en San Millán de la Cogolla, a unos cuarenta minutos de Haro. 🏛️
+
+### s080 · `s95-noviembre-niebla-story.jpg`
+Hoja dorada, cepas en vaso y la niebla baja tapando el valle. 🍂
+
+### s081 · `s96-navidad-vinedo-nevado-story.jpg`
+La viña podada bajo la nieve y la montaña blanca al fondo. ❄️
+
+### s082 · `s97-bodega-con-comida-story.jpg`
+Una copa de tinto, embutido, pimientos rellenos y el corcho recién sacado. 🍷
+
+### s083 · `s98-aprender-a-catar-story.jpg`
+La copa, siempre por el tallo. 🍷
+
+<!-- Stories anadidas el 2026-09-17 desde fotos propias del Palacio. -->
+
+### p001 · `13-st-cine-butacas.jpg`
+Sala de cine privada · butacas reclinables
+
+### p002 · `14-st-pasillo-escalera.jpg`
+Pasillos y escaleras de un palacio de 1733
+
+### p003 · `15-st-escalera-madera.jpg`
+La escalera original, restaurada
+
+### p004 · `16-st-cocina-vinoteca.jpg`
+Cocina equipada + vinoteca climatizada
+
+### p005 · `17-st-salon-comedor.jpg`
+Salon y comedor, sin compartir con nadie
+
+### p006 · `18-st-comedor-cortinas.jpg`
+Comedor con balcones a la calle
+
+### p007 · `19-st-suite-verde.jpg`
+Habitacion verde · cama de matrimonio
+
+### p008 · `20-st-suite-verde-puerta.jpg`
+Luz de la manana en Haro
+
+### p009 · `21-st-suite-teja.jpg`
+Habitacion teja · vistas a Haro
+
+### p010 · `22-st-suite-armarios.jpg`
+Armarios empotrados en cada habitacion
+
+### p011 · `23-st-bano-ducha.jpg`
+Banos completos en cada planta
+
+### p012 · `24-st-suite-mostaza.jpg`
+Habitacion mostaza · cama King
+
+### p013 · `25-st-habitacion-tv.jpg`
+Cada habitacion, con su television
+
+### p014 · `26-st-consola-azul.jpg`
+Detalles de interiorismo en cada rincon
+
+### p015 · `27-st-bano-doble.jpg`
+Doble lavabo · sin colas por la manana
+
+### p016 · `28-st-atico-velux.jpg`
+El atico, bajo las vigas originales
+
+### p017 · `29-st-atico-trabajo.jpg`
+Rincon de trabajo bajo las vigas
+
+### p018 · `30-st-bano-atico.jpg`
+Bano del atico · espejo retroiluminado
+
+### p019 · `31-st-bano-paso.jpg`
+Bano en suite en el atico
+
+### p020 · `32-st-fachada-balcon.jpg`
+Balcones de piedra sobre Haro
+
+### p021 · `33-st-desayuno-mural.jpg`
+Desayunos largos bajo el mural de uvas
+
+### p022 · `34-st-sofa-ninos.jpg`
+Tardes de sofa en el salon noble
+
+### p023 · `35-st-sofa-comedor.jpg`
+El salon, con el comedor al fondo
+
+### p024 · `36-st-cocina-familia.jpg`
+La cocina, el centro de la casa
+
+### p025 · `37-st-servir-vino.jpg`
+Un Rioja en la mesa del palacio
+
+### p026 · `38-st-copas-mesa.jpg`
+Aperitivo en casa, con vino de Haro
+
+### p027 · `39-st-copa-piano.jpg`
+Una copa junto al piano de cola
+
+### p028 · `40-st-copa-ventanal.jpg`
+Luz de tarde en el salon noble
+
+### p029 · `41-st-servir-tinto.jpg`
+Se descorcha cuando vosotros querais
+
+### p030 · `42-st-brindis-salon.jpg`
+Brindis en el salon noble
+
+### p031 · `43-st-piano-copas.jpg`
+El piano suena mientras se sirve el vino
+
+### p032 · `44-st-brindis-mural.jpg`
+Brindis bajo el mural de uvas
+
+### p033 · `45-st-desayuno-familia.jpg`
+Desayunos en familia, sin horarios
+
+### p034 · `46-st-ninos-jugando.jpg`
+Rincon de juego para los mas pequenos
+
+### p035 · `47-st-cocinita.jpg`
+Zona infantil en el atico
+
+### p036 · `48-st-casa-munecas.jpg`
+La casa de munecas del atico
+
+### p037 · `49-st-gimnasio.jpg`
+Gimnasio privado · abierto 24/7
+
+### p038 · `50-st-cine-familia.jpg`
+Sesion de cine privada, con palomitas
+
+### p039 · `51-st-sala-cine.jpg`
+Pantalla grande y butacas reclinables
+
+### p040 · `52-st-billar-partida.jpg`
+Billar en la sala de juegos
+
+### p041 · `53-st-billar-ninos.jpg`
+Noches de billar en familia
+
+### p042 · `54-st-desayuno-ventana.jpg`
+Desayuno con vistas a Haro
+
+### p043 · `55-st-familia-mesa.jpg`
+La mesa larga del comedor
+
+### p044 · `56-st-desayuno-cama.jpg`
+Desayuno en la cama, si te apetece
+
+### p045 · `57-st-literas.jpg`
+Literas para los mas pequenos
+
+### p046 · `58-st-atico-suite.jpg`
+Suite del atico · vigas de 1733
+
+### p047 · `59-st-sauna.jpg`
+Sauna de infrarrojos privada
+
+### p048 · `60-st-sauna-relax.jpg`
+Relax sin horarios
+
+### p049 · `61-st-sauna-madera.jpg`
+Madera, calor y cero prisa
+
+### p050 · `62-st-sauna-vigas.jpg`
+Sauna bajo las vigas del atico
+
+### p051 · `63-st-cama-naranja.jpg`
+Ropa de cama blanca, cada llegada
+
+### p052 · `64-st-cama-verde.jpg`
+Habitacion verde, lista para vosotros
+
+<!-- Stories de entorno (Pexels), 2026-09-17. -->
+
+### px001st · `px2-vinedo-8542735-story.jpg`
+Vinedos de Rioja 🍇
+
+### px002st · `px2-vinedo-15979979-story.jpg`
+Hileras al atardecer 🌅
+
+### px003st · `px2-vinedo-18561085-story.jpg`
+Verde de junio en la vina
+
+### px004st · `px2-vinedo-32577829-story.jpg`
+Camino entre vinedos
+
+### px005st · `px2-vinedo-12918881-story.jpg`
+Rioja antes de la vendimia
+
+### px006st · `px2-vinedo-39182650-story.jpg`
+La vina en otono 🍂
+
+### px007st · `px2-vinedo-7354043-story.jpg`
+Tierra y cepa
+
+### px008st · `px2-vinedo-39031835-story.jpg`
+Vinedos en ladera
+
+### px009st · `px2-barricas-30654300-story.jpg`
+Barricas de roble en el calado 🛢️
+
+### px010st · `px2-barricas-5537784-story.jpg`
+Calados historicos de Haro
+
+### px011st · `px2-vino-33166888-story.jpg`
+Una copa de Rioja 🍷
+
+### px012st · `px2-vino-28052217-story.jpg`
+Brindis en Haro 🥂
+
+### px013st · `px2-vino-36242615-story.jpg`
+Tinto y buena compania
+
+### px014st · `px2-vino-9750924-story.jpg`
+La ultima copa del dia
+
+### px015st · `px2-gastro-8473113-story.jpg`
+Quesos, pan y Rioja 🧀
+
+### px016st · `px2-gastro-1957011-story.jpg`
+Pintxos vascos 🍤
+
+### px017st · `px2-gastro-11957662-story.jpg`
+Jamon y tinto
+
+### px018st · `px2-gastro-35843896-story.jpg`
+Aperitivo antes de cenar
+
+### px019st · `px2-gastro-19894398-story.jpg`
+La cocina del norte
+
+### px020st · `px2-gastro-7624450-story.jpg`
+Tabla y conversacion
+
+### px021st · `px2-pueblo-15550279-story.jpg`
+Piedra y siglos
+
+### px022st · `px2-pueblo-38134202-story.jpg`
+Puertas de otro tiempo
+
+### px023st · `px2-pueblo-29131209-story.jpg`
+Casco historico
+
+### px024st · `px2-pueblo-18078467-story.jpg`
+Muros de piedra
+
+### px025st · `px2-costa-36372642-story.jpg`
+Costa vasca 🌊 · a 1 h 40 del Palacio
+
+### px026st · `px2-costa-33664054-story.jpg`
+Acantilados del Cantabrico
+
+### px027st · `px2-costa-6161775-story.jpg`
+Del vinedo al mar
+
+### px028st · `px2-costa-14139778-story.jpg`
+Olas contra la roca
+
+### px029st · `px2-costa-17832494-story.jpg`
+El flysch vasco
+
+### px030st · `px2-bilbao-39401702-story.jpg`
+Bilbao, a poco mas de una hora 🏛️
+
+### px031st · `px2-bilbao-39080677-story.jpg`
+La ria de Bilbao
+
+### px032st · `px2-bilbao-39205816-story.jpg`
+Titanio y agua
+
+### px033st · `px2-bilbao-39080680-story.jpg`
+Un dia en Bilbao
+
+### px034st · `px2-campo-38152535-story.jpg`
+Campos dorados de Rioja 🌾
+
+### px035st · `px2-campo-27782318-story.jpg`
+Girasoles de julio 🌻
+
+### px036st · `px2-campo-31484667-story.jpg`
+Amanecer con niebla
+
+### px037st · `px2-campo-39131952-story.jpg`
+El Ebro y sus puentes
+
+### px038st · `px2-campo-29704769-story.jpg`
+Invierno en la vina ❄️
+
+### px039st · `px2-campo-6888488-story.jpg`
+Cielo estrellado
+
+### px040st · `px2-campo-39439573-story.jpg`
+Sierra de Cantabria al fondo
+
+### px041st · `px2-campo-16114902-story.jpg`
+Valles verdes del norte
+
+### px042st · `px2-campo-20770265-story.jpg`
+La primera luz sobre el campo
+
+### px043st · `px2-uvas-34180011-story.jpg`
+Tempranillo a punto 🍇
+
+### px044st · `px2-uvas-21383904-story.jpg`
+Racimos listos para el corte
+
+<!-- Stories de entorno (Pexels, 3a tanda), 2026-09-17. -->
+
+### py001st · `px3-vinedo-15484390-story.jpg`
+Rioja desde el aire 🍇
+
+### py002st · `px3-vinedo-34420259-story.jpg`
+Vendimia en marcha
+
+### py003st · `px3-vinedo-6497726-story.jpg`
+El mosaico de octubre 🍂
+
+### py004st · `px3-vinedo-28438007-story.jpg`
+Niebla sobre la vina
+
+### py005st · `px3-vinedo-16254818-story.jpg`
+Cepa vieja en vaso
+
+### py006st · `px3-vinedo-11950226-story.jpg`
+Parcelas y muros de piedra
+
+### py007st · `px3-barricas-5732739-story.jpg`
+Miles de barricas bajo Haro 🛢️
+
+### py008st · `px3-barricas-35382779-story.jpg`
+Arcos de piedra en el calado
+
+### py009st · `px3-uvas-18478457-story.jpg`
+Uva recien entrada en bodega 🍇
+
+### py010st · `px3-uvas-18478446-story.jpg`
+El cubo de la vendimia
+
+### py011st · `px3-vino-36028957-story.jpg`
+Cena larga y buen tinto 🍷
+
+### py012st · `px3-vino-30252470-story.jpg`
+Copas listas para la cata
+
+### py013st · `px3-vino-9685271-story.jpg`
+Mesa, velas y Rioja
+
+### py014st · `px3-gastro-5662178-story.jpg`
+Queso y nueces 🧀
+
+### py015st · `px3-gastro-6004196-story.jpg`
+Embutido y pan
+
+### py016st · `px3-pueblo-3241876-story.jpg`
+Calles de piedra
+
+### py017st · `px3-pueblo-35759802-story.jpg`
+Hiedra roja de otono 🍁
+
+### py018st · `px3-campo-16830715-story.jpg`
+Verde de mayo
+
+### py019st · `px3-campo-33803198-story.jpg`
+Cereal hasta el horizonte 🌾
+
+### py020st · `px3-costa-19295610-story.jpg`
+Atardecer en el Cantabrico 🌅
+
+### py021st · `px3-costa-20182466-story.jpg`
+Cala de roca y agua fria
+
+<!-- Stories de entorno (Pexels, 4a tanda), 2026-09-17. -->
+
+### pz001st · `px4-svinedo1-39182651-story.jpg`
+Entre hileras, sin nadie alrededor
+
+### pz002st · `px4-svinedo1-19950751-story.jpg`
+La vina en invierno ❄️
+
+### pz003st · `px4-svinedo2-35285916-story.jpg`
+Ladera de vinedo al amanecer
+
+### pz004st · `px4-svinedo3-28446978-story.jpg`
+Oro y cobre en la vina 🍂
+
+### pz005st · `px4-svinedo3-31253213-story.jpg`
+Vinedo sobre el rio
+
+### pz006st · `px4-svinedo3-34137099-story.jpg`
+Terrazas de vina en ladera
+
+### pz007st · `px4-sbarrica1-19368012-story.jpg`
+Escaleras que bajan al calado
+
+### pz008st · `px4-sbarrica1-30654294-story.jpg`
+Pasillo de barricas 🛢️
+
+### pz009st · `px4-sbarrica1-16068125-story.jpg`
+Roble apilado hasta el techo
+
+### pz010st · `px4-scalado1-28639202-story.jpg`
+Arcos de piedra bajo tierra
+
+### pz011st · `px4-scalado1-37385382-story.jpg`
+Galeria de bodega centenaria
+
+### pz012st · `px4-scalado1-38075133-story.jpg`
+Tuneles excavados a mano
+
+### pz013st · `px4-suvas1-28438009-story.jpg`
+Racimo listo para el corte 🍇
+
+### pz014st · `px4-suvas1-33104351-story.jpg`
+Cortando a mano
+
+### pz015st · `px4-suvas1-39367396-story.jpg`
+Uva blanca de Rioja
+
+### pz016st · `px4-scopa1-15926616-story.jpg`
+Un Rioja en la copa 🍷
+
+### pz017st · `px4-scopa1-19175748-story.jpg`
+Copa y velas
+
+### pz018st · `px4-scopa1-7616477-story.jpg`
+Tinto sobre fondo negro
+
+### pz019st · `px4-scata1-9985635-story.jpg`
+Una copa sin prisa
+
+### pz020st · `px4-scata1-6288697-story.jpg`
+Brindis entre velas 🥂
+
+### pz021st · `px4-sgastro1-10750986-story.jpg`
+Paella para toda la mesa 🥘
+
+### pz022st · `px4-sgastro1-3793871-story.jpg`
+Tostas de tomate para empezar
+
+### pz023st · `px4-sgastro2-15168519-story.jpg`
+Tabla de quesos y aceite 🧀
+
+### pz024st · `px4-sgastro2-36577637-story.jpg`
+Mesa puesta para el desayuno
+
+### pz025st · `px4-spueblo1-14694435-story.jpg`
+Arco de piedra en el casco viejo
+
+### pz026st · `px4-spueblo1-30945826-story.jpg`
+Escaleras de pueblo
+
+### pz027st · `px4-spueblo1-35636165-story.jpg`
+Piedra, nieve y silencio
+
+### pz028st · `px4-scampo1-14505254-story.jpg`
+Lavanda en flor 💜
+
+### pz029st · `px4-scampo1-29837795-story.jpg`
+Hileras moradas hasta el horizonte
+
+### pz030st · `px4-scampo1-9818124-story.jpg`
+Campo de lavanda al atardecer
+
+### pz031st · `px4-scampo2-18155957-story.jpg`
+Amapolas de mayo 🌺
+
+### pz032st · `px4-scampo2-37855629-story.jpg`
+Campo en flor
+
+### pz033st · `px4-scampo2-32309398-story.jpg`
+Rojo sobre verde
+
+### pz034st · `px4-scosta1-28840609-story.jpg`
+Acantilado verde sobre el mar 🌊
+
+### pz035st · `px4-scosta1-28637026-story.jpg`
+Costa del norte
+
+### pz036st · `px4-scosta1-12000233-story.jpg`
+Donde el verde toca el Cantabrico
+
+### pz037st · `px4-srio1-11257960-story.jpg`
+Agua y roca 💧
+
+### pz038st · `px4-srio1-5654998-story.jpg`
+Cascada en el bosque
+
+### pz039st · `px4-srio1-27818135-story.jpg`
+El sonido del agua
+
+### pz040st · `px4-sbosque1-14259743-story.jpg`
+Bosque de otono 🍁
+
+### pz041st · `px4-sbosque1-36473830-story.jpg`
+Camino entre arboles
+
+### pz042st · `px4-sbosque1-19236781-story.jpg`
+Hojas en el suelo, otono en el norte
 
 ## DEFAULT CAPTIONS para fotos reales (drop folder)
 

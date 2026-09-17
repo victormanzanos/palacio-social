@@ -21,6 +21,19 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
 
+# Registro de identidad de imagen (regla de no-repeticion a 360 dias).
+# WHY degradado y no fail-closed: si el registro no carga, NO publicar seria peor
+# que publicar una repeticion. Se publica, pero el aviso sale en el log y en el
+# email para que el watchdog diario lo cante.
+try:
+    import sys as _sys
+    _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import image_registry as REG
+    REG_OK = True
+except Exception as _e:                                   # pragma: no cover
+    REG, REG_OK = None, False
+    print(f"⚠️  REGISTRO DE IMAGEN NO DISPONIBLE ({_e}) — SIN control de repeticiones.")
+
 # ──────────────────────────────────────────────────────────────────────────
 # CONFIG
 # ──────────────────────────────────────────────────────────────────────────
@@ -126,11 +139,14 @@ def parse_captions(path):
     palace_posts, surround_posts, stories = [], [], []
     for sec in sections:
         head = sec.splitlines()[0].strip().upper() if sec.strip() else ""
-        if head.startswith("36 POSTS"):
+        # WHY por patron y no por el numero exacto: las secciones crecen cada
+        # semana con el refresh. Un `startswith("12 STORIES")` dejo de casar en
+        # cuanto el pool paso de 12 y habria vaciado la rotacion de stories.
+        if re.match(r"\d+\s+POSTS\b", head):
             target = palace_posts
         elif "SURROUNDINGS" in head:
             target = surround_posts
-        elif head.startswith("12 STORIES"):
+        elif re.match(r"\d+\s+STORIES\b", head):
             target = stories
         else:
             continue
@@ -237,34 +253,171 @@ def entorno_card_ok(filename, caption):
     return True, ""
 
 
-def pick_next_post(s):
+# ──────────────────────────────────────────────────────────────────────────
+# GUARD DE NO-REPETICION  (regla permanente de Victor, 2026-09-17)
+# ──────────────────────────────────────────────────────────────────────────
+# "No podemos repetir las mismas imagenes en diferentes post o stories durante
+# 360 dias al menos."
+#
+# Hasta hoy el motor lo incumplia POR DISENO y nada lo delataba: la rotacion de
+# stories tenia 18 tarjetas (ciclo de 36 dias), el pool de palacio 36 (ciclo de
+# 144 dias), y ademas las 12 stories originales estaban hechas de las MISMAS
+# fotos que los posts 01-36, asi que un post y una story podian enseñar la misma
+# foto con dias de diferencia. Medido sobre el log: 77 publicaciones con solo
+# 48 fotos distintas, 29 repeticiones en 87 dias.
+#
+# La identidad es la FOTO (phash de la fuente), nunca el nombre de la tarjeta.
+def _blocked_today(today):
+    """phashes vetados hoy por haberse publicado dentro de la ventana."""
+    if not REG_OK:
+        return []
+    try:
+        return REG.blocked_hashes(today)
+    except Exception as e:
+        print(f"⚠️  No se pudo leer el historial de imagenes ({e}) — sin control de repeticiones.")
+        return []
+
+
+def _fresh(card, blocked, idx, extra_ph=()):
+    """(ok, motivo) — la foto de `card` no se ha publicado en la ventana."""
+    if not REG_OK:
+        return True, ""
+    ph = (idx.get(REG.key(card)) or {}).get("phash")
+    if not ph:
+        print(f"⚠️  {card} no esta en el indice de imagenes — publicaria sin control de repeticion.")
+        # Sin phash no se puede juzgar. Se deja pasar y se avisa: es preferible
+        # publicar a bloquear la rotacion entera por una tarjeta sin indexar.
+        return True, "(sin phash en el indice)"
+    for x in extra_ph:
+        if REG.same_photo(ph, x):
+            return False, "misma foto que el post de hoy"
+    bad, why = REG.is_blocked(ph, blocked)
+    return (not bad), why
+
+
+def entorno_story_ok(filename, caption):
+    """Mismo guard de identidad que los posts, aplicado a una STORY.
+
+    Una story `sNN-slug-story.jpg` es la version 9:16 del post `sNN-slug.jpg`:
+    misma foto, mismo origen (blog/banco), asi que hereda su aprobacion. Las
+    stories del palacio (`NN-st-*.jpg`) y las de Pexels (`px-st-*`) son fotos ya
+    verificadas y no pasan por la lista blanca.
+    """
+    # Las stories del propio Palacio se llaman `NN-st-*.jpg` y salen de fotos
+    # verificadas del edificio: no pasan por la lista blanca.
+    if re.match(r"\d+-st-", filename):
+        return True, ""
+    # El resto viene de blog o banco de imagenes. Hereda la aprobacion de su post
+    # gemelo si lo tiene, y si no, tiene que estar aprobada ella misma.
+    # WHY: hasta el 17-sep el chequeo solo miraba `s\d+-.*-story.jpg`, asi que una
+    # story de banco con otro nombre (px-*) entraba sin que nadie hubiera mirado
+    # la imagen. La puerta de las stories era mas ancha que la de los posts.
+    if filename.endswith("-story.jpg"):
+        twin = filename[:-len("-story.jpg")] + ".jpg"
+        if twin in ENTORNO_APPROVED:
+            return entorno_card_ok(twin, caption)
+    return entorno_card_ok(filename, caption)
+
+
+def pick_next_post(s, blocked=(), idx=None):
     """Alterna: post par → palacio, post impar → entorno.
 
     Devuelve (filename, caption, pool_name, idx). `idx` es el indice REALMENTE
     usado dentro de su pool: al saltarse tarjetas bloqueadas por el guard de
-    identidad, el indice avanza mas de uno, asi que quien publique debe guardar
-    `idx + 1` — con `+= 1` se volveria a proponer la misma tarjeta cada dia.
+    identidad o por el de no-repeticion, el indice avanza mas de uno, asi que
+    quien publique debe guardar `idx + 1` — con `+= 1` se volveria a proponer la
+    misma tarjeta cada dia.
     """
+    idx = idx if idx is not None else (REG.load_index() if REG_OK else {})
+
+    def walk(pool, start, name, check_entorno):
+        n = len(pool)
+        for step in range(n):
+            i = (start + step) % n
+            fn, cap = pool[i]
+            if check_entorno:
+                ok, why = entorno_card_ok(fn, cap)
+                if not ok:
+                    print(f"⛔ GUARD: salto {fn} — {why}")
+                    continue
+            ok, why = _fresh(f"posts/{fn}", blocked, idx)
+            if not ok:
+                print(f"🔁 NO-REPEAT: salto {fn} — {why}")
+                continue
+            return fn, cap, name, i
+        return None
+
+    if s["post"] % 2 == 0:
+        r = walk(PALACE_POSTS, s["palace_idx"] % len(PALACE_POSTS), "palace", False)
+        if r:
+            return r
+        r = walk(SURROUND_POSTS, s["surround_idx"] % len(SURROUND_POSTS), "surround", True)
+        if r:
+            print("⚠️  Sin fotos frescas de palacio — publico entorno.")
+            return r
+    else:
+        r = walk(SURROUND_POSTS, s["surround_idx"] % len(SURROUND_POSTS), "surround", True)
+        if r:
+            return r
+        r = walk(PALACE_POSTS, s["palace_idx"] % len(PALACE_POSTS), "palace", False)
+        if r:
+            print("⚠️  Ninguna tarjeta de entorno disponible — publico palacio.")
+            return r
+
+    # Nada fresco en ningun pool: se publica lo mas antiguo posible, pero se
+    # canta. WHY no callar: quedarse sin baraja es la senal de que hay que traer
+    # fotos nuevas, y si el motor lo resuelve en silencio nadie se entera.
+    print("⚠️  BARAJA AGOTADA: todas las fotos se han publicado en los ultimos "
+          f"{REG.NO_REPEAT_DAYS if REG_OK else '?'} dias. Hacen falta imagenes nuevas.")
     if s["post"] % 2 == 0:
         i = s["palace_idx"] % len(PALACE_POSTS)
         fn, cap = PALACE_POSTS[i]
         return fn, cap, "palace", i
-
     n = len(SURROUND_POSTS)
     start = s["surround_idx"] % n
     for step in range(n):
         i = (start + step) % n
         fn, cap = SURROUND_POSTS[i]
-        ok, why = entorno_card_ok(fn, cap)
-        if ok:
+        if entorno_card_ok(fn, cap)[0]:
             return fn, cap, "surround", i
-        print(f"⛔ GUARD: salto {fn} — {why}")
-    # Ninguna aprobada: mejor repetir palacio (fotos verificadas del edificio)
-    # que publicar una imagen de dueno desconocido con nuestro sello.
     i = s["palace_idx"] % len(PALACE_POSTS)
     fn, cap = PALACE_POSTS[i]
-    print("⚠️  GUARD: ninguna tarjeta de entorno aprobada — publico palacio.")
     return fn, cap, "palace", i
+
+
+def pick_next_story(s, blocked=(), idx=None, post_card=None):
+    """Story fresca. Excluye ademas la foto del POST de hoy.
+
+    Devuelve (filename, idx_usado). Igual que en los posts, quien publique
+    guarda `idx + 1`, nunca `s["story"] + 1`.
+    """
+    idx = idx if idx is not None else (REG.load_index() if REG_OK else {})
+    extra = []
+    if REG_OK and post_card:
+        ph = (idx.get(REG.key(post_card)) or {}).get("phash")
+        if ph:
+            extra.append(ph)
+    n = len(STORY_FILES)
+    start = s["story"] % n
+    caps = dict(STORIES)
+    for step in range(n):
+        i = (start + step) % n
+        fn = STORY_FILES[i]
+        # Las stories de entorno (`sNN-...-story.jpg`) salen de imagenes de banco
+        # o del blog, igual que sus posts gemelos, asi que pasan por el MISMO
+        # guard de identidad: lista blanca + chequeo del gancho. Sin esto, una
+        # imagen bloqueada por no ser el Palacio se colaba por la puerta de las
+        # stories (las 16 bloqueadas el 27-ago tienen su gemela en stories/).
+        ok, why = entorno_story_ok(fn, caps.get(fn, ""))
+        if not ok:
+            print(f"⛔ GUARD story: salto {fn} — {why}")
+            continue
+        ok, why = _fresh(f"stories/{fn}", blocked, idx, extra)
+        if ok:
+            return fn, i
+        print(f"🔁 NO-REPEAT story: salto {fn} — {why}")
+    print("⚠️  BARAJA DE STORIES AGOTADA — hacen falta imagenes nuevas.")
+    return STORY_FILES[start], start
 
 
 # ──────────────────────────────────────────────────────────────────────────
@@ -424,7 +577,7 @@ def main():
         slug, sp_title, sp_cap = special
         do_real, real_path, real_cap = False, None, None
         pf, sf, pool = f"{slug}.jpg", f"{slug}-story.jpg", "special"
-        pick_idx = None
+        pick_idx = story_idx = None
         cap = rotate_caption(sp_cap)
         post_url  = f"{RAW}/posts/{pf}"
         story_url = f"{RAW}/stories/{sf}"
@@ -435,9 +588,12 @@ def main():
         real_path  = real_items[0][0] if real_items else None
         real_cap   = real_items[0][1] if real_items else None
 
-        pf, cap, pool, pick_idx = pick_next_post(s)
+        _today = str(datetime.date.today())
+        _idx = REG.load_index() if REG_OK else {}
+        _blocked = _blocked_today(_today)
+        pf, cap, pool, pick_idx = pick_next_post(s, _blocked, _idx)
         cap = rotate_caption(cap)
-        sf  = STORY_FILES[s["story"] % len(STORY_FILES)]
+        sf, story_idx = pick_next_story(s, _blocked, _idx, post_card=f"posts/{pf}")
         post_url  = f"{RAW}/posts/{pf}"
         story_url = f"{RAW}/stories/{sf}"
 
@@ -509,8 +665,21 @@ def main():
             s["post"] += 1
             s["since_real"] = s.get("since_real", 0) + 1
     if story_ok and pool != "special":
-        s["story"] += 1
+        # Igual que en los posts: al saltar tarjetas repetidas el indice avanza
+        # mas de uno, asi que se guarda el REALMENTE usado + 1.
+        s["story"] = (story_idx + 1) if story_idx is not None else s["story"] + 1
     save_state(s)
+
+    # Historial de imagenes — se anota JUSTO tras confirmar la publicacion, como
+    # save_state: si algo posterior falla, la foto ya cuenta como usada.
+    if REG_OK:
+        try:
+            if post_ok and not is_real:
+                REG.record(today, "post", f"posts/{pf}")
+            if story_ok:
+                REG.record(today, "story", f"stories/{sf}")
+        except Exception as e:
+            print(f"⚠️  No se pudo anotar el historial de imagenes: {e}")
 
     plink = pr.get("permalink") or ("ERROR: " + json.dumps(pr)[:220])
     sok   = "publicada ✅" if story_ok else ("ERROR: " + json.dumps(sr)[:220])

@@ -8,3 +8,9 @@ tastings/
 .pexels_used.json
 *.bak-*
 __pycache__/
+
+# Estado local del guard de no-repeticion (17-sep-2026): el indice se
+# reconstruye con image_registry.py y el historial es estado de ejecucion,
+# como .daily_state.json. No tiene que viajar al repo publico.
+.image_index.json
+.published_images.json
