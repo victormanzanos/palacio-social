@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 174 SURROUNDINGS POSTS
+## 178 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1185,6 +1185,34 @@ La mano calienta el vino y las huellas estropean la fase visual. Girar la copa n
 Organizamos catas privadas en las bodegas de Haro para aprenderlos con calma.
 Reserva en el link de la bio.
 #PalacioDeManzanos #CataDeVino #Haro #Rioja #VinoDeRioja #Enoturismo #WineLovers #LaRioja
+
+### s99 · Todos los Santos entre viñas (`s99-todos-los-santos-vinedo.jpg`)
+Botas de agua, hoja amarilla y una calle de viña entera para correr. 🍂
+El puente de Todos los Santos llega con la vendimia recién terminada: las cepas cambian de color y el campo vuelve a ser de quien lo pasea.
+Una escapada en familia a Haro, con los viñedos a unos minutos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #TodosLosSantos #Haro #LaRioja #Rioja #OtoñoEnRioja #ViajarEnFamilia #Enoturismo
+
+### s100 · Botellas en rima (`s100-botellas-rimadas.jpg`)
+Cientos de botellas tumbadas, una sobre otra, en silencio. 🍷
+Así reposa el vino en los calados antes de salir al mercado: en rima, a oscuras y a temperatura constante.
+En Haro puedes visitar esos calados y volver a casa con tus botellas.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VinoDeRioja #Haro #Rioja #Calado #Enoturismo #LaRioja #WineLovers
+
+### s102 · La cepa en invierno (`s102-cepa-vieja-invierno.jpg`)
+Musgo en el tronco, sarmientos recién podados y la viña en reposo. ❄️
+En diciembre el viñedo de Rioja se queda en su esqueleto: las cepas viejas enseñan décadas de oficio en cada nudo.
+Un puente tranquilo en Haro, con bodegas abiertas y el campo para ti.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PuenteDeDiciembre #Haro #Rioja #ViñasViejas #InviernoEnRioja #LaRioja #Enoturismo
+
+### s103 · Vendimia bajo las estrellas (`s103-vendimia-nocturna.jpg`)
+Cielo estrellado sobre la viña y el primer resplandor en el horizonte. 🌌
+Hay bodegas que vendimian de noche: la uva entra fresca en la bodega y conserva mejor su aroma.
+Otra forma de vivir la cosecha en Rioja, a un paso de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Vendimia #VendimiaNocturna #Rioja #Haro #VinoDeRioja #Enoturismo #LaRioja
 
 
 
