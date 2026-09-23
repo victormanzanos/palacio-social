@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+LaunchAgent: renovación semanal del token de Instagram para @palaciodemanzanos.
+El token long-lived dura ~60 días; renovamos cada domingo para no quedarnos sin acceso.
+
+Instalación:
+  cp ~/palacio-social/com.palacio.igtokenrefresh.plist ~/Library/LaunchAgents/
+  launchctl load -w ~/Library/LaunchAgents/com.palacio.igtokenrefresh.plist
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.palacio.igtokenrefresh</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/victor/palacio-social/run_refresh.sh</string>
+    </array>
+
+    <!-- Domingos a las 10:00 (igual que Manzanos Wines USA) -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key><integer>0</integer>
+        <key>Hour</key><integer>10</integer>
+        <key>Minute</key><integer>15</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/victor/palacio-social/token-refresh-launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/victor/palacio-social/token-refresh-launchd.err.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

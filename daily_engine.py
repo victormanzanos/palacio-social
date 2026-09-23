@@ -516,10 +516,10 @@ def publish_image(url, caption=None, story=False):
 # EMAIL RESUMEN
 # ──────────────────────────────────────────────────────────────────────────
 def email_summary(html, post_path, story_path, subject):
-    pw = _secret("MANZANOS_SMTP_PASSWORD")
+    pw = _secret("VICTORIA_STERLING_EMAIL_PASSWORD")
     msg = MIMEMultipart("related")
     msg["Subject"] = subject
-    msg["From"]    = "assistant@manzanosenterprises.com"
+    msg["From"]    = "victoriasterling@manzanos.eu"
     msg["To"]      = "victor@manzanos.com"
     msg.attach(MIMEText(html, "html", "utf-8"))
     for cid, path in (("postimg", post_path), ("storyimg", story_path)):
@@ -529,9 +529,9 @@ def email_summary(html, post_path, story_path, subject):
             img.add_header("Content-Disposition", "inline", filename=os.path.basename(path))
             msg.attach(img)
         except Exception as e: print("attach failed", path, e)
-    with smtplib.SMTP_SSL("manzanosenterprises-com.correoseguro.dinaserver.com", 465,
+    with smtplib.SMTP_SSL("manzanos-eu.correoseguro.dinaserver.com", 465,
                           context=ssl.create_default_context()) as srv:
-        srv.login("assistant@manzanosenterprises.com", pw)
+        srv.login("victoriasterling@manzanos.eu", pw)
         srv.send_message(msg)
 
 

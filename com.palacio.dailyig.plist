@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+LaunchAgent: publicación diaria @palaciodemanzanos.
+Dispara a 4 horas distintas para coger el Mac despierto en alguna.
+El motor es idempotente (1 publicación/día garantizada por .daily_state.json).
+
+Instalación:
+  cp ~/palacio-social/com.palacio.dailyig.plist ~/Library/LaunchAgents/
+  launchctl load -w ~/Library/LaunchAgents/com.palacio.dailyig.plist
+
+Comprobación:
+  launchctl list | grep palacio
+  tail -f ~/palacio-social/daily.log
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.palacio.dailyig</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/victor/palacio-social/run_daily.sh</string>
+    </array>
+
+    <!-- Cuatro intentos en horario ET (matches lifestyle del público USA + EU tarde) -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Hour</key><integer>11</integer><key>Minute</key><integer>23</integer></dict>
+        <dict><key>Hour</key><integer>13</integer><key>Minute</key><integer>47</integer></dict>
+        <dict><key>Hour</key><integer>15</integer><key>Minute</key><integer>32</integer></dict>
+        <dict><key>Hour</key><integer>17</integer><key>Minute</key><integer>14</integer></dict>
+    </array>
+
+    <key>StandardOutPath</key>
+    <string>/Users/victor/palacio-social/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/victor/palacio-social/launchd.err.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
