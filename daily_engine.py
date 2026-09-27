@@ -487,9 +487,14 @@ def api(path, params, method="POST"):
     else:
         req = urllib.request.Request(f"{BASE}/{path}", data=data, method="POST", headers=hdr)
     try:
-        with urllib.request.urlopen(req) as r: return json.load(r)
+        # WHY: sin timeout, una conexion colgada con Instagram dejo el motor 8 h
+        # parado el 26-sep-2026 DESPUES de publicar, sin guardar el estado.
+        # 60 s cubre de sobra cualquier respuesta legitima de la Graph API.
+        with urllib.request.urlopen(req, timeout=60) as r: return json.load(r)
     except urllib.error.HTTPError as e:
         return {"_http_error": e.code, "body": e.read().decode()}
+    except Exception as e:  # red/DNS/timeout: nunca matar el script antes de save_state
+        return {"_net_error": repr(e)[:300]}
 
 def wait_ready(cid):
     for _ in range(20):
