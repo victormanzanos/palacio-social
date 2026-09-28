@@ -1,7 +1,7 @@
 {
  "_doc": "Lista blanca de tarjetas de ENTORNO verificadas visualmente. El motor (daily_engine.py) SOLO publica del pool de entorno lo que este aqui: fail-closed. Regla de Victor 2026-08-27: si la tarjeta ensena un espacio del alojamiento (salon, habitacion, bano, cocina, comedor, spa) la foto tiene que ser DEL PALACIO; de banco o del blog solo puede venir el ENTORNO (vinedos, bodegas, calados, Haro, Ruta Norte, vendimia, gastronomia, paisaje).",
  "_como_anadir": "ABRE la imagen y miralA. Solo si es entorno real, sin edificio ajeno que pueda confundirse con el Palacio, sin marca de terceros y sin mentir la geografia, anade su nombre a 'approved'.",
- "revisado": "2026-09-21",
+ "revisado": "2026-09-28",
  "approved": [
   "px-atardecer-vinedo.jpg",
   "px-barricas.jpg",
@@ -289,7 +289,12 @@
   "s99-todos-los-santos-vinedo.jpg",
   "s100-botellas-rimadas.jpg",
   "s102-cepa-vieja-invierno.jpg",
-  "s103-vendimia-nocturna.jpg"
+  "s103-vendimia-nocturna.jpg",
+  "s104-racimos-otono.jpg",
+  "s105-riscos-bilibio.jpg",
+  "s106-pimientos-brasa.jpg",
+  "s107-hayedo-ezcaray.jpg",
+  "s108-vitoria-virgen-blanca.jpg"
  ],
  "blocked": {
   "s19-coste-por-persona.jpg": "Salon con escalera de caracol de OTRO edificio. Es el post del 27-ago-2026 que dio origen a esta regla.",
@@ -307,7 +312,8 @@
   "s14-haro-casco.jpg": "Pueblo de casas colgadas de Levante, NO es el casco historico de Haro.",
   "s21-experiencias-exclusivas.jpg": "Copas serigrafiadas 'CRANE CREEK VINEYARDS' (bodega ajena).",
   "s36-vendimia-otono.jpg": "Cartel publicitario de NESCAFE en primer plano.",
-  "s58-retiro-mesa-larga.jpg": "Botellas de vino de terceros con etiqueta legible."
+  "s58-retiro-mesa-larga.jpg": "Botellas de vino de terceros con etiqueta legible.",
+  "golf-y-vino-rioja-green-vinedo-otono.jpg (portada blog, no convertida)": "Laderas de viñedo en terrazas con llanura fluvial al fondo: parece Alsacia, no Rioja. Geografia falsa si se presenta como Rioja. Revisado 2026-09-28."
  },
  "notes": {
   "2026-09-17": "Anadidas 98 tarjetas de entorno de Pexels (54 posts + 44 stories) revisadas una a una, mas las 6 stories px-st-* que ya existian y hasta hoy no pasaban por esta lista."

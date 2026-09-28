@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 178 SURROUNDINGS POSTS
+## 183 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1213,6 +1213,41 @@ Hay bodegas que vendimian de noche: la uva entra fresca en la bodega y conserva 
 Otra forma de vivir la cosecha en Rioja, a un paso de Haro.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Vendimia #VendimiaNocturna #Rioja #Haro #VinoDeRioja #Enoturismo #LaRioja
+
+### s104 · Racimos de otoño (`s104-racimos-otono.jpg`)
+Racimos negros, hoja que empieza a dorarse y la tierra roja entre las cepas. 🍇
+En Rioja manda el tempranillo, pero no está solo: garnacha, graciano y mazuelo completan muchos de los grandes tintos de la zona.
+Una cata en Haro es la mejor forma de distinguirlas en la copa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Tempranillo #VariedadesDeUva #Rioja #VinoDeRioja #Haro #Enoturismo #LaRioja
+
+### s105 · Riscos de Bilibio (`s105-riscos-bilibio.jpg`)
+La ermita de San Felices, colgada en lo alto de los Riscos de Bilibio. ⛰️
+Es la subida más clásica de Haro: roca, pinos y una vista abierta sobre el Ebro y los viñedos.
+Una mañana de senderismo y de vuelta a comer al pueblo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RiscosDeBilibio #Haro #Senderismo #LaRioja #Rioja #NaturalezaRioja #VisitSpain
+
+### s106 · Pimientos a la brasa (`s106-pimientos-brasa.jpg`)
+Pimientos sobre la parrilla y las brasas de sarmiento debajo. 🔥
+El otoño riojano huele a leña y a pimiento asado: es la temporada de la cocina de fuego lento y del vino de la cosecha.
+Te recomendamos dónde comerlo en Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #CocinaRiojana #Gastronomia #Haro #LaRioja #Rioja #OtoñoEnRioja #Enoturismo
+
+### s107 · El hayedo de Ezcaray (`s107-hayedo-ezcaray.jpg`)
+Un sendero de hoja caída entre troncos de haya. 🍂
+Los hayedos de la Sierra de la Demanda, junto a Ezcaray, son de los paseos más bonitos del otoño riojano.
+Ezcaray está a unos 34 kilómetros de Haro: excursión de día y cena de vuelta en casa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Ezcaray #Hayedo #Senderismo #OtoñoEnRioja #LaRioja #Haro #Naturaleza
+
+### s108 · Vitoria-Gasteiz (`s108-vitoria-virgen-blanca.jpg`)
+La plaza de la Virgen Blanca, con sus miradores y el monumento a la Batalla de Vitoria. 🏙️
+La capital alavesa es una escapada fácil desde Haro: casco medieval, pintxos y una de las ciudades más verdes de Europa.
+Un día de Ruta Norte y de vuelta a Rioja para la cena.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VitoriaGasteiz #VirgenBlanca #RutaNorte #Haro #LaRioja #Euskadi #VisitSpain
 
 
 
