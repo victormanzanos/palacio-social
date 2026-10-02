@@ -632,9 +632,9 @@ def publish_image(url, caption=None, story=False):
     r = api(f"{IGID}/media_publish", {"creation_id": cid, "access_token": TOK})
     mid = r.get("id")
     if not mid: return {"error": r}
-    return api(mid, {"fields": "permalink", "access_token": TOK}, "GET")
-
-
+    _pl = api(mid, {"fields": "permalink", "access_token": TOK}, "GET")
+    _pl.setdefault("id", mid)  # WHY: publicado aunque falle leer el permalink; sin id se republicaria
+    return _pl
 # ──────────────────────────────────────────────────────────────────────────
 # EMAIL RESUMEN
 # ──────────────────────────────────────────────────────────────────────────
