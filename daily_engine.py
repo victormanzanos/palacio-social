@@ -16,7 +16,7 @@ Variables de entorno:
 """
 import datetime, json, os, random, re, ssl, smtplib, subprocess, time
 import urllib.request, urllib.parse, urllib.error
-import base64, hashlib
+import base64, hashlib, unicodedata
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
@@ -479,6 +479,124 @@ def archive_real(path):
 # ──────────────────────────────────────────────────────────────────────────
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+# ──────────────────────────────────────────────────────────────────────────
+# DIAS ESPECIALES SIN REPETIR FOTO (Victor, 2-oct-2026)
+# ──────────────────────────────────────────────────────────────────────────
+# WHY: las tarjetas sp-* se generaron con fotos que TAMBIEN estan en la rotacion
+# normal (sp-reyes = 03-recibidor, sp-navidad = 02-salon-piano...) y sp-santiago y
+# sp-hispanidad eran la MISMA foto (fachada) a 79 dias. Ademas el post y la story
+# especiales salian de la misma foto el mismo dia. Los dias especiales se saltaban
+# el guard de 360 dias. Ahora: si la foto de la tarjeta especial esta vetada, se
+# genera al momento con una foto propia fresca, y la story usa OTRA foto distinta.
+SPECIAL_SRC_DIRS = ["/Users/victor/Code/PalaciodeManzanosweb/fotospalacio",
+                    "/Users/victor/Code/PalaciodeManzanosweb/public/images/palacio"]
+
+SPECIAL_MIN_DAYS = 30  # WHY: minimo de Victor (2-oct-2026): ninguna imagen se repite en 30 dias.
+                       # La rotacion normal sigue con 360; los dias especiales son anuales y
+                       # con 360 no habria fotos propias suficientes para ellos.
+
+def _special_candidates(slug, idx):
+    """Fotos propias YA APROBADAS (las de las tarjetas de palacio del indice), la
+    configurada para ese dia primero y despues en un orden propio de cada dia.
+    WHY: las fotos de fotospalacio que ninguna tarjeta usa estan sin usar porque se
+    DESCARTARON a ojo el 17-sep (Netflix en la tele, pelicula de terceros...).
+    Elegirlas por estar 'libres' publicaria justo lo que se rechazo."""
+    import make_palacio as MP
+    conf = next((b for b in MP.BATCH_SPECIALS if b[1] == slug), None)
+    approved = {}
+    for k, v in idx.items():
+        if k.startswith("posts/") and re.match(r"posts/(\d\d|sp)-", k) and v.get("src") \
+                and os.path.exists(v["src"]) and v.get("phash"):
+            approved.setdefault(v["photo"], (v["src"], v["phash"]))
+    order = sorted(approved)
+    random.Random(slug).shuffle(order)  # cada dia especial, su propio orden (variedad)
+    out = []
+    if conf and conf[0] in approved:
+        out.append(approved[conf[0]])
+    out += [approved[ph] for ph in order if not out or approved[ph] != out[0]]
+    return conf, out
+
+def special_cards(slug, today, idx, dry=False):
+    """(post_card, story_card) del dia especial: ninguna foto publicada en los
+    ultimos SPECIAL_MIN_DAYS dias, y post y story con fotos DISTINTAS."""
+    pf, sf = f"{slug}.jpg", f"{slug}-story.jpg"
+    if not REG_OK:
+        return pf, sf
+    blocked = REG.blocked_hashes(today, days=SPECIAL_MIN_DAYS)
+    ok_p, _ = _fresh(f"posts/{pf}", blocked, idx)
+    ph_p = (idx.get(REG.key(f"posts/{pf}")) or {}).get("phash")
+    import make_palacio as MP
+    conf, cands = _special_candidates(slug, idx)
+    title, subtitle = (conf[2], conf[3]) if conf else (slug, "")
+    year = today[:4]
+    chosen = [("post", pf, ph_p)] if ok_p and ph_p else []
+    for path, ph in cands:
+        if len(chosen) == 2: break
+        bad, _ = REG.is_blocked(ph, blocked)
+        if bad or any(REG.same_photo(ph, c[2]) for c in chosen):
+            continue
+        kind = "story" if chosen else "post"
+        name = f"{slug}-{year}.jpg" if kind == "post" else f"{slug}-{year}-story.jpg"
+        old_src = MP.SOURCE
+        MP.SOURCE = os.path.dirname(path)
+        try:
+            MP.make_special(os.path.basename(path), name, title, subtitle, story=(kind == "story"))
+        finally:
+            MP.SOURCE = old_src
+        folder = "posts" if kind == "post" else "stories"
+        idx[REG.key(f"{folder}/{name}")] = {"photo": os.path.basename(path), "phash": ph,
+                                             "src": path, "how": "special-fresh"}
+        chosen.append((kind, name, ph))
+    if len(chosen) < 2:
+        raise RuntimeError("BARAJA AGOTADA para el dia especial: no hay 2 fotos aprobadas frescas")
+    names = dict((c[0], c[1]) for c in chosen)
+    for kind, name in names.items():
+        if name == pf:
+            continue
+        folder = "posts" if kind == "post" else "stories"
+        print(f"🔁 ESPECIAL: {folder}/{name} generada (foto distinta y sin publicar en {SPECIAL_MIN_DAYS} dias)")
+        if not dry:
+            gh_put(os.path.join(LOCAL, folder, name), f"{folder}/{name}")
+    if not dry:
+        REG.save_index(idx)
+    return names["post"], names["story"]
+
+def gh_put(local_path, remote_path):
+    """Sube un fichero al repo publico por stdin (sin limite de ARG_MAX)."""
+    with open(local_path, "rb") as f:
+        content_b64 = base64.b64encode(f.read()).decode()
+    sha = None
+    probe = subprocess.run(["gh", "api", f"/repos/{REPO}/contents/{remote_path}"],
+                           capture_output=True, text=True)
+    if probe.returncode == 0:
+        try: sha = json.loads(probe.stdout).get("sha")
+        except Exception: sha = None
+    body = {"message": f"Add {remote_path}", "content": content_b64}
+    if sha: body["sha"] = sha
+    r = subprocess.run(["gh", "api", "--method", "PUT", f"/repos/{REPO}/contents/{remote_path}",
+                        "--input", "-"], input=json.dumps(body), capture_output=True, text=True)
+    if r.returncode != 0:
+        raise RuntimeError(f"gh upload failed: {r.stderr.strip()[:300]}")
+    time.sleep(5)  # CDN
+
+def raw_url(folder, filename):
+    """URL publica de una tarjeta, con el nombre en NFC y percent-encoded.
+    WHY: el 2-oct-2026 `28-bano-bañera.jpg` fallo 3 veces con el error 9004
+    ("Only photo or video can be accepted"): Meta no descarga una image_url con
+    caracteres no ASCII sin codificar. Codificada (%C3%B1) da 200 image/jpeg."""
+    fn = unicodedata.normalize("NFC", filename)
+    return f"{RAW}/{folder}/{urllib.parse.quote(fn)}"
+
+def url_is_image(url):
+    """Preflight: la Graph API solo acepta una URL que sirva una imagen real.
+    Comprobarlo ANTES de publicar evita gastar el dia en un 9004."""
+    try:
+        req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return r.status == 200 and r.headers.get("Content-Type", "").startswith("image/")
+    except Exception:
+        return False
+
 def api(path, params, method="POST"):
     data = urllib.parse.urlencode(params).encode()
     hdr  = {"User-Agent": UA}
@@ -581,11 +699,13 @@ def main():
     if special:
         slug, sp_title, sp_cap = special
         do_real, real_path, real_cap = False, None, None
-        pf, sf, pool = f"{slug}.jpg", f"{slug}-story.jpg", "special"
+        pf, sf = special_cards(slug, str(datetime.date.today()),
+                               REG.load_index() if REG_OK else {}, dry=DRY)
+        pool = "special"
         pick_idx = story_idx = None
         cap = rotate_caption(sp_cap)
-        post_url  = f"{RAW}/posts/{pf}"
-        story_url = f"{RAW}/stories/{sf}"
+        post_url  = raw_url("posts", pf)
+        story_url = raw_url("stories", sf)
         print(f"NEXT = DÍA ESPECIAL 🇪🇸 {sp_title}: {pf}\nSTORY: {sf}\n--- CAPTION ---\n{cap}\n---")
     else:
         real_items = real_collect()
@@ -599,8 +719,8 @@ def main():
         pf, cap, pool, pick_idx = pick_next_post(s, _blocked, _idx)
         cap = rotate_caption(cap)
         sf, story_idx = pick_next_story(s, _blocked, _idx, post_card=f"posts/{pf}")
-        post_url  = f"{RAW}/posts/{pf}"
-        story_url = f"{RAW}/stories/{sf}"
+        post_url  = raw_url("posts", pf)
+        story_url = raw_url("stories", sf)
 
         if do_real:
             print(f"NEXT = REAL PHOTO: {os.path.basename(real_path)}  (since_real={s.get('since_real',0)} ≥ {REAL_EVERY})")
@@ -620,6 +740,16 @@ def main():
         return
     if s.get("last_date") == today:
         print(f"Ya se publicó hoy ({today}) — nada que hacer.")
+        return
+    # WHY: el 2-oct-2026 el post fallo en 3 franjas y CADA franja publico una
+    # story nueva (s63, s64, s65), porque `last_date` solo se marca con el post OK.
+    # Ahora: (1) preflight de las dos URLs ANTES de publicar nada, (2) una sola
+    # story al dia (`story_date`), (3) la story solo sale si el post ha salido.
+    if not do_real and not url_is_image(post_url):
+        print(f"⛔ PREFLIGHT: la URL del post no sirve una imagen: {post_url} — no publico nada hoy en esta franja.")
+        return
+    if s.get("story_date") != today and not url_is_image(story_url):
+        print(f"⛔ PREFLIGHT: la URL de la story no sirve una imagen: {story_url} — no publico nada en esta franja.")
         return
     # Defer aleatorio si es temprano (rompe patrón horario).
     # WHY: en día especial NO se aplaza — la efeméride debe salir sí o sí.
@@ -648,10 +778,14 @@ def main():
     else:
         pr = publish_image(post_url, caption=cap)
 
-    time.sleep(random.randint(20, 120))  # gap humano antes del story
-    sr = publish_image(story_url, story=True)
-
-    post_ok  = bool(pr.get("permalink"))
+    post_ok = bool(pr.get("permalink"))
+    if not post_ok:
+        sr = {"error": "story no publicada: el post ha fallado (se reintenta en la siguiente franja)"}
+    elif s.get("story_date") == today:
+        sr = {"error": "story ya publicada hoy"}
+    else:
+        time.sleep(random.randint(20, 120))  # gap humano antes del story
+        sr = publish_image(story_url, story=True)
     story_ok = bool(sr.get("permalink") or sr.get("id"))
     if post_ok:
         s["last_date"] = today
@@ -669,6 +803,8 @@ def main():
                 s["surround_idx"] = pick_idx + 1
             s["post"] += 1
             s["since_real"] = s.get("since_real", 0) + 1
+    if story_ok:
+        s["story_date"] = today
     if story_ok and pool != "special":
         # Igual que en los posts: al saltar tarjetas repetidas el indice avanza
         # mas de uno, asi que se guarda el REALMENTE usado + 1.
