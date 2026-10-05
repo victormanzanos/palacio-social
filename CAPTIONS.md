@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 183 SURROUNDINGS POSTS
+## 189 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1248,6 +1248,47 @@ La capital alavesa es una escapada fácil desde Haro: casco medieval, pintxos y 
 Un día de Ruta Norte y de vuelta a Rioja para la cena.
 Reserva en el link de la bio.
 #PalacioDeManzanos #VitoriaGasteiz #VirgenBlanca #RutaNorte #Haro #LaRioja #Euskadi #VisitSpain
+
+### s109 · Logroño, las torres de La Redonda (`s109-logrono-redonda.jpg`)
+Las torres gemelas de La Redonda, encendidas por el último sol de la tarde. 🌇
+La concatedral de Santa María de la Redonda preside el casco viejo de Logroño, a un paso de la calle Laurel y sus pinchos.
+Una tarde de capital riojana y de vuelta a Haro para la cena.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Logroño #LaRedonda #CalleLaurel #LaRioja #Haro #Enoturismo #VisitSpain
+
+### s110 · Frías y su castillo (`s110-frias-castillo.jpg`)
+Un castillo colgado de la roca y un pueblo de piedra a sus pies. 🏰
+Frías, en Las Merindades de Burgos, guarda el castillo de los Velasco y las casas colgadas sobre la peña.
+Una excursión de medio día desde Haro, de las que se recuerdan.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Frías #Burgos #LasMerindades #Haro #LaRioja #EscapadaRural #VisitSpain
+
+### s111 · Santo Tomás, Haro (`s111-haro-santo-tomas.jpg`)
+La portada plateresca de Santo Tomás, tallada en piedra en el siglo XVI. ⛪
+Santos, relieves y dos puertas de madera en el corazón del casco histórico de Haro.
+Está a un paseo del Palacio: sal a caminar y la encuentras.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #SantoTomas #CascoHistorico #LaRioja #Rioja #Patrimonio #VisitSpain
+
+### s112 · Tabla y tinto (`s112-tabla-quesos-tinto.jpg`)
+Quesos, embutido, higos y dos copas de tinto. 🧀🍷
+El maridaje más sencillo de Rioja: un buen tinto y una tabla para picar sin prisa.
+Así empiezan muchas noches en Haro, en grupo y alrededor de la mesa.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Maridaje #VinoDeRioja #Quesos #Haro #LaRioja #Enoturismo #Gastronomia
+
+### s113 · Briones entre viñedos (`s113-briones-vinedos.jpg`)
+Briones en lo alto del cerro, y a sus pies el mar de viñas. 🍇
+Uno de los pueblos más bonitos de la Rioja Alta, a pocos minutos de Haro, con sus bodegas y su mirador sobre el Ebro.
+Paisaje de vino en estado puro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Briones #RiojaAlta #Viñedos #Haro #LaRioja #RutaDelVino #Enoturismo
+
+### s114 · Dos copas al sol (`s114-dos-copas-uvas.jpg`)
+Dos copas al sol de la tarde y racimos recién cortados. 🍷
+Rioja o Ribera, la eterna conversación entre amantes del vino. En Haro la resolvemos a nuestra manera: probando.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VinoDeRioja #RiojaORibera #Haro #LaRioja #Enoturismo #WineLovers #CataDeVinos
 
 
 
