@@ -17,6 +17,7 @@ Variables de entorno:
 import datetime, json, os, random, re, ssl, smtplib, subprocess, time
 import urllib.request, urllib.parse, urllib.error
 import base64, hashlib, unicodedata
+import ig_guard   # WHY: fail-closed; ver ig_guard.py (duplicados desde otro ordenador, 5-oct-2026)
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
@@ -440,13 +441,20 @@ def real_collect():
         out.append((path, cap, "-story" in base.lower()))
     return out
 
+# WHY: launchd corre con PATH=/usr/bin:/bin:/usr/sbin:/sbin y gh vive en /usr/local/bin
+# (o /opt/homebrew/bin). Con "gh" a secas, la subida de fotos reales y tarjetas de dias
+# especiales muere con FileNotFoundError (pasó en @agolfcars el 4-oct-2026).
+import shutil
+GH = (shutil.which("gh") or next((c for c in ("/usr/local/bin/gh", "/opt/homebrew/bin/gh")
+                                  if os.path.exists(c)), "gh"))
+
 def gh_upload(local_path, remote_name):
     """PUT al repo público (vía gh CLI) y devuelve la URL raw."""
     with open(local_path, "rb") as f:
         content_b64 = base64.b64encode(f.read()).decode()
     remote_path = f"tastings/{remote_name}"
     sha = None
-    probe = subprocess.run(["gh", "api", f"/repos/{REPO}/contents/{remote_path}"],
+    probe = subprocess.run([GH, "api", f"/repos/{REPO}/contents/{remote_path}"],
                            capture_output=True, text=True)
     if probe.returncode == 0:
         try:    sha = json.loads(probe.stdout).get("sha")
@@ -458,7 +466,7 @@ def gh_upload(local_path, remote_name):
     # en silencio. Por stdin no hay limite de tamano.
     body = {"message": f"Add tasting photo {remote_name}", "content": content_b64}
     if sha: body["sha"] = sha
-    args = ["gh", "api", "--method", "PUT", f"/repos/{REPO}/contents/{remote_path}",
+    args = [GH, "api", "--method", "PUT", f"/repos/{REPO}/contents/{remote_path}",
             "--input", "-"]
     r = subprocess.run(args, input=json.dumps(body), capture_output=True, text=True)
     if r.returncode != 0:
@@ -566,14 +574,14 @@ def gh_put(local_path, remote_path):
     with open(local_path, "rb") as f:
         content_b64 = base64.b64encode(f.read()).decode()
     sha = None
-    probe = subprocess.run(["gh", "api", f"/repos/{REPO}/contents/{remote_path}"],
+    probe = subprocess.run([GH, "api", f"/repos/{REPO}/contents/{remote_path}"],
                            capture_output=True, text=True)
     if probe.returncode == 0:
         try: sha = json.loads(probe.stdout).get("sha")
         except Exception: sha = None
     body = {"message": f"Add {remote_path}", "content": content_b64}
     if sha: body["sha"] = sha
-    r = subprocess.run(["gh", "api", "--method", "PUT", f"/repos/{REPO}/contents/{remote_path}",
+    r = subprocess.run([GH, "api", "--method", "PUT", f"/repos/{REPO}/contents/{remote_path}",
                         "--input", "-"], input=json.dumps(body), capture_output=True, text=True)
     if r.returncode != 0:
         raise RuntimeError(f"gh upload failed: {r.stderr.strip()[:300]}")
@@ -741,6 +749,33 @@ def main():
     if s.get("last_date") == today:
         print(f"Ya se publicó hoy ({today}) — nada que hacer.")
         return
+    # Guardia anti-duplicados entre ordenadores (5-oct-2026): solo publica el Mac
+    # designado y nunca si el feed REAL ya tiene un post de hoy o ese mismo texto.
+    # Cubre todos los caminos de post (especial, foto real, palacio, entorno): todos
+    # salen por este unico punto. Si para, no sale ni post ni story.
+    ensure_creds()
+    ok, why = ig_guard.host_ok()
+    if not ok:
+        print(f"⛔ GUARD host: {why}. No publico.")
+        return
+    why = ig_guard.feed_block(IGID, TOK, None if do_real else cap, base=BASE)
+    if why:
+        print(f"⛔ GUARD feed: {why}. No publico.")
+        if not do_real and pool in ("palace", "surround") and "mismo texto" in why:
+            # La tarjeta ya salio (desde otro ordenador): cuenta para los 360 dias y se
+            # avanza, asi la franja siguiente coge otra. last_date NO se marca.
+            if pool == "palace":
+                s["palace_idx"] = pick_idx + 1
+            else:
+                s["surround_idx"] = pick_idx + 1
+            s["post"] += 1
+            save_state(s)
+            if REG_OK:
+                try:
+                    REG.record(today, "post", f"posts/{pf}")
+                except Exception as e:
+                    print(f"⚠️  No se pudo anotar el historial de imagenes: {e}")
+        return
     # WHY: el 2-oct-2026 el post fallo en 3 franjas y CADA franja publico una
     # story nueva (s63, s64, s65), porque `last_date` solo se marca con el post OK.
     # Ahora: (1) preflight de las dos URLs ANTES de publicar nada, (2) una sola
@@ -767,7 +802,7 @@ def main():
             url = gh_upload(real_path, f"{base}-{h}{ext.lower()}")
             time.sleep(5)  # CDN catch-up
             pr = publish_image(url, caption=real_cap)
-            if pr.get("permalink"):
+            if pr.get("permalink") or pr.get("id"):  # WHY: id basta, si no se publicaba TAMBIEN la marca
                 is_real = True; cap = real_cap; post_url = url
             else:
                 print("Foto real falló, fallback a marca:", json.dumps(pr)[:200])
@@ -778,7 +813,7 @@ def main():
     else:
         pr = publish_image(post_url, caption=cap)
 
-    post_ok = bool(pr.get("permalink"))
+    post_ok = bool(pr.get("permalink") or pr.get("id"))  # WHY: id basta; sin el, la franja siguiente republicaria
     if not post_ok:
         sr = {"error": "story no publicada: el post ha fallado (se reintenta en la siguiente franja)"}
     elif s.get("story_date") == today:
