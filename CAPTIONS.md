@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 189 SURROUNDINGS POSTS
+## 191 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1289,6 +1289,20 @@ Dos copas al sol de la tarde y racimos recién cortados. 🍷
 Rioja o Ribera, la eterna conversación entre amantes del vino. En Haro la resolvemos a nuestra manera: probando.
 Reserva en el link de la bio.
 #PalacioDeManzanos #VinoDeRioja #RiojaORibera #Haro #LaRioja #Enoturismo #WineLovers #CataDeVinos
+
+### s115 · Pinchos en la barra (`s115-pinchos-barra.jpg`)
+Una barra llena de pinchos y la noche por delante. 🍢
+En Haro se sale de pinchos por La Herradura: un bocado y un vino en cada bar, a pocos pasos unos de otros.
+Al terminar, la vuelta a casa es un paseo corto hasta el palacio.
+Reserva en el link de la bio.
+#PalacioDeManzanos #LaHerradura #Haro #Pinchos #LaRioja #Gastronomia #Enoturismo #VinoDeRioja
+
+### s117 · Las agujas de Burgos (`s117-catedral-burgos.jpg`)
+Las agujas góticas de la catedral de Burgos sobre los tejados de la ciudad. ⛪
+Patrimonio de la Humanidad y una excursión de un día perfecta desde Haro.
+Por la mañana, gótico; por la noche, de vuelta al Rioja.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Burgos #CatedralDeBurgos #Haro #LaRioja #Escapada #Enoturismo #ViajarPorEspaña
 
 
 
