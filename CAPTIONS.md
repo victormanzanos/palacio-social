@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 191 SURROUNDINGS POSTS
+## 197 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1303,6 +1303,48 @@ Patrimonio de la Humanidad y una excursión de un día perfecta desde Haro.
 Por la mañana, gótico; por la noche, de vuelta al Rioja.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Burgos #CatedralDeBurgos #Haro #LaRioja #Escapada #Enoturismo #ViajarPorEspaña
+
+### s118 · Nieve en Valdezcaray (`s118-valdezcaray-nieve.jpg`)
+Valdezcaray con nieve y cielo azul, bajo el pico San Lorenzo. ⛷️
+Pistas y telesillas en la Sierra de la Demanda, a una hora de Haro.
+Esquí por la mañana, Rioja junto al fuego por la tarde.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Valdezcaray #Ezcaray #SierraDeLaDemanda #Haro #LaRioja #NieveYVino #Escapada
+
+### s119 · Añadas que esperan (`s119-anadas-calado.jpg`)
+Botellas cubiertas de polvo, tumbadas en un botellero de madera. 🍷
+Así duermen las añadas que el tiempo convierte en leyenda.
+Elegir cosecha en Rioja es casi un arte: aquí te contamos cómo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Rioja #Añadas #VinoDeRioja #Haro #LaRioja #Enoturismo #Calados
+
+### s120 · La viña roja de Briñas (`s120-vina-roja-brinas.jpg`)
+Rojos, naranjas y amarillos: el otoño pinta los viñedos junto a Briñas. 🍂
+Con el pueblo y el Ebro al fondo, a las afueras de Haro.
+Pocas semanas al año, y merece el viaje.
+Reserva en el link de la bio.
+#PalacioDeManzanos #ViñaRoja #Otoño #Briñas #Haro #LaRioja #RiojaAlta #Enoturismo
+
+### s121 · Rioja con estrella (`s121-alta-cocina-rioja.jpg`)
+La Rioja también se disfruta con estrella Michelin. ⭐
+Menús degustación de emplatado minimalista y producto de la tierra.
+Una ruta gastronómica con Haro como punto de partida.
+Reserva en el link de la bio.
+#PalacioDeManzanos #EstrellaMichelin #Gastronomía #LaRioja #Haro #RiojaAlta #Enoturismo #Foodie
+
+### s122 · Burbujas de Rioja (`s122-espumoso-brindis.jpg`)
+Burbujas finas en copa flauta: el brindis también puede ser de Rioja. 🥂
+Para Navidad y Nochevieja, un espumoso con denominación propia.
+Celebra las fiestas con tu grupo en Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #EspumosoDeRioja #Rioja #Navidad #Nochevieja #Haro #LaRioja #Brindis
+
+### s123 · El oficio, en bronce (`s123-bronce-oficio-vino.jpg`)
+Un artesano del vino en bronce, a tamaño natural, en el casco antiguo de Haro. 🗿
+Homenaje a los oficios que hicieron grande al Rioja.
+Pasea Haro y descubre su historia en cada esquina.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Haro #LaRioja #CascoAntiguo #CulturaDelVino #RiojaAlta #Enoturismo #Escapada
 
 
 
