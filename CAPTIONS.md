@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 197 SURROUNDINGS POSTS
+## 201 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1354,6 +1354,34 @@ Reserva en el link de la bio.
 ---
 
 
+### s124 · Setas de otoño (`s124-setas-otono.jpg`)
+Cesta llena de boletus recién cogidos. 🍄
+El otoño en La Rioja también se busca en el monte: setas, castañas y cocina de temporada.
+Una escapada de sabores con Haro como base.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Setas #Boletus #Otoño #LaRioja #Haro #Gastronomía #EscapadaRural
+
+### s125 · Barricas en silencio (`s125-barricas-calado.jpg`)
+Filas de barricas de roble, durmiendo el vino en la penumbra. 🍷
+Roble americano o francés: cada madera deja su huella en el Rioja.
+Visita un calado en Haro y entiende la crianza desde dentro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Barricas #Crianza #VinoDeRioja #Haro #RiojaAlta #Enoturismo #Bodegas
+
+### s126 · Queso, uvas y un tinto (`s126-queso-y-tinto.jpg`)
+Un queso cremoso, uvas negras y una copa de tinto. 🧀
+El maridaje más sencillo suele ser el que mejor funciona.
+Tarde de quesos y vino de Rioja con tu grupo en Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Maridaje #QuesoYVino #VinoDeRioja #Haro #LaRioja #Enoturismo #Foodie
+
+### s128 · El color del clarete (`s128-clarete-copas.jpg`)
+Del rosa pálido al rubí claro: el clarete es otra forma de beber Rioja. 🍷
+Fresco, ligero y con mucha tradición en la zona.
+Pídelo en los bares de Haro y descubre la gama de color.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Clarete #Rosado #VinoDeRioja #Haro #LaRioja #RiojaAlta #Enoturismo
+
 ### px01 · Viñedos y Sierra (`px-vinedos-sierra.jpg`)
 Viñedos hasta donde alcanza la vista, con la sierra al fondo. 🍇
 El paisaje que rodea tu escapada al Palacio, en pleno corazón de Rioja.
@@ -1875,7 +1903,7 @@ El norte, en estado puro.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
 
-## 242 STORIES
+## 243 STORIES
 
 (Captions cortos — las stories admiten poco texto. Hashtag opcional.)
 
@@ -2620,6 +2648,9 @@ Camino entre arboles
 
 ### pz042st · `px4-sbosque1-19236781-story.jpg`
 Hojas en el suelo, otono en el norte
+
+### s127st · `s127-sacacorchos-briones-story.jpg`
+El sacacorchos, pequeño héroe del vino · Museo de la Cultura del Vino, Briones
 
 ## DEFAULT CAPTIONS para fotos reales (drop folder)
 
