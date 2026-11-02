@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 201 SURROUNDINGS POSTS
+## 204 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1381,6 +1381,27 @@ Fresco, ligero y con mucha tradición en la zona.
 Pídelo en los bares de Haro y descubre la gama de color.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Clarete #Rosado #VinoDeRioja #Haro #LaRioja #RiojaAlta #Enoturismo
+
+### s129 · Chuletillas al sarmiento (`s129-chuletillas-sarmiento.jpg`)
+Chuletillas de cordero, pimientos asados y una pizca de sal gorda. 🔥
+En La Rioja se hacen al sarmiento: la brasa de la poda de la viña.
+Un almuerzo de grupo en Haro no necesita mucho más, solo un buen tinto.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Chuletillas #GastronomiaRiojana #VinoDeRioja #Haro #LaRioja #Enoturismo #Foodie
+
+### s130 · Racimos de viura (`s130-viura-racimos.jpg`)
+Racimos de uva blanca dorándose al sol de la tarde. 🍇
+La viura es la uva blanca más plantada de Rioja.
+De ella salen blancos frescos y también blancos con crianza en barrica.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Viura #VinoBlanco #VinoDeRioja #Vinedos #Haro #LaRioja #Enoturismo
+
+### s131 · Un brindis por el año nuevo (`s131-brindis-nochevieja.jpg`)
+Copas en alto, confeti dorado y los tuyos alrededor. 🥂
+Despedir el año en La Rioja tiene otro sabor, con vino de aquí y sin prisas.
+Nochevieja en grupo, con espacio para todos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Nochevieja #FinDeAño #Brindis #VinoDeRioja #Haro #LaRioja #EscapadaEnGrupo
 
 ### px01 · Viñedos y Sierra (`px-vinedos-sierra.jpg`)
 Viñedos hasta donde alcanza la vista, con la sierra al fondo. 🍇
