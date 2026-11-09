@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 204 SURROUNDINGS POSTS
+## 209 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1923,6 +1923,41 @@ Cala de roca y agua fria.
 El norte, en estado puro.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Haro #LaRioja #Rioja #Enoturismo #VisitSpain #WineCountry
+
+### s132 · San Vicente de la Sonsierra (`s132-san-vicente-sonsierra.jpg`)
+San Vicente de la Sonsierra: la iglesia y el castillo en lo alto del cerro, el pueblo a sus pies. ⛪
+Cada Semana Santa salen aquí los Picaos, un rito del siglo XVI que se vive en silencio.
+Está a menos de media hora de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #SanVicenteDeLaSonsierra #SemanaSanta #Picaos #Haro #LaRioja #QueVerEnLaRioja #Enoturismo
+
+### s133 · Vía Láctea (`s133-via-lactea-arbol.jpg`)
+Noche cerrada, un árbol solo y la Vía Láctea encima. ✨
+En invierno, en La Rioja hay más de doce horas de oscuridad para mirar arriba.
+El observatorio de Ocón, gratuito y abierto todo el año, queda a algo más de una hora de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Astroturismo #Starlight #ViaLactea #Haro #LaRioja #EscapadaRural #TurismoRioja
+
+### s134 · Aceituna (`s134-aceitunas-cosecha.jpg`)
+Una aceituna verde, otra que ya vira a morado. 🫒
+Cuando las cepas se quedan desnudas, en La Rioja empieza la segunda cosecha del año.
+La redondilla es su variedad emblema, y hay trujales que se visitan a menos de una hora de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #AceiteDeLaRioja #Aceituna #AOVE #GastronomiaRiojana #Haro #LaRioja #Enoturismo
+
+### s135 · Cata a ciegas (`s135-cata-a-ciegas.jpg`)
+Copas numeradas, una ficha de cata y una pregunta: ¿cuál es el gran reserva? 🍷
+Sin etiqueta no hay prejuicio, solo lo que hay en la copa.
+Prueba con el mismo Rioja en crianza, reserva y gran reserva. Quien sirve no cata.
+Reserva en el link de la bio.
+#PalacioDeManzanos #CataACiegas #CataDeVinos #VinoDeRioja #Haro #LaRioja #Enoturismo #PlanConAmigos
+
+### s136 · Elvillar en otoño (`s136-elvillar-otono.jpg`)
+Cepas doradas y la Sierra de Cantabria de telón de fondo. 🍂
+Es Elvillar, en Rioja Alavesa, la subzona que queda a unos 25 minutos de Haro.
+Alta, Alavesa y Oriental: tres paisajes, una misma denominación.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RiojaAlavesa #Elvillar #SierraDeCantabria #VinedosEnOtono #Haro #LaRioja #Enoturismo
 
 ## 243 STORIES
 
