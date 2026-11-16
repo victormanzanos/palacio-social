@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 209 SURROUNDINGS POSTS
+## 213 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1958,6 +1958,34 @@ Es Elvillar, en Rioja Alavesa, la subzona que queda a unos 25 minutos de Haro.
 Alta, Alavesa y Oriental: tres paisajes, una misma denominación.
 Reserva en el link de la bio.
 #PalacioDeManzanos #RiojaAlavesa #Elvillar #SierraDeCantabria #VinedosEnOtono #Haro #LaRioja #Enoturismo
+
+### s137 · Patatas a la riojana (`s137-patatas-riojana.jpg`)
+Patatas, chorizo y pimentón en un plato hondo. 🥔
+Es el guiso de toda la vida en La Rioja: cuchara, pan y un tinto joven al lado.
+En los bares de Haro lo encuentras en el menú del día en cuanto refresca.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PatatasALaRiojana #GastronomiaRiojana #CocinaDeCuchara #Haro #LaRioja #VinoDeRioja #Enoturismo
+
+### s138 · Un Rioja para regalar (`s138-vino-regalo.jpg`)
+Una botella, una bolsa de papel y un racimo al lado. 🎁
+Pocas cosas se regalan mejor que un Rioja elegido en la propia bodega.
+En Haro, el Barrio de la Estación reúne varias bodegas centenarias a pocos pasos.
+Reserva en el link de la bio.
+#PalacioDeManzanos #VinoDeRioja #RegalosConVino #BarrioDeLaEstacion #Haro #LaRioja #Enoturismo #Navidad
+
+### s139 · Roscón de Reyes (`s139-roscon-reyes.jpg`)
+Fruta escarchada, azúcar glas y una sorpresa escondida dentro. 👑
+La mañana del 6 de enero, el roscón llega a todas las mesas.
+A quien le toque la figura, corona; a quien le toque el haba, paga el roscón.
+Reserva en el link de la bio.
+#PalacioDeManzanos #RosconDeReyes #DiaDeReyes #NavidadEnLaRioja #Haro #LaRioja #EscapadaEnFamilia #TradicionesEspanolas
+
+### s140 · Monasterio de Valvanera (`s140-valvanera-arcos.jpg`)
+Arcos de piedra abiertos a un valle de hayas y robles. ⛰️
+Es el monasterio de Valvanera, en la Sierra de la Demanda, casa de la patrona de La Rioja.
+Una excursión de algo más de una hora desde Haro, con carretera de montaña al final.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Valvanera #SierraDeLaDemanda #Monasterio #Haro #LaRioja #QueVerEnLaRioja #TurismoRioja
 
 ## 243 STORIES
 
