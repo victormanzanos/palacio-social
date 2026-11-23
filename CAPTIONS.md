@@ -588,7 +588,7 @@ Haro entero al otro lado de la ventana.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Rioja #Haro #CasaCompleta #LuxuryRental #TravelSpain #LaRioja
 
-## 213 SURROUNDINGS POSTS
+## 229 SURROUNDINGS POSTS
 
 *Posts del entorno — Haro, La Rioja, Ruta Norte, bodegas, vendimia. Se intercalan 1 de cada 2 con los POSTS del palacio. Imágenes del blog de palaciodemanzanos.com (mismo fotógrafo, mismo estilo).*
 
@@ -1986,6 +1986,34 @@ Es el monasterio de Valvanera, en la Sierra de la Demanda, casa de la patrona de
 Una excursión de algo más de una hora desde Haro, con carretera de montaña al final.
 Reserva en el link de la bio.
 #PalacioDeManzanos #Valvanera #SierraDeLaDemanda #Monasterio #Haro #LaRioja #QueVerEnLaRioja #TurismoRioja
+
+### s141 · Calado de barricas en invierno (`s141-calado-barricas-invierno.jpg`)
+Hileras de barricas bajo una bóveda de piedra, en silencio. 🍷
+Mientras fuera hace frío, el vino de Rioja descansa en roble a temperatura constante.
+Los calados de Haro guardan ese tiempo lento: se visitan, se huelen y se entienden.
+Reserva en el link de la bio.
+#PalacioDeManzanos #Calados #Barricas #VinoDeRioja #Haro #LaRioja #Enoturismo #BodegasDeRioja
+
+### s142 · El pincho de champiñón (`s142-pincho-champinon-laurel.jpg`)
+Tres champiñones a la plancha, una gamba encima y pan debajo. 🍄
+Es el pincho más famoso de la calle Laurel, en Logroño, y se come de un bocado.
+Una tarde de pinchos y vinos que queda a media hora larga de Haro.
+Reserva en el link de la bio.
+#PalacioDeManzanos #CalleLaurel #Pinchos #Logrono #GastronomiaRiojana #Haro #LaRioja #EscapadaGastronomica
+
+### s143 · Salinas de Añana (`s143-salinas-anana.jpg`)
+Eras de sal escalonadas sobre canales de madera, en mitad del valle. 🧂
+Es el Valle Salado de Añana, en Álava, donde se hace sal desde hace siglos.
+Una excursión de menos de una hora desde Haro, distinta a todo lo demás.
+Reserva en el link de la bio.
+#PalacioDeManzanos #ValleSalado #Anana #Alava #ExcursionesDesdeHaro #Haro #LaRioja #QueVerCercaDeHaro
+
+### s144 · Peras al vino tinto (`s144-peras-al-vino.jpg`)
+Peras cocidas en vino tinto hasta que cogen este color. 🍐
+Es uno de los postres de siempre en La Rioja, con canela y un poco de azúcar.
+El final perfecto para una cena larga con el grupo.
+Reserva en el link de la bio.
+#PalacioDeManzanos #PerasAlVino #PostresTipicos #GastronomiaRiojana #VinoDeRioja #Haro #LaRioja #CocinaRiojana
 
 ## 243 STORIES
 
